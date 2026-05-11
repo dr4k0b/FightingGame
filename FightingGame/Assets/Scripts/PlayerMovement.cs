@@ -3,30 +3,44 @@ using UnityEngine.InputSystem;
 
 public class PlayerMovement : MonoBehaviour
 {
-    public float maxSpeed;
-    public float acceleration;
-    public float deacceleration;
+    PlayerInformation p;
 
     private Vector2 moveInput;
     private Rigidbody2D rb;
     void Start()
     {
         rb = GetComponent<Rigidbody2D>();
+        p = GetComponent<PlayerInformation>();
+        p.canMove = true;   
     }
-    void Update()
+    void FixedUpdate()
     {
-        movePlayer();
+        if (p.canMove)
+        {
+            movePlayer();
+        }
+        else
+        {
+            rb.linearVelocityX = 0f;
+        }
     }
 
     public void movePlayer()
     {
         if (Mathf.Abs(moveInput.x) > 0.01f)
         {
-            rb.linearVelocityX += acceleration * (moveInput.x / Mathf.Abs(moveInput.x));
+            if (Mathf.Abs(rb.linearVelocityX) < p.maxSpeed * Mathf.Abs(moveInput.x))
+            {
+                rb.linearVelocityX += p.acceleration * (moveInput.x / Mathf.Abs(moveInput.x)) ;
+            }
+            else
+            {
+                rb.linearVelocityX = p.maxSpeed * moveInput.x;
+            }
         }
-        else if (Mathf.Abs(rb.linearVelocityX) > deacceleration)
+        else if (Mathf.Abs(rb.linearVelocityX) > p.deacceleration)
         {
-            rb.linearVelocityX -= deacceleration * (rb.linearVelocityX / Mathf.Abs(rb.linearVelocityX));
+            rb.linearVelocityX -= p.deacceleration * (rb.linearVelocityX / Mathf.Abs(rb.linearVelocityX));
         }
         else
         {
