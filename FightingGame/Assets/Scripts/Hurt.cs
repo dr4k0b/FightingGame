@@ -5,6 +5,7 @@ public class Hurt : MonoBehaviour
 {
     public PlayerInformation PlayerInformation;
     public float damage;
+    public bool isProjectile;
     void Start()
     {
 
@@ -33,13 +34,19 @@ public class Hurt : MonoBehaviour
             return;
         }
 
-        if (!collision.GetComponent<PlayerInformation>().isBlocking)
+        if (!hit.GetComponent<PlayerInformation>().isBlocking)
         {
-            collision.GetComponent<PlayerHealth>().TakeDamage(damage);
+            hit.GetComponent<PlayerHealth>().TakeDamage(damage);
         }
-        else
+        else 
         {
-            collision.GetComponent<PlayerBlocking>().Succesfull();
+            if (isProjectile)
+            {
+                Destroy(gameObject.transform.parent.gameObject);
+                return;
+            }
+
+            hit.GetComponent<PlayerBlocking>().Succesfull();
             PlayerInformation.GetComponent<PlayerAttack>().Parried();
         }
     }

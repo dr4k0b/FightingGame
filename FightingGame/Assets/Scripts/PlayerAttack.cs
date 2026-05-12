@@ -14,7 +14,7 @@ public class PlayerAttack : MonoBehaviour
     }
     public void Attack()
     {
-        if (!p.attacking && !p.stunned)
+        if (!p.attacking && !p.stunned && !p.inSpecial)
         {
             StartCoroutine(AttackDelay());
         }
@@ -36,6 +36,7 @@ public class PlayerAttack : MonoBehaviour
         armAttack.SetActive(false);
 
         p.attacking = false;
+        p.inSpecial = false;
         p.canMove = false;
 
         yield return new WaitForSeconds(p.stunnedTime);

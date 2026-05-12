@@ -1,0 +1,1170 @@
+fileFormatVersion: 2
+guid: 1beaefd3dd296df4cb60f589dcedc049
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6485275810391663044
+    second: Milton_Idle_sprite_sheet_0
+  - first:
+      213: -131995294340203407
+    second: Milton_Idle_sprite_sheet_1
+  - first:
+      213: -2041727606354023262
+    second: Milton_Idle_sprite_sheet_2
+  - first:
+      213: 7214619649395933390
+    second: Milton_Idle_sprite_sheet_3
+  - first:
+      213: 8907723533375123214
+    second: Milton_Idle_sprite_sheet_4
+  - first:
+      213: 2395178837076536620
+    second: Milton_Idle_sprite_sheet_5
+  - first:
+      213: -5762690889021134919
+    second: Milton_Idle_sprite_sheet_6
+  - first:
+      213: -816123011384869422
+    second: Milton_Idle_sprite_sheet_7
+  - first:
+      213: 9122560955482533191
+    second: Milton_Idle_sprite_sheet_8
+  - first:
+      213: 2899376534660654592
+    second: Milton_Idle_sprite_sheet_9
+  - first:
+      213: 2977607045232428758
+    second: Milton_Idle_sprite_sheet_10
+  - first:
+      213: 2268995893918408277
+    second: Milton_Idle_sprite_sheet_11
+  - first:
+      213: 6815350255785666409
+    second: Milton_Idle_sprite_sheet_12
+  - first:
+      213: 4773733837419671604
+    second: Milton_Idle_sprite_sheet_13
+  - first:
+      213: -1788970027506146769
+    second: Milton_Idle_sprite_sheet_14
+  - first:
+      213: 8289719684853360774
+    second: Milton_Idle_sprite_sheet_15
+  - first:
+      213: 6883175915728211146
+    second: Milton_Idle_sprite_sheet_16
+  - first:
+      213: 8128272927529383600
+    second: Milton_Idle_sprite_sheet_17
+  - first:
+      213: 927151962877360878
+    second: Milton_Idle_sprite_sheet_18
+  - first:
+      213: -623479555735359206
+    second: Milton_Idle_sprite_sheet_19
+  - first:
+      213: -205903127766935636
+    second: Milton_Idle_sprite_sheet_20
+  - first:
+      213: -3706309699634614838
+    second: Milton_Idle_sprite_sheet_21
+  - first:
+      213: -8570254758100989039
+    second: Milton_Idle_sprite_sheet_22
+  - first:
+      213: -6806727882272252560
+    second: Milton_Idle_sprite_sheet_23
+  - first:
+      213: -5178420675865789010
+    second: Milton_Idle_sprite_sheet_24
+  - first:
+      213: -7503224089793629515
+    second: Milton_Idle_sprite_sheet_25
+  - first:
+      213: -3323543869807909075
+    second: Milton_Idle_sprite_sheet_26
+  - first:
+      213: -8647913860257154408
+    second: Milton_Idle_sprite_sheet_27
+  - first:
+      213: 3181138078064025963
+    second: Milton_Idle_sprite_sheet_28
+  - first:
+      213: -1624052788465829577
+    second: Milton_Idle_sprite_sheet_29
+  - first:
+      213: -4185782531423734316
+    second: Milton_Idle_sprite_sheet_30
+  - first:
+      213: 2420479307765614269
+    second: Milton_Idle_sprite_sheet_31
+  - first:
+      213: -73372975607898740
+    second: Milton_Idle_sprite_sheet_32
+  - first:
+      213: -4982616854293032062
+    second: Milton_Idle_sprite_sheet_33
+  - first:
+      213: 4266940100747613156
+    second: Milton_Idle_sprite_sheet_34
+  - first:
+      213: 3554345711977959438
+    second: Milton_Idle_sprite_sheet_35
+  - first:
+      213: 2494262887355170103
+    second: Milton_Idle_sprite_sheet_36
+  - first:
+      213: 2625886551960848399
+    second: Milton_Idle_sprite_sheet_37
+  - first:
+      213: -3976357443825515639
+    second: Milton_Idle_sprite_sheet_38
+  - first:
+      213: -8215336060945691154
+    second: Milton_Idle_sprite_sheet_39
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Milton_Idle_sprite_sheet_0
+      rect:
+        serializedVersion: 2
+        x: 630
+        y: 5559
+        width: 624
+        height: 692
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c124d43df3500a50800000000000000
+      internalID: 6485275810391663044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Milton_Idle_sprite_sheet_1
+      rect:
+        serializedVersion: 2
+        x: 2550
+        y: 5559
+        width: 624
+        height: 692
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17c34d8aafe0b2ef0800000000000000
+      internalID: -131995294340203407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Milton_Idle_sprite_sheet_2
+      rect:
+        serializedVersion: 2
+        x: 4470
+        y: 5559
+        width: 624
+        height: 692
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ace82f3f835aa3e0800000000000000
+      internalID: -2041727606354023262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Milton_Idle_sprite_sheet_3
+      rect:
+        serializedVersion: 2
+        x: 6390
+        y: 5559
+        width: 624
+        height: 691
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec04ccfa85a7f1460800000000000000
+      internalID: 7214619649395933390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Milton_Idle_sprite_sheet_4
+      rect:
+        serializedVersion: 2
+        x: 8310
+        y: 5559
+        width: 624
+        height: 691
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0f2634cb579e9b70800000000000000
+      internalID: 8907723533375123214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Milton_Idle_sprite_sheet_5
+      rect:
+        serializedVersion: 2
+        x: 10230
+        y: 5559
+        width: 624
+        height: 690
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2dea7d46726d3120800000000000000
+      internalID: 2395178837076536620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Milton_Idle_sprite_sheet_6
+      rect:
+        serializedVersion: 2
+        x: 12150
+        y: 5559
+        width: 624
+        height: 689
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b7e3812b2fc600b0800000000000000
+      internalID: -5762690889021134919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Milton_Idle_sprite_sheet_7
+      rect:
+        serializedVersion: 2
+        x: 630
+        y: 4479
+        width: 624
+        height: 689
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ddf165f17c8ca4f0800000000000000
+      internalID: -816123011384869422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Milton_Idle_sprite_sheet_8
+      rect:
+        serializedVersion: 2
+        x: 2550
+        y: 4479
+        width: 624
+        height: 688
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74d62690bd8d99e70800000000000000
+      internalID: 9122560955482533191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Milton_Idle_sprite_sheet_9
+      rect:
+        serializedVersion: 2
+        x: 4470
+        y: 4479
+        width: 624
+        height: 687
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0062d82c897ac3820800000000000000
+      internalID: 2899376534660654592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Milton_Idle_sprite_sheet_10
+      rect:
+        serializedVersion: 2
+        x: 6390
+        y: 4479
+        width: 624
+        height: 686
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d687c3e4d5925920800000000000000
+      internalID: 2977607045232428758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Milton_Idle_sprite_sheet_11
+      rect:
+        serializedVersion: 2
+        x: 8310
+        y: 4479
+        width: 624
+        height: 686
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55e93dd6eb71d7f10800000000000000
+      internalID: 2268995893918408277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Milton_Idle_sprite_sheet_12
+      rect:
+        serializedVersion: 2
+        x: 10230
+        y: 4479
+        width: 624
+        height: 685
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 967e8f7c2fcf49e50800000000000000
+      internalID: 6815350255785666409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Milton_Idle_sprite_sheet_13
+      rect:
+        serializedVersion: 2
+        x: 12150
+        y: 4479
+        width: 624
+        height: 684
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43079aff1a5bf3240800000000000000
+      internalID: 4773733837419671604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Milton_Idle_sprite_sheet_14
+      rect:
+        serializedVersion: 2
+        x: 630
+        y: 3399
+        width: 624
+        height: 684
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f22eca40d3d4c27e0800000000000000
+      internalID: -1788970027506146769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Milton_Idle_sprite_sheet_15
+      rect:
+        serializedVersion: 2
+        x: 2550
+        y: 3399
+        width: 624
+        height: 683
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6886f3fe1200b0370800000000000000
+      internalID: 8289719684853360774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Milton_Idle_sprite_sheet_16
+      rect:
+        serializedVersion: 2
+        x: 4470
+        y: 3399
+        width: 624
+        height: 683
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: acc0187d604f58f50800000000000000
+      internalID: 6883175915728211146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Milton_Idle_sprite_sheet_17
+      rect:
+        serializedVersion: 2
+        x: 6390
+        y: 3399
+        width: 624
+        height: 683
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b630d2892d6dc070800000000000000
+      internalID: 8128272927529383600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Milton_Idle_sprite_sheet_18
+      rect:
+        serializedVersion: 2
+        x: 8310
+        y: 3399
+        width: 624
+        height: 683
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eea7c184cc7eddc00800000000000000
+      internalID: 927151962877360878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Milton_Idle_sprite_sheet_19
+      rect:
+        serializedVersion: 2
+        x: 10230
+        y: 3399
+        width: 624
+        height: 683
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a11fcabb5a4f857f0800000000000000
+      internalID: -623479555735359206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Milton_Idle_sprite_sheet_20
+      rect:
+        serializedVersion: 2
+        x: 12150
+        y: 3399
+        width: 624
+        height: 683
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca75f4b323c742df0800000000000000
+      internalID: -205903127766935636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Milton_Idle_sprite_sheet_21
+      rect:
+        serializedVersion: 2
+        x: 630
+        y: 2319
+        width: 624
+        height: 683
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: acda1bd07fa809cc0800000000000000
+      internalID: -3706309699634614838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Milton_Idle_sprite_sheet_22
+      rect:
+        serializedVersion: 2
+        x: 2550
+        y: 2319
+        width: 624
+        height: 683
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19b0ac464b6501980800000000000000
+      internalID: -8570254758100989039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Milton_Idle_sprite_sheet_23
+      rect:
+        serializedVersion: 2
+        x: 4470
+        y: 2319
+        width: 624
+        height: 683
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07d5a6efd05a981a0800000000000000
+      internalID: -6806727882272252560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Milton_Idle_sprite_sheet_24
+      rect:
+        serializedVersion: 2
+        x: 6390
+        y: 2319
+        width: 624
+        height: 684
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ead3b7de4dd8228b0800000000000000
+      internalID: -5178420675865789010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Milton_Idle_sprite_sheet_25
+      rect:
+        serializedVersion: 2
+        x: 8310
+        y: 2319
+        width: 624
+        height: 684
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b272b1b1713fd790800000000000000
+      internalID: -7503224089793629515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Milton_Idle_sprite_sheet_26
+      rect:
+        serializedVersion: 2
+        x: 10230
+        y: 2319
+        width: 624
+        height: 685
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d272ca4957660e1d0800000000000000
+      internalID: -3323543869807909075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Milton_Idle_sprite_sheet_27
+      rect:
+        serializedVersion: 2
+        x: 12150
+        y: 2319
+        width: 624
+        height: 685
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89af137a9207cf780800000000000000
+      internalID: -8647913860257154408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Milton_Idle_sprite_sheet_28
+      rect:
+        serializedVersion: 2
+        x: 630
+        y: 1239
+        width: 624
+        height: 686
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b61a9744a3ca52c20800000000000000
+      internalID: 3181138078064025963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Milton_Idle_sprite_sheet_29
+      rect:
+        serializedVersion: 2
+        x: 2550
+        y: 1239
+        width: 624
+        height: 687
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 739f20fe7943679e0800000000000000
+      internalID: -1624052788465829577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Milton_Idle_sprite_sheet_30
+      rect:
+        serializedVersion: 2
+        x: 4470
+        y: 1239
+        width: 624
+        height: 687
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d5f37307fc19e5c0800000000000000
+      internalID: -4185782531423734316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Milton_Idle_sprite_sheet_31
+      rect:
+        serializedVersion: 2
+        x: 6390
+        y: 1239
+        width: 624
+        height: 688
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db68d8d2b15479120800000000000000
+      internalID: 2420479307765614269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Milton_Idle_sprite_sheet_32
+      rect:
+        serializedVersion: 2
+        x: 8310
+        y: 1239
+        width: 624
+        height: 689
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8d17ccdaa35bfef0800000000000000
+      internalID: -73372975607898740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Milton_Idle_sprite_sheet_33
+      rect:
+        serializedVersion: 2
+        x: 10230
+        y: 1239
+        width: 624
+        height: 690
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2835dfbbe503adab0800000000000000
+      internalID: -4982616854293032062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Milton_Idle_sprite_sheet_34
+      rect:
+        serializedVersion: 2
+        x: 12150
+        y: 1239
+        width: 624
+        height: 690
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e35ee61a67373b30800000000000000
+      internalID: 4266940100747613156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Milton_Idle_sprite_sheet_35
+      rect:
+        serializedVersion: 2
+        x: 630
+        y: 159
+        width: 624
+        height: 691
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e001163e792935130800000000000000
+      internalID: 3554345711977959438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Milton_Idle_sprite_sheet_36
+      rect:
+        serializedVersion: 2
+        x: 2550
+        y: 159
+        width: 624
+        height: 691
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73dbe3181e66d9220800000000000000
+      internalID: 2494262887355170103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Milton_Idle_sprite_sheet_37
+      rect:
+        serializedVersion: 2
+        x: 4470
+        y: 159
+        width: 624
+        height: 692
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f080a1e08e5017420800000000000000
+      internalID: 2625886551960848399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Milton_Idle_sprite_sheet_38
+      rect:
+        serializedVersion: 2
+        x: 6390
+        y: 159
+        width: 624
+        height: 692
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 983ccc4f8f321d8c0800000000000000
+      internalID: -3976357443825515639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Milton_Idle_sprite_sheet_39
+      rect:
+        serializedVersion: 2
+        x: 8310
+        y: 159
+        width: 624
+        height: 692
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eed00e811634dfd80800000000000000
+      internalID: -8215336060945691154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Milton_Idle_sprite_sheet_0: 6485275810391663044
+      Milton_Idle_sprite_sheet_1: -131995294340203407
+      Milton_Idle_sprite_sheet_10: 2977607045232428758
+      Milton_Idle_sprite_sheet_11: 2268995893918408277
+      Milton_Idle_sprite_sheet_12: 6815350255785666409
+      Milton_Idle_sprite_sheet_13: 4773733837419671604
+      Milton_Idle_sprite_sheet_14: -1788970027506146769
+      Milton_Idle_sprite_sheet_15: 8289719684853360774
+      Milton_Idle_sprite_sheet_16: 6883175915728211146
+      Milton_Idle_sprite_sheet_17: 8128272927529383600
+      Milton_Idle_sprite_sheet_18: 927151962877360878
+      Milton_Idle_sprite_sheet_19: -623479555735359206
+      Milton_Idle_sprite_sheet_2: -2041727606354023262
+      Milton_Idle_sprite_sheet_20: -205903127766935636
+      Milton_Idle_sprite_sheet_21: -3706309699634614838
+      Milton_Idle_sprite_sheet_22: -8570254758100989039
+      Milton_Idle_sprite_sheet_23: -6806727882272252560
+      Milton_Idle_sprite_sheet_24: -5178420675865789010
+      Milton_Idle_sprite_sheet_25: -7503224089793629515
+      Milton_Idle_sprite_sheet_26: -3323543869807909075
+      Milton_Idle_sprite_sheet_27: -8647913860257154408
+      Milton_Idle_sprite_sheet_28: 3181138078064025963
+      Milton_Idle_sprite_sheet_29: -1624052788465829577
+      Milton_Idle_sprite_sheet_3: 7214619649395933390
+      Milton_Idle_sprite_sheet_30: -4185782531423734316
+      Milton_Idle_sprite_sheet_31: 2420479307765614269
+      Milton_Idle_sprite_sheet_32: -73372975607898740
+      Milton_Idle_sprite_sheet_33: -4982616854293032062
+      Milton_Idle_sprite_sheet_34: 4266940100747613156
+      Milton_Idle_sprite_sheet_35: 3554345711977959438
+      Milton_Idle_sprite_sheet_36: 2494262887355170103
+      Milton_Idle_sprite_sheet_37: 2625886551960848399
+      Milton_Idle_sprite_sheet_38: -3976357443825515639
+      Milton_Idle_sprite_sheet_39: -8215336060945691154
+      Milton_Idle_sprite_sheet_4: 8907723533375123214
+      Milton_Idle_sprite_sheet_5: 2395178837076536620
+      Milton_Idle_sprite_sheet_6: -5762690889021134919
+      Milton_Idle_sprite_sheet_7: -816123011384869422
+      Milton_Idle_sprite_sheet_8: 9122560955482533191
+      Milton_Idle_sprite_sheet_9: 2899376534660654592
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

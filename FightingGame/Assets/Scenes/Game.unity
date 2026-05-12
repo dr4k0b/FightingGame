@@ -1180,7 +1180,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: '::'
   player1Character: {fileID: 8144418025246382057, guid: 9a0fa276815d10b4484cce175e3fb066, type: 3}
-  player2Character: {fileID: 8144418025246382057, guid: 9a0fa276815d10b4484cce175e3fb066, type: 3}
+  player2Character: {fileID: 8144418025246382057, guid: 3c8b0a6d1a257d644b29bbb43e429053, type: 3}
   text: {fileID: 360854680}
   gameOver: 0
 --- !u!4 &2075722479

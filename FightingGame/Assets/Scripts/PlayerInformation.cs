@@ -4,6 +4,7 @@ public class PlayerInformation : MonoBehaviour
 {
     public enum Player { Player1, Player2 };
     public Player thisPlayer;
+    public string characterName;
 
     [Header("Attack")]
 
@@ -36,4 +37,12 @@ public class PlayerInformation : MonoBehaviour
     public float blockCooldown;
     public float stunnedTime;
     public bool stunned;
+
+    [Header("Special")]
+
+    public float specialWindUp;
+    public float specialHurt;
+    public float specialCooldown;
+    public float projectileDelay;
+    public bool inSpecial;
 }
