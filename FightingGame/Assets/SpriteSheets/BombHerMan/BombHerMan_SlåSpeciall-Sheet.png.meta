@@ -1,0 +1,689 @@
+fileFormatVersion: 2
+guid: 38a056eb2802c3642a47715a59902859
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4272733473659590884
+    second: "BombHerMan_Sl\xE5Speciall-Sheet_0"
+  - first:
+      213: -8680492348151406379
+    second: "BombHerMan_Sl\xE5Speciall-Sheet_1"
+  - first:
+      213: -3036404845190824527
+    second: "BombHerMan_Sl\xE5Speciall-Sheet_2"
+  - first:
+      213: 8276702288348025302
+    second: "BombHerMan_Sl\xE5Speciall-Sheet_3"
+  - first:
+      213: 6623554980968669955
+    second: "BombHerMan_Sl\xE5Speciall-Sheet_4"
+  - first:
+      213: -2228530685715986068
+    second: "BombHerMan_Sl\xE5Speciall-Sheet_5"
+  - first:
+      213: 7893809285905381116
+    second: "BombHerMan_Sl\xE5Speciall-Sheet_6"
+  - first:
+      213: -6876671797742158418
+    second: "BombHerMan_Sl\xE5Speciall-Sheet_7"
+  - first:
+      213: 6996918237482640519
+    second: "BombHerMan_Sl\xE5Speciall-Sheet_8"
+  - first:
+      213: -348604138584240498
+    second: "BombHerMan_Sl\xE5Speciall-Sheet_9"
+  - first:
+      213: -6963950142263662168
+    second: "BombHerMan_Sl\xE5Speciall-Sheet_10"
+  - first:
+      213: 6859562075021110393
+    second: "BombHerMan_Sl\xE5Speciall-Sheet_11"
+  - first:
+      213: -6723894519782045360
+    second: "BombHerMan_Sl\xE5Speciall-Sheet_12"
+  - first:
+      213: 2988042849609718968
+    second: "BombHerMan_Sl\xE5Speciall-Sheet_13"
+  - first:
+      213: 120303914013603563
+    second: "BombHerMan_Sl\xE5Speciall-Sheet_14"
+  - first:
+      213: 8180836694618257199
+    second: "BombHerMan_Sl\xE5Speciall-Sheet_15"
+  - first:
+      213: -5678667950208377640
+    second: "BombHerMan_Sl\xE5Speciall-Sheet_16"
+  - first:
+      213: 4069593613093555184
+    second: "BombHerMan_Sl\xE5Speciall-Sheet_17"
+  - first:
+      213: -70480301537134552
+    second: "BombHerMan_Sl\xE5Speciall-Sheet_18"
+  - first:
+      213: 7156709270426063903
+    second: "BombHerMan_Sl\xE5Speciall-Sheet_19"
+  - first:
+      213: 1846341391425181628
+    second: "BombHerMan_Sl\xE5Speciall-Sheet_20"
+  - first:
+      213: -7192836233470740692
+    second: "BombHerMan_Sl\xE5Speciall-Sheet_21"
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: "BombHerMan_Sl\xE5Speciall-Sheet_0"
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 0
+        width: 17
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e89665d47ccb4b30800000000000000
+      internalID: 4272733473659590884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "BombHerMan_Sl\xE5Speciall-Sheet_1"
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 0
+        width: 17
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d060f85332b88780800000000000000
+      internalID: -8680492348151406379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "BombHerMan_Sl\xE5Speciall-Sheet_2"
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 0
+        width: 18
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1bd302081e58cd5d0800000000000000
+      internalID: -3036404845190824527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "BombHerMan_Sl\xE5Speciall-Sheet_3"
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 0
+        width: 21
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d195a021e0ccd270800000000000000
+      internalID: 8276702288348025302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "BombHerMan_Sl\xE5Speciall-Sheet_4"
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 0
+        width: 25
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30328ee79289beb50800000000000000
+      internalID: 6623554980968669955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "BombHerMan_Sl\xE5Speciall-Sheet_5"
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 0
+        width: 30
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6947da062ba211e0800000000000000
+      internalID: -2228530685715986068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "BombHerMan_Sl\xE5Speciall-Sheet_6"
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 0
+        width: 30
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf6f11be8b17c8d60800000000000000
+      internalID: 7893809285905381116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "BombHerMan_Sl\xE5Speciall-Sheet_7"
+      rect:
+        serializedVersion: 2
+        x: 454
+        y: 0
+        width: 32
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eadb1a22f672190a0800000000000000
+      internalID: -6876671797742158418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "BombHerMan_Sl\xE5Speciall-Sheet_8"
+      rect:
+        serializedVersion: 2
+        x: 518
+        y: 0
+        width: 31
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 784ea93d01c0a1160800000000000000
+      internalID: 6996918237482640519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "BombHerMan_Sl\xE5Speciall-Sheet_9"
+      rect:
+        serializedVersion: 2
+        x: 582
+        y: 0
+        width: 31
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8e84780262892bf0800000000000000
+      internalID: -348604138584240498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "BombHerMan_Sl\xE5Speciall-Sheet_10"
+      rect:
+        serializedVersion: 2
+        x: 646
+        y: 0
+        width: 33
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a9e7d00e341b5f90800000000000000
+      internalID: -6963950142263662168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "BombHerMan_Sl\xE5Speciall-Sheet_11"
+      rect:
+        serializedVersion: 2
+        x: 710
+        y: 0
+        width: 33
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97cef5c1d5f023f50800000000000000
+      internalID: 6859562075021110393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "BombHerMan_Sl\xE5Speciall-Sheet_12"
+      rect:
+        serializedVersion: 2
+        x: 774
+        y: 0
+        width: 21
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05902391f8defa2a0800000000000000
+      internalID: -6723894519782045360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "BombHerMan_Sl\xE5Speciall-Sheet_13"
+      rect:
+        serializedVersion: 2
+        x: 838
+        y: 0
+        width: 21
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8bc12a0f329a77920800000000000000
+      internalID: 2988042849609718968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "BombHerMan_Sl\xE5Speciall-Sheet_14"
+      rect:
+        serializedVersion: 2
+        x: 902
+        y: 0
+        width: 21
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be6bedbb5c76ba100800000000000000
+      internalID: 120303914013603563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "BombHerMan_Sl\xE5Speciall-Sheet_15"
+      rect:
+        serializedVersion: 2
+        x: 966
+        y: 0
+        width: 18
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f27b33c31ab288170800000000000000
+      internalID: 8180836694618257199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "BombHerMan_Sl\xE5Speciall-Sheet_16"
+      rect:
+        serializedVersion: 2
+        x: 1030
+        y: 0
+        width: 18
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8dc1f6e06915131b0800000000000000
+      internalID: -5678667950208377640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "BombHerMan_Sl\xE5Speciall-Sheet_17"
+      rect:
+        serializedVersion: 2
+        x: 1094
+        y: 0
+        width: 18
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0fbc3a854d91a7830800000000000000
+      internalID: 4069593613093555184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "BombHerMan_Sl\xE5Speciall-Sheet_18"
+      rect:
+        serializedVersion: 2
+        x: 1158
+        y: 0
+        width: 18
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82877370a8a950ff0800000000000000
+      internalID: -70480301537134552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "BombHerMan_Sl\xE5Speciall-Sheet_19"
+      rect:
+        serializedVersion: 2
+        x: 1223
+        y: 0
+        width: 17
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f149d70e92db15360800000000000000
+      internalID: 7156709270426063903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "BombHerMan_Sl\xE5Speciall-Sheet_20"
+      rect:
+        serializedVersion: 2
+        x: 1287
+        y: 0
+        width: 17
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb79ff196b58f9910800000000000000
+      internalID: 1846341391425181628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "BombHerMan_Sl\xE5Speciall-Sheet_21"
+      rect:
+        serializedVersion: 2
+        x: 1351
+        y: 0
+        width: 17
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c27fa601e89ed2c90800000000000000
+      internalID: -7192836233470740692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      "BombHerMan_Sl\xE5Speciall-Sheet_0": 4272733473659590884
+      "BombHerMan_Sl\xE5Speciall-Sheet_1": -8680492348151406379
+      "BombHerMan_Sl\xE5Speciall-Sheet_10": -6963950142263662168
+      "BombHerMan_Sl\xE5Speciall-Sheet_11": 6859562075021110393
+      "BombHerMan_Sl\xE5Speciall-Sheet_12": -6723894519782045360
+      "BombHerMan_Sl\xE5Speciall-Sheet_13": 2988042849609718968
+      "BombHerMan_Sl\xE5Speciall-Sheet_14": 120303914013603563
+      "BombHerMan_Sl\xE5Speciall-Sheet_15": 8180836694618257199
+      "BombHerMan_Sl\xE5Speciall-Sheet_16": -5678667950208377640
+      "BombHerMan_Sl\xE5Speciall-Sheet_17": 4069593613093555184
+      "BombHerMan_Sl\xE5Speciall-Sheet_18": -70480301537134552
+      "BombHerMan_Sl\xE5Speciall-Sheet_19": 7156709270426063903
+      "BombHerMan_Sl\xE5Speciall-Sheet_2": -3036404845190824527
+      "BombHerMan_Sl\xE5Speciall-Sheet_20": 1846341391425181628
+      "BombHerMan_Sl\xE5Speciall-Sheet_21": -7192836233470740692
+      "BombHerMan_Sl\xE5Speciall-Sheet_3": 8276702288348025302
+      "BombHerMan_Sl\xE5Speciall-Sheet_4": 6623554980968669955
+      "BombHerMan_Sl\xE5Speciall-Sheet_5": -2228530685715986068
+      "BombHerMan_Sl\xE5Speciall-Sheet_6": 7893809285905381116
+      "BombHerMan_Sl\xE5Speciall-Sheet_7": -6876671797742158418
+      "BombHerMan_Sl\xE5Speciall-Sheet_8": 6996918237482640519
+      "BombHerMan_Sl\xE5Speciall-Sheet_9": -348604138584240498
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,975 @@
+fileFormatVersion: 2
+guid: 37ae1cfe70c6e9a43939ef80ab27d7b0
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 235118660952315617
+    second: KO-Sheet_0
+  - first:
+      213: -5825132169899636004
+    second: KO-Sheet_1
+  - first:
+      213: -2536257968650476543
+    second: KO-Sheet_2
+  - first:
+      213: 1498088929643423665
+    second: KO-Sheet_3
+  - first:
+      213: 6650833604852556771
+    second: KO-Sheet_4
+  - first:
+      213: 4130597337367213154
+    second: KO-Sheet_5
+  - first:
+      213: -5211895152616196946
+    second: KO-Sheet_6
+  - first:
+      213: -2693273624128740386
+    second: KO-Sheet_7
+  - first:
+      213: 566059553750862630
+    second: KO-Sheet_8
+  - first:
+      213: 3258027483771747922
+    second: KO-Sheet_9
+  - first:
+      213: -4052438642663224369
+    second: KO-Sheet_10
+  - first:
+      213: -4113659574624031163
+    second: KO-Sheet_11
+  - first:
+      213: 542813825032535178
+    second: KO-Sheet_12
+  - first:
+      213: -9045646128771701785
+    second: KO-Sheet_13
+  - first:
+      213: 8356611353246119885
+    second: KO-Sheet_14
+  - first:
+      213: 6504272722942810309
+    second: KO-Sheet_15
+  - first:
+      213: 4844670131114452286
+    second: KO-Sheet_16
+  - first:
+      213: -5032726154867033139
+    second: KO-Sheet_17
+  - first:
+      213: 2306510528274791355
+    second: KO-Sheet_18
+  - first:
+      213: -2500636791293088239
+    second: KO-Sheet_19
+  - first:
+      213: 2998710765939539361
+    second: KO-Sheet_20
+  - first:
+      213: 8326669802183102533
+    second: KO-Sheet_21
+  - first:
+      213: -7944792163816014480
+    second: KO-Sheet_22
+  - first:
+      213: -7468111563901433220
+    second: KO-Sheet_23
+  - first:
+      213: 478546368821406
+    second: KO-Sheet_24
+  - first:
+      213: 9089156428385808124
+    second: KO-Sheet_25
+  - first:
+      213: -6696122366094707044
+    second: KO-Sheet_26
+  - first:
+      213: 1636820435732947764
+    second: KO-Sheet_27
+  - first:
+      213: 1635366702629380250
+    second: KO-Sheet_28
+  - first:
+      213: 1493392538075149885
+    second: KO-Sheet_29
+  - first:
+      213: -8446210050089793307
+    second: KO-Sheet_30
+  - first:
+      213: -4327602716999403498
+    second: KO-Sheet_31
+  - first:
+      213: 2306421901073215338
+    second: KO-Sheet_32
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: KO-Sheet_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 725
+        width: 1920
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e6d02a2d2f434300800000000000000
+      internalID: 235118660952315617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KO-Sheet_1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 647
+        width: 1920
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cda8e638729f82fa0800000000000000
+      internalID: -5825132169899636004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KO-Sheet_2
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 545
+        width: 1920
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 104a5dfa0d66dccd0800000000000000
+      internalID: -2536257968650476543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KO-Sheet_3
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 482
+        width: 1920
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b7675db1f74ac410800000000000000
+      internalID: 1498088929643423665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KO-Sheet_4
+      rect:
+        serializedVersion: 2
+        x: 935
+        y: 479
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e3a77d0de18c4c50800000000000000
+      internalID: 6650833604852556771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KO-Sheet_5
+      rect:
+        serializedVersion: 2
+        x: 1319
+        y: 479
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26472fbb464d25930800000000000000
+      internalID: 4130597337367213154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KO-Sheet_6
+      rect:
+        serializedVersion: 2
+        x: 1683
+        y: 477
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea43bb5f8f0aba7b0800000000000000
+      internalID: -5211895152616196946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KO-Sheet_7
+      rect:
+        serializedVersion: 2
+        x: 1703
+        y: 475
+        width: 14
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed3a0ee88e19f9ad0800000000000000
+      internalID: -2693273624128740386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KO-Sheet_8
+      rect:
+        serializedVersion: 2
+        x: 1723
+        y: 480
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62b490f3a2c0bd700800000000000000
+      internalID: 566059553750862630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KO-Sheet_9
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 413
+        width: 1920
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25ebca61cb6d63d20800000000000000
+      internalID: 3258027483771747922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KO-Sheet_10
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 399
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fcb0ef57688d2c7c0800000000000000
+      internalID: -4052438642663224369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KO-Sheet_11
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 402
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54e66a7796859e6c0800000000000000
+      internalID: -4113659574624031163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KO-Sheet_12
+      rect:
+        serializedVersion: 2
+        x: 574
+        y: 405
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8c3c344c46788700800000000000000
+      internalID: 542813825032535178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KO-Sheet_13
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 397
+        width: 14
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e3eca295c8677280800000000000000
+      internalID: -9045646128771701785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KO-Sheet_14
+      rect:
+        serializedVersion: 2
+        x: 535
+        y: 402
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc73b3420c5a8f370800000000000000
+      internalID: 8356611353246119885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KO-Sheet_15
+      rect:
+        serializedVersion: 2
+        x: 553
+        y: 400
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c8d4459491d34a50800000000000000
+      internalID: 6504272722942810309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KO-Sheet_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 335
+        width: 1920
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e35a50be0d9bb3340800000000000000
+      internalID: 4844670131114452286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KO-Sheet_17
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 236
+        width: 1920
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dcb35570a3a282ab0800000000000000
+      internalID: -5032726154867033139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KO-Sheet_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 172
+        width: 1920
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bbb7484ea1f520020800000000000000
+      internalID: 2306510528274791355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KO-Sheet_19
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 92
+        width: 1920
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11ee3b65614fb4dd0800000000000000
+      internalID: -2500636791293088239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KO-Sheet_20
+      rect:
+        serializedVersion: 2
+        x: 963
+        y: 134
+        width: 14
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ad37f3cd8f8d9920800000000000000
+      internalID: 2998710765939539361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KO-Sheet_21
+      rect:
+        serializedVersion: 2
+        x: 980
+        y: 138
+        width: 15
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 540981981164e8370800000000000000
+      internalID: 8326669802183102533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KO-Sheet_22
+      rect:
+        serializedVersion: 2
+        x: 1347
+        y: 134
+        width: 14
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07d707dce9d6eb190800000000000000
+      internalID: -7944792163816014480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KO-Sheet_23
+      rect:
+        serializedVersion: 2
+        x: 1364
+        y: 138
+        width: 15
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7a0ba2b910fb5890800000000000000
+      internalID: -7468111563901433220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KO-Sheet_24
+      rect:
+        serializedVersion: 2
+        x: 1731
+        y: 137
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9872524c33b10000800000000000000
+      internalID: 478546368821406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KO-Sheet_25
+      rect:
+        serializedVersion: 2
+        x: 1751
+        y: 140
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cfee4ed7d9b232e70800000000000000
+      internalID: 9089156428385808124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KO-Sheet_26
+      rect:
+        serializedVersion: 2
+        x: 948
+        y: 88
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9670648f289213a0800000000000000
+      internalID: -6696122366094707044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KO-Sheet_27
+      rect:
+        serializedVersion: 2
+        x: 963
+        y: 89
+        width: 26
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43366f8938727b610800000000000000
+      internalID: 1636820435732947764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KO-Sheet_28
+      rect:
+        serializedVersion: 2
+        x: 1332
+        y: 88
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a90e9bbf95df1b610800000000000000
+      internalID: 1635366702629380250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KO-Sheet_29
+      rect:
+        serializedVersion: 2
+        x: 1347
+        y: 89
+        width: 26
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d36303ed99899b410800000000000000
+      internalID: 1493392538075149885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KO-Sheet_30
+      rect:
+        serializedVersion: 2
+        x: 1719
+        y: 90
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e8401a95b809ca80800000000000000
+      internalID: -8446210050089793307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KO-Sheet_31
+      rect:
+        serializedVersion: 2
+        x: 1739
+        y: 90
+        width: 11
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6183c3ce14441f3c0800000000000000
+      internalID: -4327602716999403498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KO-Sheet_32
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 23
+        width: 1537
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6f66a3cf7e020020800000000000000
+      internalID: 2306421901073215338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      KO-Sheet_0: 235118660952315617
+      KO-Sheet_1: -5825132169899636004
+      KO-Sheet_10: -4052438642663224369
+      KO-Sheet_11: -4113659574624031163
+      KO-Sheet_12: 542813825032535178
+      KO-Sheet_13: -9045646128771701785
+      KO-Sheet_14: 8356611353246119885
+      KO-Sheet_15: 6504272722942810309
+      KO-Sheet_16: 4844670131114452286
+      KO-Sheet_17: -5032726154867033139
+      KO-Sheet_18: 2306510528274791355
+      KO-Sheet_19: -2500636791293088239
+      KO-Sheet_2: -2536257968650476543
+      KO-Sheet_20: 2998710765939539361
+      KO-Sheet_21: 8326669802183102533
+      KO-Sheet_22: -7944792163816014480
+      KO-Sheet_23: -7468111563901433220
+      KO-Sheet_24: 478546368821406
+      KO-Sheet_25: 9089156428385808124
+      KO-Sheet_26: -6696122366094707044
+      KO-Sheet_27: 1636820435732947764
+      KO-Sheet_28: 1635366702629380250
+      KO-Sheet_29: 1493392538075149885
+      KO-Sheet_3: 1498088929643423665
+      KO-Sheet_30: -8446210050089793307
+      KO-Sheet_31: -4327602716999403498
+      KO-Sheet_32: 2306421901073215338
+      KO-Sheet_4: 6650833604852556771
+      KO-Sheet_5: 4130597337367213154
+      KO-Sheet_6: -5211895152616196946
+      KO-Sheet_7: -2693273624128740386
+      KO-Sheet_8: 566059553750862630
+      KO-Sheet_9: 3258027483771747922
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
