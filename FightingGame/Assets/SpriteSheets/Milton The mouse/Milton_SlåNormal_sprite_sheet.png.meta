@@ -1,0 +1,546 @@
+fileFormatVersion: 2
+guid: af298d625ad20d34a9a7d873f58b47c0
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1836654116596105014
+    second: "Milton_Sl\xE5Normal_sprite_sheet_0"
+  - first:
+      213: 2039926408002308618
+    second: "Milton_Sl\xE5Normal_sprite_sheet_1"
+  - first:
+      213: 1330465330408602914
+    second: "Milton_Sl\xE5Normal_sprite_sheet_2"
+  - first:
+      213: -5883395224139274904
+    second: "Milton_Sl\xE5Normal_sprite_sheet_3"
+  - first:
+      213: 7699539768366309040
+    second: "Milton_Sl\xE5Normal_sprite_sheet_4"
+  - first:
+      213: -9057381630924068240
+    second: "Milton_Sl\xE5Normal_sprite_sheet_5"
+  - first:
+      213: -9112741535685655946
+    second: "Milton_Sl\xE5Normal_sprite_sheet_6"
+  - first:
+      213: -4247875682754850508
+    second: "Milton_Sl\xE5Normal_sprite_sheet_7"
+  - first:
+      213: -5284174142780869909
+    second: "Milton_Sl\xE5Normal_sprite_sheet_8"
+  - first:
+      213: -646415014444598880
+    second: "Milton_Sl\xE5Normal_sprite_sheet_9"
+  - first:
+      213: -6086121300983770471
+    second: "Milton_Sl\xE5Normal_sprite_sheet_10"
+  - first:
+      213: -4834572087552009646
+    second: "Milton_Sl\xE5Normal_sprite_sheet_11"
+  - first:
+      213: 6219711131603119520
+    second: "Milton_Sl\xE5Normal_sprite_sheet_12"
+  - first:
+      213: -5663495161833903400
+    second: "Milton_Sl\xE5Normal_sprite_sheet_13"
+  - first:
+      213: -3380693821391537086
+    second: "Milton_Sl\xE5Normal_sprite_sheet_14"
+  - first:
+      213: 8761572399160507677
+    second: "Milton_Sl\xE5Normal_sprite_sheet_15"
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: "Milton_Sl\xE5Normal_sprite_sheet_0"
+      rect:
+        serializedVersion: 2
+        x: 630
+        y: 3399
+        width: 624
+        height: 692
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac0c70ddfc4e286e0800000000000000
+      internalID: -1836654116596105014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Milton_Sl\xE5Normal_sprite_sheet_1"
+      rect:
+        serializedVersion: 2
+        x: 2550
+        y: 3399
+        width: 624
+        height: 692
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0a8ae492464f4c10800000000000000
+      internalID: 2039926408002308618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Milton_Sl\xE5Normal_sprite_sheet_2"
+      rect:
+        serializedVersion: 2
+        x: 4470
+        y: 3399
+        width: 639
+        height: 693
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22d3afc3b23c67210800000000000000
+      internalID: 1330465330408602914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Milton_Sl\xE5Normal_sprite_sheet_3"
+      rect:
+        serializedVersion: 2
+        x: 6390
+        y: 3399
+        width: 653
+        height: 693
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 865e2f7173bf95ea0800000000000000
+      internalID: -5883395224139274904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Milton_Sl\xE5Normal_sprite_sheet_4"
+      rect:
+        serializedVersion: 2
+        x: 630
+        y: 2319
+        width: 645
+        height: 693
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0be977b10a24ada60800000000000000
+      internalID: 7699539768366309040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Milton_Sl\xE5Normal_sprite_sheet_5"
+      rect:
+        serializedVersion: 2
+        x: 2550
+        y: 2319
+        width: 624
+        height: 692
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07a6f9d0567bd4280800000000000000
+      internalID: -9057381630924068240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Milton_Sl\xE5Normal_sprite_sheet_6"
+      rect:
+        serializedVersion: 2
+        x: 4470
+        y: 2319
+        width: 624
+        height: 691
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 672428bcad9098180800000000000000
+      internalID: -9112741535685655946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Milton_Sl\xE5Normal_sprite_sheet_7"
+      rect:
+        serializedVersion: 2
+        x: 6390
+        y: 2319
+        width: 624
+        height: 692
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 431906f92938c05c0800000000000000
+      internalID: -4247875682754850508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Milton_Sl\xE5Normal_sprite_sheet_8"
+      rect:
+        serializedVersion: 2
+        x: 630
+        y: 1239
+        width: 624
+        height: 693
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be2fd382d97daa6b0800000000000000
+      internalID: -5284174142780869909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Milton_Sl\xE5Normal_sprite_sheet_9"
+      rect:
+        serializedVersion: 2
+        x: 2550
+        y: 1239
+        width: 624
+        height: 695
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a9fc8e18f87707f0800000000000000
+      internalID: -646415014444598880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Milton_Sl\xE5Normal_sprite_sheet_10"
+      rect:
+        serializedVersion: 2
+        x: 4470
+        y: 1239
+        width: 624
+        height: 696
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9929ce22ce0c98ba0800000000000000
+      internalID: -6086121300983770471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Milton_Sl\xE5Normal_sprite_sheet_11"
+      rect:
+        serializedVersion: 2
+        x: 6390
+        y: 1239
+        width: 624
+        height: 696
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25a91701d4628ecb0800000000000000
+      internalID: -4834572087552009646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Milton_Sl\xE5Normal_sprite_sheet_12"
+      rect:
+        serializedVersion: 2
+        x: 630
+        y: 159
+        width: 624
+        height: 696
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ad2fbc125ad05650800000000000000
+      internalID: 6219711131603119520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Milton_Sl\xE5Normal_sprite_sheet_13"
+      rect:
+        serializedVersion: 2
+        x: 2550
+        y: 159
+        width: 624
+        height: 694
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8da2fb328293761b0800000000000000
+      internalID: -5663495161833903400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Milton_Sl\xE5Normal_sprite_sheet_14"
+      rect:
+        serializedVersion: 2
+        x: 4470
+        y: 159
+        width: 624
+        height: 693
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24c799191ec5511d0800000000000000
+      internalID: -3380693821391537086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Milton_Sl\xE5Normal_sprite_sheet_15"
+      rect:
+        serializedVersion: 2
+        x: 6390
+        y: 159
+        width: 624
+        height: 692
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1d34dd1dab579970800000000000000
+      internalID: 8761572399160507677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      "Milton_Sl\xE5Normal_sprite_sheet_0": -1836654116596105014
+      "Milton_Sl\xE5Normal_sprite_sheet_1": 2039926408002308618
+      "Milton_Sl\xE5Normal_sprite_sheet_10": -6086121300983770471
+      "Milton_Sl\xE5Normal_sprite_sheet_11": -4834572087552009646
+      "Milton_Sl\xE5Normal_sprite_sheet_12": 6219711131603119520
+      "Milton_Sl\xE5Normal_sprite_sheet_13": -5663495161833903400
+      "Milton_Sl\xE5Normal_sprite_sheet_14": -3380693821391537086
+      "Milton_Sl\xE5Normal_sprite_sheet_15": 8761572399160507677
+      "Milton_Sl\xE5Normal_sprite_sheet_2": 1330465330408602914
+      "Milton_Sl\xE5Normal_sprite_sheet_3": -5883395224139274904
+      "Milton_Sl\xE5Normal_sprite_sheet_4": 7699539768366309040
+      "Milton_Sl\xE5Normal_sprite_sheet_5": -9057381630924068240
+      "Milton_Sl\xE5Normal_sprite_sheet_6": -9112741535685655946
+      "Milton_Sl\xE5Normal_sprite_sheet_7": -4247875682754850508
+      "Milton_Sl\xE5Normal_sprite_sheet_8": -5284174142780869909
+      "Milton_Sl\xE5Normal_sprite_sheet_9": -646415014444598880
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

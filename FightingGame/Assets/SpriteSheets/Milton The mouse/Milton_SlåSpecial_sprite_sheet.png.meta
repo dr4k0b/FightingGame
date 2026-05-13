@@ -1,0 +1,1378 @@
+fileFormatVersion: 2
+guid: 3bedd4999f44d4f459f8ff68e082c218
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -7226493392252938928
+    second: "Milton_Sl\xE5Special_sprite_sheet_0"
+  - first:
+      213: -5704595703333714495
+    second: "Milton_Sl\xE5Special_sprite_sheet_1"
+  - first:
+      213: 7961102599064067208
+    second: "Milton_Sl\xE5Special_sprite_sheet_2"
+  - first:
+      213: -714569516147090179
+    second: "Milton_Sl\xE5Special_sprite_sheet_3"
+  - first:
+      213: -4532515708736839931
+    second: "Milton_Sl\xE5Special_sprite_sheet_4"
+  - first:
+      213: -5378587917196246869
+    second: "Milton_Sl\xE5Special_sprite_sheet_5"
+  - first:
+      213: -8098804758397917484
+    second: "Milton_Sl\xE5Special_sprite_sheet_6"
+  - first:
+      213: 1792316101748942931
+    second: "Milton_Sl\xE5Special_sprite_sheet_7"
+  - first:
+      213: 4225234738763509898
+    second: "Milton_Sl\xE5Special_sprite_sheet_8"
+  - first:
+      213: -8255744147752532968
+    second: "Milton_Sl\xE5Special_sprite_sheet_9"
+  - first:
+      213: 5395890992683052425
+    second: "Milton_Sl\xE5Special_sprite_sheet_10"
+  - first:
+      213: 7292321308684911342
+    second: "Milton_Sl\xE5Special_sprite_sheet_11"
+  - first:
+      213: 6665142632570660171
+    second: "Milton_Sl\xE5Special_sprite_sheet_12"
+  - first:
+      213: 1159093317978972985
+    second: "Milton_Sl\xE5Special_sprite_sheet_13"
+  - first:
+      213: -6552886524075646168
+    second: "Milton_Sl\xE5Special_sprite_sheet_14"
+  - first:
+      213: 8508311724665319360
+    second: "Milton_Sl\xE5Special_sprite_sheet_15"
+  - first:
+      213: -6780049978039274013
+    second: "Milton_Sl\xE5Special_sprite_sheet_16"
+  - first:
+      213: -7367872431485783285
+    second: "Milton_Sl\xE5Special_sprite_sheet_17"
+  - first:
+      213: 3248546514996616110
+    second: "Milton_Sl\xE5Special_sprite_sheet_18"
+  - first:
+      213: -8808747969740949240
+    second: "Milton_Sl\xE5Special_sprite_sheet_19"
+  - first:
+      213: -1451780303232437692
+    second: "Milton_Sl\xE5Special_sprite_sheet_20"
+  - first:
+      213: 4767667179867244787
+    second: "Milton_Sl\xE5Special_sprite_sheet_21"
+  - first:
+      213: 7211654134246603033
+    second: "Milton_Sl\xE5Special_sprite_sheet_22"
+  - first:
+      213: -8051697370908274195
+    second: "Milton_Sl\xE5Special_sprite_sheet_23"
+  - first:
+      213: 3940791486492100825
+    second: "Milton_Sl\xE5Special_sprite_sheet_24"
+  - first:
+      213: -4282803510340761190
+    second: "Milton_Sl\xE5Special_sprite_sheet_25"
+  - first:
+      213: 7416757943823892992
+    second: "Milton_Sl\xE5Special_sprite_sheet_26"
+  - first:
+      213: 9141993031213669467
+    second: "Milton_Sl\xE5Special_sprite_sheet_27"
+  - first:
+      213: -5493929164286141000
+    second: "Milton_Sl\xE5Special_sprite_sheet_28"
+  - first:
+      213: -564906426699925704
+    second: "Milton_Sl\xE5Special_sprite_sheet_29"
+  - first:
+      213: 6629873417868135866
+    second: "Milton_Sl\xE5Special_sprite_sheet_30"
+  - first:
+      213: -3217484380119860215
+    second: "Milton_Sl\xE5Special_sprite_sheet_31"
+  - first:
+      213: -912108733380268079
+    second: "Milton_Sl\xE5Special_sprite_sheet_32"
+  - first:
+      213: -5995457925653343900
+    second: "Milton_Sl\xE5Special_sprite_sheet_33"
+  - first:
+      213: -4780959591016990806
+    second: "Milton_Sl\xE5Special_sprite_sheet_34"
+  - first:
+      213: -1780103819539807636
+    second: "Milton_Sl\xE5Special_sprite_sheet_35"
+  - first:
+      213: -6066606663982375833
+    second: "Milton_Sl\xE5Special_sprite_sheet_36"
+  - first:
+      213: -6125220016164828124
+    second: "Milton_Sl\xE5Special_sprite_sheet_37"
+  - first:
+      213: 1004661252559487683
+    second: "Milton_Sl\xE5Special_sprite_sheet_38"
+  - first:
+      213: -6686075183151786412
+    second: "Milton_Sl\xE5Special_sprite_sheet_39"
+  - first:
+      213: 6188719024049258833
+    second: "Milton_Sl\xE5Special_sprite_sheet_40"
+  - first:
+      213: -2236221328910480756
+    second: "Milton_Sl\xE5Special_sprite_sheet_41"
+  - first:
+      213: 2736898501457280972
+    second: "Milton_Sl\xE5Special_sprite_sheet_42"
+  - first:
+      213: 3920965291093771604
+    second: "Milton_Sl\xE5Special_sprite_sheet_43"
+  - first:
+      213: 6117894414803160685
+    second: "Milton_Sl\xE5Special_sprite_sheet_44"
+  - first:
+      213: 2260116510658444434
+    second: "Milton_Sl\xE5Special_sprite_sheet_45"
+  - first:
+      213: -3787567829594990690
+    second: "Milton_Sl\xE5Special_sprite_sheet_46"
+  - first:
+      213: -3987958741832404978
+    second: "Milton_Sl\xE5Special_sprite_sheet_47"
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: "Milton_Sl\xE5Special_sprite_sheet_0"
+      rect:
+        serializedVersion: 2
+        x: 630
+        y: 6639
+        width: 624
+        height: 692
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0555e0f1c8656bb90800000000000000
+      internalID: -7226493392252938928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Milton_Sl\xE5Special_sprite_sheet_1"
+      rect:
+        serializedVersion: 2
+        x: 2550
+        y: 6639
+        width: 624
+        height: 692
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c5039b9e6435d0b0800000000000000
+      internalID: -5704595703333714495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Milton_Sl\xE5Special_sprite_sheet_2"
+      rect:
+        serializedVersion: 2
+        x: 4470
+        y: 6639
+        width: 624
+        height: 692
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88c17a552a48b7e60800000000000000
+      internalID: 7961102599064067208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Milton_Sl\xE5Special_sprite_sheet_3"
+      rect:
+        serializedVersion: 2
+        x: 6390
+        y: 6639
+        width: 624
+        height: 691
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dfcdabe9fc65516f0800000000000000
+      internalID: -714569516147090179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Milton_Sl\xE5Special_sprite_sheet_4"
+      rect:
+        serializedVersion: 2
+        x: 8310
+        y: 6639
+        width: 624
+        height: 689
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50fdcd92af44911c0800000000000000
+      internalID: -4532515708736839931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Milton_Sl\xE5Special_sprite_sheet_5"
+      rect:
+        serializedVersion: 2
+        x: 10230
+        y: 6640
+        width: 624
+        height: 685
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba04f4a49ca6b55b0800000000000000
+      internalID: -5378587917196246869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Milton_Sl\xE5Special_sprite_sheet_6"
+      rect:
+        serializedVersion: 2
+        x: 12150
+        y: 6640
+        width: 624
+        height: 683
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d6e2764bf34b9f80800000000000000
+      internalID: -8098804758397917484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Milton_Sl\xE5Special_sprite_sheet_7"
+      rect:
+        serializedVersion: 2
+        x: 630
+        y: 5560
+        width: 624
+        height: 681
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35865f99ff59fd810800000000000000
+      internalID: 1792316101748942931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Milton_Sl\xE5Special_sprite_sheet_8"
+      rect:
+        serializedVersion: 2
+        x: 2550
+        y: 5560
+        width: 624
+        height: 680
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a80b3a0db9c03aa30800000000000000
+      internalID: 4225234738763509898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Milton_Sl\xE5Special_sprite_sheet_9"
+      rect:
+        serializedVersion: 2
+        x: 4474
+        y: 5558
+        width: 618
+        height: 674
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81443bc3074bd6d80800000000000000
+      internalID: -8255744147752532968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Milton_Sl\xE5Special_sprite_sheet_10"
+      rect:
+        serializedVersion: 2
+        x: 6409
+        y: 5554
+        width: 641
+        height: 715
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98d6a99e44e02ea40800000000000000
+      internalID: 5395890992683052425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Milton_Sl\xE5Special_sprite_sheet_11"
+      rect:
+        serializedVersion: 2
+        x: 8338
+        y: 5552
+        width: 667
+        height: 720
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee20d280897833560800000000000000
+      internalID: 7292321308684911342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Milton_Sl\xE5Special_sprite_sheet_12"
+      rect:
+        serializedVersion: 2
+        x: 10288
+        y: 5546
+        width: 660
+        height: 727
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b45afaf29e75f7c50800000000000000
+      internalID: 6665142632570660171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Milton_Sl\xE5Special_sprite_sheet_13"
+      rect:
+        serializedVersion: 2
+        x: 12246
+        y: 5529
+        width: 639
+        height: 717
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9336aa74b3de51010800000000000000
+      internalID: 1159093317978972985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Milton_Sl\xE5Special_sprite_sheet_14"
+      rect:
+        serializedVersion: 2
+        x: 697
+        y: 4464
+        width: 667
+        height: 639
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 823e60fcc687f05a0800000000000000
+      internalID: -6552886524075646168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Milton_Sl\xE5Special_sprite_sheet_15"
+      rect:
+        serializedVersion: 2
+        x: 2586
+        y: 4460
+        width: 689
+        height: 651
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0cfa7f24f68931670800000000000000
+      internalID: 8508311724665319360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Milton_Sl\xE5Special_sprite_sheet_16"
+      rect:
+        serializedVersion: 2
+        x: 4484
+        y: 4566
+        width: 711
+        height: 594
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e5f29b977c68e1a0800000000000000
+      internalID: -6780049978039274013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Milton_Sl\xE5Special_sprite_sheet_17"
+      rect:
+        serializedVersion: 2
+        x: 6420
+        y: 4548
+        width: 737
+        height: 626
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0375ea6f0f00c990800000000000000
+      internalID: -7367872431485783285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Milton_Sl\xE5Special_sprite_sheet_18"
+      rect:
+        serializedVersion: 2
+        x: 8400
+        y: 4516
+        width: 706
+        height: 662
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eabd4b608d7251d20800000000000000
+      internalID: 3248546514996616110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Milton_Sl\xE5Special_sprite_sheet_19"
+      rect:
+        serializedVersion: 2
+        x: 10386
+        y: 4493
+        width: 663
+        height: 684
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 809b5ab646a01c580800000000000000
+      internalID: -8808747969740949240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Milton_Sl\xE5Special_sprite_sheet_20"
+      rect:
+        serializedVersion: 2
+        x: 12352
+        y: 4485
+        width: 606
+        height: 691
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 442fbed818d3adbe0800000000000000
+      internalID: -1451780303232437692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Milton_Sl\xE5Special_sprite_sheet_21"
+      rect:
+        serializedVersion: 2
+        x: 826
+        y: 3401
+        width: 576
+        height: 729
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f886473a082a2240800000000000000
+      internalID: 4767667179867244787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Milton_Sl\xE5Special_sprite_sheet_22"
+      rect:
+        serializedVersion: 2
+        x: 2725
+        y: 3399
+        width: 567
+        height: 763
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 919feb2e931f41460800000000000000
+      internalID: 7211654134246603033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Milton_Sl\xE5Special_sprite_sheet_23"
+      rect:
+        serializedVersion: 2
+        x: 4634
+        y: 3398
+        width: 566
+        height: 773
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de1d010a6ef924090800000000000000
+      internalID: -8051697370908274195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Milton_Sl\xE5Special_sprite_sheet_24"
+      rect:
+        serializedVersion: 2
+        x: 6554
+        y: 3398
+        width: 566
+        height: 773
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d8ce3e4af080b630800000000000000
+      internalID: 3940791486492100825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Milton_Sl\xE5Special_sprite_sheet_25"
+      rect:
+        serializedVersion: 2
+        x: 8474
+        y: 3398
+        width: 566
+        height: 773
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a99c75b06ec6094c0800000000000000
+      internalID: -4282803510340761190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Milton_Sl\xE5Special_sprite_sheet_26"
+      rect:
+        serializedVersion: 2
+        x: 10394
+        y: 3398
+        width: 566
+        height: 773
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0020ea2ed0e9de660800000000000000
+      internalID: 7416757943823892992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Milton_Sl\xE5Special_sprite_sheet_27"
+      rect:
+        serializedVersion: 2
+        x: 12314
+        y: 3398
+        width: 566
+        height: 773
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5c569cb932eede70800000000000000
+      internalID: 9141993031213669467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Milton_Sl\xE5Special_sprite_sheet_28"
+      rect:
+        serializedVersion: 2
+        x: 794
+        y: 2318
+        width: 566
+        height: 773
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8bdd09d7884a1c3b0800000000000000
+      internalID: -5493929164286141000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Milton_Sl\xE5Special_sprite_sheet_29"
+      rect:
+        serializedVersion: 2
+        x: 2714
+        y: 2318
+        width: 566
+        height: 773
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8373731199c0928f0800000000000000
+      internalID: -564906426699925704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Milton_Sl\xE5Special_sprite_sheet_30"
+      rect:
+        serializedVersion: 2
+        x: 4634
+        y: 2318
+        width: 566
+        height: 773
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: abdc5d93fba020c50800000000000000
+      internalID: 6629873417868135866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Milton_Sl\xE5Special_sprite_sheet_31"
+      rect:
+        serializedVersion: 2
+        x: 6554
+        y: 2318
+        width: 566
+        height: 773
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90c7694d0033953d0800000000000000
+      internalID: -3217484380119860215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Milton_Sl\xE5Special_sprite_sheet_32"
+      rect:
+        serializedVersion: 2
+        x: 8474
+        y: 2318
+        width: 566
+        height: 773
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1df665680f98753f0800000000000000
+      internalID: -912108733380268079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Milton_Sl\xE5Special_sprite_sheet_33"
+      rect:
+        serializedVersion: 2
+        x: 10394
+        y: 2318
+        width: 566
+        height: 773
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 461d1ab28cadbcca0800000000000000
+      internalID: -5995457925653343900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Milton_Sl\xE5Special_sprite_sheet_34"
+      rect:
+        serializedVersion: 2
+        x: 12318
+        y: 2318
+        width: 574
+        height: 788
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa77fe3259e96adb0800000000000000
+      internalID: -4780959591016990806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Milton_Sl\xE5Special_sprite_sheet_35"
+      rect:
+        serializedVersion: 2
+        x: 806
+        y: 1238
+        width: 592
+        height: 804
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c62830de10dcb47e0800000000000000
+      internalID: -1780103819539807636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Milton_Sl\xE5Special_sprite_sheet_36"
+      rect:
+        serializedVersion: 2
+        x: 2738
+        y: 1238
+        width: 590
+        height: 779
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76c1051a1651fcba0800000000000000
+      internalID: -6066606663982375833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Milton_Sl\xE5Special_sprite_sheet_37"
+      rect:
+        serializedVersion: 2
+        x: 4625
+        y: 1238
+        width: 576
+        height: 732
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42c026d19d8defaa0800000000000000
+      internalID: -6125220016164828124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Milton_Sl\xE5Special_sprite_sheet_38"
+      rect:
+        serializedVersion: 2
+        x: 6593
+        y: 1231
+        width: 579
+        height: 744
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c24866161641fd00800000000000000
+      internalID: 1004661252559487683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Milton_Sl\xE5Special_sprite_sheet_39"
+      rect:
+        serializedVersion: 2
+        x: 8466
+        y: 1270
+        width: 646
+        height: 730
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 456dea69b0a4633a0800000000000000
+      internalID: -6686075183151786412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Milton_Sl\xE5Special_sprite_sheet_40"
+      rect:
+        serializedVersion: 2
+        x: 10251
+        y: 1359
+        width: 739
+        height: 631
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1518823c92fb2e550800000000000000
+      internalID: 6188719024049258833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Milton_Sl\xE5Special_sprite_sheet_41"
+      rect:
+        serializedVersion: 2
+        x: 12199
+        y: 1216
+        width: 678
+        height: 612
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8a8323ac8857f0e0800000000000000
+      internalID: -2236221328910480756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Milton_Sl\xE5Special_sprite_sheet_42"
+      rect:
+        serializedVersion: 2
+        x: 691
+        y: 130
+        width: 661
+        height: 728
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ccff8a5bfaa6bf520800000000000000
+      internalID: 2736898501457280972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Milton_Sl\xE5Special_sprite_sheet_43"
+      rect:
+        serializedVersion: 2
+        x: 2546
+        y: 152
+        width: 699
+        height: 720
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 455c74878211a6630800000000000000
+      internalID: 3920965291093771604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Milton_Sl\xE5Special_sprite_sheet_44"
+      rect:
+        serializedVersion: 2
+        x: 4466
+        y: 156
+        width: 642
+        height: 683
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6e40b76e8027e450800000000000000
+      internalID: 6117894414803160685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Milton_Sl\xE5Special_sprite_sheet_45"
+      rect:
+        serializedVersion: 2
+        x: 6390
+        y: 160
+        width: 624
+        height: 680
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29cbac8edfb8d5f10800000000000000
+      internalID: 2260116510658444434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Milton_Sl\xE5Special_sprite_sheet_46"
+      rect:
+        serializedVersion: 2
+        x: 8310
+        y: 159
+        width: 624
+        height: 689
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e971b4a502bdf6bc0800000000000000
+      internalID: -3787567829594990690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Milton_Sl\xE5Special_sprite_sheet_47"
+      rect:
+        serializedVersion: 2
+        x: 10230
+        y: 159
+        width: 624
+        height: 692
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e007a2647ace7a8c0800000000000000
+      internalID: -3987958741832404978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      "Milton_Sl\xE5Special_sprite_sheet_0": -7226493392252938928
+      "Milton_Sl\xE5Special_sprite_sheet_1": -5704595703333714495
+      "Milton_Sl\xE5Special_sprite_sheet_10": 5395890992683052425
+      "Milton_Sl\xE5Special_sprite_sheet_11": 7292321308684911342
+      "Milton_Sl\xE5Special_sprite_sheet_12": 6665142632570660171
+      "Milton_Sl\xE5Special_sprite_sheet_13": 1159093317978972985
+      "Milton_Sl\xE5Special_sprite_sheet_14": -6552886524075646168
+      "Milton_Sl\xE5Special_sprite_sheet_15": 8508311724665319360
+      "Milton_Sl\xE5Special_sprite_sheet_16": -6780049978039274013
+      "Milton_Sl\xE5Special_sprite_sheet_17": -7367872431485783285
+      "Milton_Sl\xE5Special_sprite_sheet_18": 3248546514996616110
+      "Milton_Sl\xE5Special_sprite_sheet_19": -8808747969740949240
+      "Milton_Sl\xE5Special_sprite_sheet_2": 7961102599064067208
+      "Milton_Sl\xE5Special_sprite_sheet_20": -1451780303232437692
+      "Milton_Sl\xE5Special_sprite_sheet_21": 4767667179867244787
+      "Milton_Sl\xE5Special_sprite_sheet_22": 7211654134246603033
+      "Milton_Sl\xE5Special_sprite_sheet_23": -8051697370908274195
+      "Milton_Sl\xE5Special_sprite_sheet_24": 3940791486492100825
+      "Milton_Sl\xE5Special_sprite_sheet_25": -4282803510340761190
+      "Milton_Sl\xE5Special_sprite_sheet_26": 7416757943823892992
+      "Milton_Sl\xE5Special_sprite_sheet_27": 9141993031213669467
+      "Milton_Sl\xE5Special_sprite_sheet_28": -5493929164286141000
+      "Milton_Sl\xE5Special_sprite_sheet_29": -564906426699925704
+      "Milton_Sl\xE5Special_sprite_sheet_3": -714569516147090179
+      "Milton_Sl\xE5Special_sprite_sheet_30": 6629873417868135866
+      "Milton_Sl\xE5Special_sprite_sheet_31": -3217484380119860215
+      "Milton_Sl\xE5Special_sprite_sheet_32": -912108733380268079
+      "Milton_Sl\xE5Special_sprite_sheet_33": -5995457925653343900
+      "Milton_Sl\xE5Special_sprite_sheet_34": -4780959591016990806
+      "Milton_Sl\xE5Special_sprite_sheet_35": -1780103819539807636
+      "Milton_Sl\xE5Special_sprite_sheet_36": -6066606663982375833
+      "Milton_Sl\xE5Special_sprite_sheet_37": -6125220016164828124
+      "Milton_Sl\xE5Special_sprite_sheet_38": 1004661252559487683
+      "Milton_Sl\xE5Special_sprite_sheet_39": -6686075183151786412
+      "Milton_Sl\xE5Special_sprite_sheet_4": -4532515708736839931
+      "Milton_Sl\xE5Special_sprite_sheet_40": 6188719024049258833
+      "Milton_Sl\xE5Special_sprite_sheet_41": -2236221328910480756
+      "Milton_Sl\xE5Special_sprite_sheet_42": 2736898501457280972
+      "Milton_Sl\xE5Special_sprite_sheet_43": 3920965291093771604
+      "Milton_Sl\xE5Special_sprite_sheet_44": 6117894414803160685
+      "Milton_Sl\xE5Special_sprite_sheet_45": 2260116510658444434
+      "Milton_Sl\xE5Special_sprite_sheet_46": -3787567829594990690
+      "Milton_Sl\xE5Special_sprite_sheet_47": -3987958741832404978
+      "Milton_Sl\xE5Special_sprite_sheet_5": -5378587917196246869
+      "Milton_Sl\xE5Special_sprite_sheet_6": -8098804758397917484
+      "Milton_Sl\xE5Special_sprite_sheet_7": 1792316101748942931
+      "Milton_Sl\xE5Special_sprite_sheet_8": 4225234738763509898
+      "Milton_Sl\xE5Special_sprite_sheet_9": -8255744147752532968
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,1170 @@
+fileFormatVersion: 2
+guid: 29ac7b5da0aa84d4ba9edf59f9cd7c9f
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -685010542923489928
+    second: Milton_Skate_sprite_sheet_0
+  - first:
+      213: -5914905395348433879
+    second: Milton_Skate_sprite_sheet_1
+  - first:
+      213: 1841922135867325619
+    second: Milton_Skate_sprite_sheet_2
+  - first:
+      213: 2503695204940946394
+    second: Milton_Skate_sprite_sheet_3
+  - first:
+      213: -987124023253107102
+    second: Milton_Skate_sprite_sheet_4
+  - first:
+      213: 2438986605230756784
+    second: Milton_Skate_sprite_sheet_5
+  - first:
+      213: -6922861827136377270
+    second: Milton_Skate_sprite_sheet_6
+  - first:
+      213: -125951702876204607
+    second: Milton_Skate_sprite_sheet_7
+  - first:
+      213: -121836659045434344
+    second: Milton_Skate_sprite_sheet_8
+  - first:
+      213: -5759270809555030042
+    second: Milton_Skate_sprite_sheet_9
+  - first:
+      213: -7603824528236035063
+    second: Milton_Skate_sprite_sheet_10
+  - first:
+      213: -8218990785636539361
+    second: Milton_Skate_sprite_sheet_11
+  - first:
+      213: -6395069165849012980
+    second: Milton_Skate_sprite_sheet_12
+  - first:
+      213: -7586937177431267755
+    second: Milton_Skate_sprite_sheet_13
+  - first:
+      213: 8842055476781299846
+    second: Milton_Skate_sprite_sheet_14
+  - first:
+      213: 8387546903892402702
+    second: Milton_Skate_sprite_sheet_15
+  - first:
+      213: 8531912840616575568
+    second: Milton_Skate_sprite_sheet_16
+  - first:
+      213: 7202262763869098146
+    second: Milton_Skate_sprite_sheet_17
+  - first:
+      213: 5505005487478231486
+    second: Milton_Skate_sprite_sheet_18
+  - first:
+      213: -5697685625662829390
+    second: Milton_Skate_sprite_sheet_19
+  - first:
+      213: 3053560585378630064
+    second: Milton_Skate_sprite_sheet_20
+  - first:
+      213: -9012620937592401039
+    second: Milton_Skate_sprite_sheet_21
+  - first:
+      213: -3030934568808015845
+    second: Milton_Skate_sprite_sheet_22
+  - first:
+      213: -417609908469953937
+    second: Milton_Skate_sprite_sheet_23
+  - first:
+      213: 7749875367248350440
+    second: Milton_Skate_sprite_sheet_24
+  - first:
+      213: -7756121904127086827
+    second: Milton_Skate_sprite_sheet_25
+  - first:
+      213: -6781794267606922822
+    second: Milton_Skate_sprite_sheet_26
+  - first:
+      213: 7362943118951141509
+    second: Milton_Skate_sprite_sheet_27
+  - first:
+      213: 9135818156213516868
+    second: Milton_Skate_sprite_sheet_28
+  - first:
+      213: 4217868226319570926
+    second: Milton_Skate_sprite_sheet_29
+  - first:
+      213: 9090952663614419820
+    second: Milton_Skate_sprite_sheet_30
+  - first:
+      213: -6900543019900111572
+    second: Milton_Skate_sprite_sheet_31
+  - first:
+      213: -6317366447810569137
+    second: Milton_Skate_sprite_sheet_32
+  - first:
+      213: -8521402264892702362
+    second: Milton_Skate_sprite_sheet_33
+  - first:
+      213: 760475925089404254
+    second: Milton_Skate_sprite_sheet_34
+  - first:
+      213: 837590939305324321
+    second: Milton_Skate_sprite_sheet_35
+  - first:
+      213: -7491739109442025911
+    second: Milton_Skate_sprite_sheet_36
+  - first:
+      213: -4739604458420700855
+    second: Milton_Skate_sprite_sheet_37
+  - first:
+      213: 8673350650663821231
+    second: Milton_Skate_sprite_sheet_38
+  - first:
+      213: 5792989927475426856
+    second: Milton_Skate_sprite_sheet_39
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Milton_Skate_sprite_sheet_0
+      rect:
+        serializedVersion: 2
+        x: 630
+        y: 5559
+        width: 624
+        height: 692
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87dd5a16a8a5e76f0800000000000000
+      internalID: -685010542923489928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Milton_Skate_sprite_sheet_1
+      rect:
+        serializedVersion: 2
+        x: 2550
+        y: 5559
+        width: 624
+        height: 692
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9241736a1e80aeda0800000000000000
+      internalID: -5914905395348433879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Milton_Skate_sprite_sheet_2
+      rect:
+        serializedVersion: 2
+        x: 4470
+        y: 5558
+        width: 624
+        height: 694
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3bcfc447c62df8910800000000000000
+      internalID: 1841922135867325619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Milton_Skate_sprite_sheet_3
+      rect:
+        serializedVersion: 2
+        x: 6389
+        y: 5557
+        width: 624
+        height: 697
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: adb9a541689eeb220800000000000000
+      internalID: 2503695204940946394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Milton_Skate_sprite_sheet_4
+      rect:
+        serializedVersion: 2
+        x: 8309
+        y: 5557
+        width: 624
+        height: 698
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26e7ebc4ee70d42f0800000000000000
+      internalID: -987124023253107102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Milton_Skate_sprite_sheet_5
+      rect:
+        serializedVersion: 2
+        x: 10229
+        y: 5557
+        width: 624
+        height: 700
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b317b8256509d120800000000000000
+      internalID: 2438986605230756784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Milton_Skate_sprite_sheet_6
+      rect:
+        serializedVersion: 2
+        x: 12149
+        y: 5558
+        width: 628
+        height: 700
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4eac6cd8dd0def90800000000000000
+      internalID: -6922861827136377270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Milton_Skate_sprite_sheet_7
+      rect:
+        serializedVersion: 2
+        x: 629
+        y: 4479
+        width: 634
+        height: 700
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c15533f797804ef0800000000000000
+      internalID: -125951702876204607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Milton_Skate_sprite_sheet_8
+      rect:
+        serializedVersion: 2
+        x: 2550
+        y: 4480
+        width: 637
+        height: 700
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81cf9f044362f4ef0800000000000000
+      internalID: -121836659045434344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Milton_Skate_sprite_sheet_9
+      rect:
+        serializedVersion: 2
+        x: 4470
+        y: 4480
+        width: 639
+        height: 700
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ef223f66b5f210b0800000000000000
+      internalID: -5759270809555030042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Milton_Skate_sprite_sheet_10
+      rect:
+        serializedVersion: 2
+        x: 6390
+        y: 4480
+        width: 639
+        height: 699
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 904c61cd0e9c97690800000000000000
+      internalID: -7603824528236035063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Milton_Skate_sprite_sheet_11
+      rect:
+        serializedVersion: 2
+        x: 8310
+        y: 4480
+        width: 640
+        height: 695
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f14ece13d6740fd80800000000000000
+      internalID: -8218990785636539361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Milton_Skate_sprite_sheet_12
+      rect:
+        serializedVersion: 2
+        x: 10230
+        y: 4480
+        width: 640
+        height: 690
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c051487e9762047a0800000000000000
+      internalID: -6395069165849012980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Milton_Skate_sprite_sheet_13
+      rect:
+        serializedVersion: 2
+        x: 12150
+        y: 4480
+        width: 639
+        height: 683
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 556210e95d8c5b690800000000000000
+      internalID: -7586937177431267755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Milton_Skate_sprite_sheet_14
+      rect:
+        serializedVersion: 2
+        x: 630
+        y: 3400
+        width: 638
+        height: 676
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 688b8d1eb9a45ba70800000000000000
+      internalID: 8842055476781299846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Milton_Skate_sprite_sheet_15
+      rect:
+        serializedVersion: 2
+        x: 2550
+        y: 3400
+        width: 635
+        height: 669
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e022f6f487d866470800000000000000
+      internalID: 8387546903892402702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Milton_Skate_sprite_sheet_16
+      rect:
+        serializedVersion: 2
+        x: 4470
+        y: 3401
+        width: 631
+        height: 662
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0528b874681776670800000000000000
+      internalID: 8531912840616575568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Milton_Skate_sprite_sheet_17
+      rect:
+        serializedVersion: 2
+        x: 6390
+        y: 3401
+        width: 624
+        height: 656
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a0d07313d393f360800000000000000
+      internalID: 7202262763869098146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Milton_Skate_sprite_sheet_18
+      rect:
+        serializedVersion: 2
+        x: 8310
+        y: 3399
+        width: 624
+        height: 655
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb157b7f255b56c40800000000000000
+      internalID: 5505005487478231486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Milton_Skate_sprite_sheet_19
+      rect:
+        serializedVersion: 2
+        x: 10230
+        y: 3396
+        width: 624
+        height: 656
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2bc84807c11cde0b0800000000000000
+      internalID: -5697685625662829390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Milton_Skate_sprite_sheet_20
+      rect:
+        serializedVersion: 2
+        x: 12150
+        y: 3396
+        width: 624
+        height: 656
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b980a78c2d606a20800000000000000
+      internalID: 3053560585378630064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Milton_Skate_sprite_sheet_21
+      rect:
+        serializedVersion: 2
+        x: 630
+        y: 2321
+        width: 624
+        height: 651
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1739e87120dbce280800000000000000
+      internalID: -9012620937592401039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Milton_Skate_sprite_sheet_22
+      rect:
+        serializedVersion: 2
+        x: 2550
+        y: 2315
+        width: 624
+        height: 657
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b181fb87115ffe5d0800000000000000
+      internalID: -3030934568808015845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Milton_Skate_sprite_sheet_23
+      rect:
+        serializedVersion: 2
+        x: 4470
+        y: 2319
+        width: 624
+        height: 653
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6a07f6300a543af0800000000000000
+      internalID: -417609908469953937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Milton_Skate_sprite_sheet_24
+      rect:
+        serializedVersion: 2
+        x: 6390
+        y: 2321
+        width: 624
+        height: 651
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ec436ef5961d8b60800000000000000
+      internalID: 7749875367248350440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Milton_Skate_sprite_sheet_25
+      rect:
+        serializedVersion: 2
+        x: 8310
+        y: 2320
+        width: 624
+        height: 653
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51fe0edc838bc5490800000000000000
+      internalID: -7756121904127086827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Milton_Skate_sprite_sheet_26
+      rect:
+        serializedVersion: 2
+        x: 10230
+        y: 2318
+        width: 624
+        height: 656
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab9428b8b0a32e1a0800000000000000
+      internalID: -6781794267606922822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Milton_Skate_sprite_sheet_27
+      rect:
+        serializedVersion: 2
+        x: 12150
+        y: 2316
+        width: 624
+        height: 661
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5805d7291cd6e2660800000000000000
+      internalID: 7362943118951141509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Milton_Skate_sprite_sheet_28
+      rect:
+        serializedVersion: 2
+        x: 630
+        y: 1234
+        width: 624
+        height: 665
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44abbad9532f8ce70800000000000000
+      internalID: 9135818156213516868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Milton_Skate_sprite_sheet_29
+      rect:
+        serializedVersion: 2
+        x: 2550
+        y: 1233
+        width: 624
+        height: 670
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee75f2bfdc0e88a30800000000000000
+      internalID: 4217868226319570926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Milton_Skate_sprite_sheet_30
+      rect:
+        serializedVersion: 2
+        x: 4470
+        y: 1232
+        width: 624
+        height: 674
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c63f0a8184d892e70800000000000000
+      internalID: 9090952663614419820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Milton_Skate_sprite_sheet_31
+      rect:
+        serializedVersion: 2
+        x: 6390
+        y: 1232
+        width: 624
+        height: 678
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c257d8d1fa85c30a0800000000000000
+      internalID: -6900543019900111572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Milton_Skate_sprite_sheet_32
+      rect:
+        serializedVersion: 2
+        x: 8310
+        y: 1234
+        width: 624
+        height: 680
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4c9742cfa43458a0800000000000000
+      internalID: -6317366447810569137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Milton_Skate_sprite_sheet_33
+      rect:
+        serializedVersion: 2
+        x: 10230
+        y: 1237
+        width: 624
+        height: 681
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6618cd4d9c5edb980800000000000000
+      internalID: -8521402264892702362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Milton_Skate_sprite_sheet_34
+      rect:
+        serializedVersion: 2
+        x: 12150
+        y: 1240
+        width: 624
+        height: 681
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e55c03f13d0cd8a00800000000000000
+      internalID: 760475925089404254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Milton_Skate_sprite_sheet_35
+      rect:
+        serializedVersion: 2
+        x: 630
+        y: 164
+        width: 624
+        height: 680
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12f21648588bf9b00800000000000000
+      internalID: 837590939305324321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Milton_Skate_sprite_sheet_36
+      rect:
+        serializedVersion: 2
+        x: 2550
+        y: 168
+        width: 624
+        height: 679
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9468ecf09fef70890800000000000000
+      internalID: -7491739109442025911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Milton_Skate_sprite_sheet_37
+      rect:
+        serializedVersion: 2
+        x: 4470
+        y: 170
+        width: 624
+        height: 679
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 949f9f74bda893eb0800000000000000
+      internalID: -4739604458420700855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Milton_Skate_sprite_sheet_38
+      rect:
+        serializedVersion: 2
+        x: 6390
+        y: 172
+        width: 624
+        height: 678
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: faf5831a67eed5870800000000000000
+      internalID: 8673350650663821231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Milton_Skate_sprite_sheet_39
+      rect:
+        serializedVersion: 2
+        x: 8310
+        y: 173
+        width: 624
+        height: 678
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 826b69e75a5d46050800000000000000
+      internalID: 5792989927475426856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Milton_Skate_sprite_sheet_0: -685010542923489928
+      Milton_Skate_sprite_sheet_1: -5914905395348433879
+      Milton_Skate_sprite_sheet_10: -7603824528236035063
+      Milton_Skate_sprite_sheet_11: -8218990785636539361
+      Milton_Skate_sprite_sheet_12: -6395069165849012980
+      Milton_Skate_sprite_sheet_13: -7586937177431267755
+      Milton_Skate_sprite_sheet_14: 8842055476781299846
+      Milton_Skate_sprite_sheet_15: 8387546903892402702
+      Milton_Skate_sprite_sheet_16: 8531912840616575568
+      Milton_Skate_sprite_sheet_17: 7202262763869098146
+      Milton_Skate_sprite_sheet_18: 5505005487478231486
+      Milton_Skate_sprite_sheet_19: -5697685625662829390
+      Milton_Skate_sprite_sheet_2: 1841922135867325619
+      Milton_Skate_sprite_sheet_20: 3053560585378630064
+      Milton_Skate_sprite_sheet_21: -9012620937592401039
+      Milton_Skate_sprite_sheet_22: -3030934568808015845
+      Milton_Skate_sprite_sheet_23: -417609908469953937
+      Milton_Skate_sprite_sheet_24: 7749875367248350440
+      Milton_Skate_sprite_sheet_25: -7756121904127086827
+      Milton_Skate_sprite_sheet_26: -6781794267606922822
+      Milton_Skate_sprite_sheet_27: 7362943118951141509
+      Milton_Skate_sprite_sheet_28: 9135818156213516868
+      Milton_Skate_sprite_sheet_29: 4217868226319570926
+      Milton_Skate_sprite_sheet_3: 2503695204940946394
+      Milton_Skate_sprite_sheet_30: 9090952663614419820
+      Milton_Skate_sprite_sheet_31: -6900543019900111572
+      Milton_Skate_sprite_sheet_32: -6317366447810569137
+      Milton_Skate_sprite_sheet_33: -8521402264892702362
+      Milton_Skate_sprite_sheet_34: 760475925089404254
+      Milton_Skate_sprite_sheet_35: 837590939305324321
+      Milton_Skate_sprite_sheet_36: -7491739109442025911
+      Milton_Skate_sprite_sheet_37: -4739604458420700855
+      Milton_Skate_sprite_sheet_38: 8673350650663821231
+      Milton_Skate_sprite_sheet_39: 5792989927475426856
+      Milton_Skate_sprite_sheet_4: -987124023253107102
+      Milton_Skate_sprite_sheet_5: 2438986605230756784
+      Milton_Skate_sprite_sheet_6: -6922861827136377270
+      Milton_Skate_sprite_sheet_7: -125951702876204607
+      Milton_Skate_sprite_sheet_8: -121836659045434344
+      Milton_Skate_sprite_sheet_9: -5759270809555030042
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
