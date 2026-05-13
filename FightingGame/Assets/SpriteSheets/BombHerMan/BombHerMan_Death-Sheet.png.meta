@@ -1,0 +1,624 @@
+fileFormatVersion: 2
+guid: 92f9d0c7d79f7814286c2060442c30d4
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4468529878258809654
+    second: BombHerMan_Death-Sheet_0
+  - first:
+      213: -5647770762968712441
+    second: BombHerMan_Death-Sheet_1
+  - first:
+      213: 2693265819297378595
+    second: BombHerMan_Death-Sheet_2
+  - first:
+      213: 8492332146418761887
+    second: BombHerMan_Death-Sheet_3
+  - first:
+      213: -7075356921456429161
+    second: BombHerMan_Death-Sheet_4
+  - first:
+      213: -5572979496421697098
+    second: BombHerMan_Death-Sheet_5
+  - first:
+      213: -1969256728700568997
+    second: BombHerMan_Death-Sheet_6
+  - first:
+      213: -3864065418549554832
+    second: BombHerMan_Death-Sheet_7
+  - first:
+      213: 8920807699769313744
+    second: BombHerMan_Death-Sheet_8
+  - first:
+      213: 5256930783408433683
+    second: BombHerMan_Death-Sheet_9
+  - first:
+      213: -5803761203873405168
+    second: BombHerMan_Death-Sheet_10
+  - first:
+      213: 371645104182503929
+    second: BombHerMan_Death-Sheet_11
+  - first:
+      213: 8512308867888350464
+    second: BombHerMan_Death-Sheet_12
+  - first:
+      213: -2743807009404670481
+    second: BombHerMan_Death-Sheet_13
+  - first:
+      213: 5858257139242478609
+    second: BombHerMan_Death-Sheet_14
+  - first:
+      213: 2407991875624136552
+    second: BombHerMan_Death-Sheet_15
+  - first:
+      213: 3033835662654991932
+    second: BombHerMan_Death-Sheet_16
+  - first:
+      213: 1522851237658900503
+    second: BombHerMan_Death-Sheet_17
+  - first:
+      213: 8731336075724524473
+    second: BombHerMan_Death-Sheet_18
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: BombHerMan_Death-Sheet_0
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 0
+        width: 24
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac40a2240c79cf1c0800000000000000
+      internalID: -4468529878258809654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BombHerMan_Death-Sheet_1
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 0
+        width: 24
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70bb96c0a661f91b0800000000000000
+      internalID: -5647770762968712441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BombHerMan_Death-Sheet_2
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 28
+        width: 24
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 321fbec3ef6606520800000000000000
+      internalID: 2693265819297378595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BombHerMan_Death-Sheet_3
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 0
+        width: 24
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f90cbe5c713dad570800000000000000
+      internalID: 8492332146418761887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BombHerMan_Death-Sheet_4
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 27
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 797fc75ed584fcd90800000000000000
+      internalID: -7075356921456429161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BombHerMan_Death-Sheet_5
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 0
+        width: 24
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b9df37ccacc8a2b0800000000000000
+      internalID: -5572979496421697098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BombHerMan_Death-Sheet_6
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 28
+        width: 22
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5a3146507bcba4e0800000000000000
+      internalID: -1969256728700568997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BombHerMan_Death-Sheet_7
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 0
+        width: 24
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0719b7a79f4106ac0800000000000000
+      internalID: -3864065418549554832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BombHerMan_Death-Sheet_8
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 26
+        width: 20
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d9c156a6531dcb70800000000000000
+      internalID: 8920807699769313744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BombHerMan_Death-Sheet_9
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 10
+        width: 24
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31a20e1f1be54f840800000000000000
+      internalID: 5256930783408433683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BombHerMan_Death-Sheet_10
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 26
+        width: 20
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 017aee94fe5e47fa0800000000000000
+      internalID: -5803761203873405168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BombHerMan_Death-Sheet_11
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 0
+        width: 18
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f9af41d049582500800000000000000
+      internalID: 371645104182503929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BombHerMan_Death-Sheet_12
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 17
+        width: 24
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00584e0b0dbc12670800000000000000
+      internalID: 8512308867888350464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BombHerMan_Death-Sheet_13
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 10
+        width: 51
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fed2530ff0a0ce9d0800000000000000
+      internalID: -2743807009404670481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BombHerMan_Death-Sheet_14
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 0
+        width: 21
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11ca17b64d5bc4150800000000000000
+      internalID: 5858257139242478609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BombHerMan_Death-Sheet_15
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 35
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86f6a905ad7ea6120800000000000000
+      internalID: 2407991875624136552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BombHerMan_Death-Sheet_16
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 0
+        width: 21
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3e667316795a1a20800000000000000
+      internalID: 3033835662654991932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BombHerMan_Death-Sheet_17
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 0
+        width: 22
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7183c6ad121422510800000000000000
+      internalID: 1522851237658900503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BombHerMan_Death-Sheet_18
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 0
+        width: 23
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9bb0d1876efeb2970800000000000000
+      internalID: 8731336075724524473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      BombHerMan_Death-Sheet_0: -4468529878258809654
+      BombHerMan_Death-Sheet_1: -5647770762968712441
+      BombHerMan_Death-Sheet_10: -5803761203873405168
+      BombHerMan_Death-Sheet_11: 371645104182503929
+      BombHerMan_Death-Sheet_12: 8512308867888350464
+      BombHerMan_Death-Sheet_13: -2743807009404670481
+      BombHerMan_Death-Sheet_14: 5858257139242478609
+      BombHerMan_Death-Sheet_15: 2407991875624136552
+      BombHerMan_Death-Sheet_16: 3033835662654991932
+      BombHerMan_Death-Sheet_17: 1522851237658900503
+      BombHerMan_Death-Sheet_18: 8731336075724524473
+      BombHerMan_Death-Sheet_2: 2693265819297378595
+      BombHerMan_Death-Sheet_3: 8492332146418761887
+      BombHerMan_Death-Sheet_4: -7075356921456429161
+      BombHerMan_Death-Sheet_5: -5572979496421697098
+      BombHerMan_Death-Sheet_6: -1969256728700568997
+      BombHerMan_Death-Sheet_7: -3864065418549554832
+      BombHerMan_Death-Sheet_8: 8920807699769313744
+      BombHerMan_Death-Sheet_9: 5256930783408433683
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

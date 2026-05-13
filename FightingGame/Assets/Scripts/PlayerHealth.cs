@@ -7,6 +7,7 @@ public class PlayerHealth : MonoBehaviour
 {
     PlayerInformation p;
     GlobalInformation g;
+
     void Start()
     {
         p = GetComponent<PlayerInformation>();

@@ -473,6 +473,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: '::'
   PlayerInformation: {fileID: 7530658709007922272}
   damage: 1
+  isProjectile: 0
 --- !u!1 &7963431252727144005
 GameObject:
   m_ObjectHideFlags: 0
@@ -835,6 +836,14 @@ MonoBehaviour:
         m_CallState: 2
     m_ActionId: 7bec7f61-b6d1-45e4-a829-b18e4e382ada
     m_ActionName: 'Controller/Special[/XInputControllerWindows1/buttonSouth]'
+  - m_PersistentCalls:
+      m_Calls: []
+    m_ActionId: 128fb580-f019-42ad-a399-cdf260f16688
+    m_ActionName: Select/Switch
+  - m_PersistentCalls:
+      m_Calls: []
+    m_ActionId: 5d78083b-dd88-49ae-81d3-8eea5d3bcc83
+    m_ActionName: Select/Ready
   m_NeverAutoSwitchControlSchemes: 1
   m_DefaultControlScheme: 
   m_DefaultActionMap: Controller
@@ -907,7 +916,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: '::'
   thisPlayer: 0
-  characterName: Heavy
+  characterName: Ranged
   windUp: 0.17
   Hurt: 0.07
   cooldown: 0.34
@@ -927,9 +936,9 @@ MonoBehaviour:
   blockCooldown: 0.5
   stunnedTime: 1
   stunned: 0
-  specialWindUp: 0.3
-  specialHurt: 0.1
-  specialCooldown: 0.5
+  specialWindUp: 1
+  specialHurt: 0
+  specialCooldown: 0
   projectileDelay: 0
   inSpecial: 0
 --- !u!114 &-6290266658389532728

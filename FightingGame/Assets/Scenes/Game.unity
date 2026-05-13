@@ -821,9 +821,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 1303fa34cc8afdf47b054ada8fd6041b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: '::'
-  g: {fileID: 2075722478}
   spawnpoint1: {fileID: 2085092599}
   spawnpoint2: {fileID: 758935334}
+  winText: {fileID: 360854680}
 --- !u!114 &1248864532
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -1179,6 +1179,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3f7bd1946b8892644923fadc542a47d7, type: 3}
   m_Name: 
   m_EditorClassIdentifier: '::'
+  state: 0
   player1Character: {fileID: 8144418025246382057, guid: 9a0fa276815d10b4484cce175e3fb066, type: 3}
   player2Character: {fileID: 8144418025246382057, guid: 3c8b0a6d1a257d644b29bbb43e429053, type: 3}
   text: {fileID: 360854680}

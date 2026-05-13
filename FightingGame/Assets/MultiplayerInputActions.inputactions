@@ -117,7 +117,7 @@
                 {
                     "name": "",
                     "id": "4282e052-09cf-4499-8dd6-1b57d55e0b7d",
-                    "path": "<Gamepad>/leftStick/left",
+                    "path": "<Gamepad>/leftStick",
                     "interactions": "",
                     "processors": "",
                     "groups": "",
@@ -139,5 +139,17 @@
             ]
         }
     ],
-    "controlSchemes": []
+    "controlSchemes": [
+        {
+            "name": "Controller",
+            "bindingGroup": "Controller",
+            "devices": [
+                {
+                    "devicePath": "<Gamepad>",
+                    "isOptional": false,
+                    "isOR": false
+                }
+            ]
+        }
+    ]
 }

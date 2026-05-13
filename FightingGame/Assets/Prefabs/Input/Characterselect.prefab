@@ -1,0 +1,130 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &3004877007662660085
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1046210680760330217}
+  - component: {fileID: 8627287790371197927}
+  - component: {fileID: 1475654226392731292}
+  m_Layer: 0
+  m_Name: Characterselect
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &1046210680760330217
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3004877007662660085}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: -2.23611, y: 0.12917, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &8627287790371197927
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3004877007662660085}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 62899f850307741f2a39c98a8b639597, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Unity.InputSystem::UnityEngine.InputSystem.PlayerInput
+  m_Actions: {fileID: -944628639613478452, guid: bc387c7902ee6ed49a436457d4819a16, type: 3}
+  m_NotificationBehavior: 2
+  m_UIInputModule: {fileID: 0}
+  m_DeviceLostEvent:
+    m_PersistentCalls:
+      m_Calls: []
+  m_DeviceRegainedEvent:
+    m_PersistentCalls:
+      m_Calls: []
+  m_ControlsChangedEvent:
+    m_PersistentCalls:
+      m_Calls: []
+  m_ActionEvents:
+  - m_PersistentCalls:
+      m_Calls: []
+    m_ActionId: eb34f8d7-7c77-4482-97d4-80d4182deb2f
+    m_ActionName: 'Controller/Move[/DualShock4GamepadHID/leftStick,/XInputControllerWindows1/leftStick]'
+  - m_PersistentCalls:
+      m_Calls: []
+    m_ActionId: ad0229b4-111b-42ed-922e-0ad67bf98fcb
+    m_ActionName: 'Controller/Block[/DualShock4GamepadHID/buttonEast,/XInputControllerWindows1/buttonEast]'
+  - m_PersistentCalls:
+      m_Calls: []
+    m_ActionId: 0174c5c4-aa75-48fb-97f1-38f9c4419933
+    m_ActionName: 'Controller/Attack[/DualShock4GamepadHID/buttonWest,/XInputControllerWindows1/buttonWest]'
+  - m_PersistentCalls:
+      m_Calls: []
+    m_ActionId: 7bec7f61-b6d1-45e4-a829-b18e4e382ada
+    m_ActionName: 'Controller/Special[/DualShock4GamepadHID/buttonSouth,/XInputControllerWindows1/buttonSouth]'
+  - m_PersistentCalls:
+      m_Calls:
+      - m_Target: {fileID: 1475654226392731292}
+        m_TargetAssemblyTypeName: SelectInput, Assembly-CSharp
+        m_MethodName: Switch
+        m_Mode: 0
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 2
+    m_ActionId: 128fb580-f019-42ad-a399-cdf260f16688
+    m_ActionName: 'Select/Switch[/DualShock4GamepadHID/leftStick/left,/XInputControllerWindows1/leftStick/left]'
+  - m_PersistentCalls:
+      m_Calls:
+      - m_Target: {fileID: 1475654226392731292}
+        m_TargetAssemblyTypeName: SelectInput, Assembly-CSharp
+        m_MethodName: Ready
+        m_Mode: 1
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 2
+    m_ActionId: 5d78083b-dd88-49ae-81d3-8eea5d3bcc83
+    m_ActionName: 'Select/Ready[/DualShock4GamepadHID/buttonWest,/XInputControllerWindows1/buttonWest]'
+  m_NeverAutoSwitchControlSchemes: 0
+  m_DefaultControlScheme: Controller
+  m_DefaultActionMap: Select
+  m_SplitScreenIndex: -1
+  m_Camera: {fileID: 0}
+--- !u!114 &1475654226392731292
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3004877007662660085}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 11df97390bf01e34989f63cd2aef07ad, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::SelectInput
+  ready: 0
+  choiceDir: {x: 0, y: 0}
+  choice: 0
+  switched: 0
+  thisPlayer: 0

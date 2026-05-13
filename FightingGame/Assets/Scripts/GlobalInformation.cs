@@ -11,6 +11,9 @@ public class GlobalInformation : MonoBehaviour
     public GameObject player1Character;
     public GameObject player2Character;
 
+    public Gamepad p1Controller;
+    public Gamepad p2Controller;
+
     public TMP_Text text;
 
     public bool gameOver;
@@ -19,6 +22,7 @@ public class GlobalInformation : MonoBehaviour
 
     private void Awake()
     {
+        DontDestroyOnLoad(gameObject);
         if (instance == null)
         {
             instance = this;
