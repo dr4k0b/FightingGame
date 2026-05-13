@@ -1,10 +1,16 @@
 fileFormatVersion: 2
-guid: c2bdc58f04e5fd148a9bbba884ed40a1
+guid: 89b872de8683f334c80ad1c6374ce979
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: -8532816129797798633
-    second: BombHerMan_Bomb-Sheet_0
+      213: -5535457218586074702
+    second: Health_bar1_0
+  - first:
+      213: -2407375877689776010
+    second: Health_bar1_1
+  - first:
+      213: 4000912608039331025
+    second: Health_bar1_2
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -100,13 +106,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: BombHerMan_Bomb-Sheet_0
+      name: Health_bar1_0
       rect:
         serializedVersion: 2
-        x: 0
-        y: 0
-        width: 32
-        height: 16
+        x: 2
+        y: 14
+        width: 128
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -115,8 +121,52 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 715cda150f8559980800000000000000
-      internalID: -8532816129797798633
+      spriteID: 2b12ec0ecfa1e23b0800000000000000
+      internalID: -5535457218586074702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Health_bar1_1
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 24
+        width: 76
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 678e471e468479ed0800000000000000
+      internalID: -2407375877689776010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Health_bar1_2
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 14
+        width: 128
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d4e09bb1d8168730800000000000000
+      internalID: 4000912608039331025
       vertices: []
       indices: 
       edges: []
@@ -135,7 +185,9 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      BombHerMan_Bomb-Sheet_0: -8532816129797798633
+      Health_bar1_0: -5535457218586074702
+      Health_bar1_1: -2407375877689776010
+      Health_bar1_2: 4000912608039331025
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
