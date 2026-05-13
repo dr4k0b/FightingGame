@@ -1,14 +1,16 @@
+using TMPro;
 using UnityEngine;
 using UnityEngine.SceneManagement;
+using static PlayerInformation;
 
 public class PlayerHealth : MonoBehaviour
 {
     PlayerInformation p;
-    Rigidbody2D rb;
+    GlobalInformation g;
     void Start()
     {
         p = GetComponent<PlayerInformation>();
-        rb = GetComponent<Rigidbody2D>();
+        g = FindFirstObjectByType<GlobalInformation>();
         p.health = p.maxHealth;
     }
 
@@ -16,13 +18,20 @@ public class PlayerHealth : MonoBehaviour
     {
         if (p.health <= 0)
         {
-            SceneManager.LoadScene("GameOver");
+            g.text.text = (p.thisPlayer == Player.Player1) ? "Player 2 Wins!" : "Player 1 Wins!";
+            g.gameOver = true;
+        }
+
+        if (g.gameOver)
+        {
+        p.canMove = false;
+        p.stunned = true;
         }
     }
 
     public void TakeDamage(float damage)
     {
         p.health -= damage;
-        rb.linearVelocityX = p.knockback;
+        p.currentKnockback = p.knockback;
     }
 }

@@ -1,0 +1,650 @@
+fileFormatVersion: 2
+guid: a45bb3781d096e0438e040bff48e26a9
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -898795542964510136
+    second: Milton_Death_sprite_sheet_0
+  - first:
+      213: -5378884789913300025
+    second: Milton_Death_sprite_sheet_1
+  - first:
+      213: 6643497562652616591
+    second: Milton_Death_sprite_sheet_2
+  - first:
+      213: 2493795604454363988
+    second: Milton_Death_sprite_sheet_3
+  - first:
+      213: 7184677019232166030
+    second: Milton_Death_sprite_sheet_4
+  - first:
+      213: 7392598115015357598
+    second: Milton_Death_sprite_sheet_5
+  - first:
+      213: 3702198076721993993
+    second: Milton_Death_sprite_sheet_6
+  - first:
+      213: -6082378728272775926
+    second: Milton_Death_sprite_sheet_7
+  - first:
+      213: -2942527242383630050
+    second: Milton_Death_sprite_sheet_8
+  - first:
+      213: -9215559444802047720
+    second: Milton_Death_sprite_sheet_9
+  - first:
+      213: 3218555707325630084
+    second: Milton_Death_sprite_sheet_10
+  - first:
+      213: -3947779625602367335
+    second: Milton_Death_sprite_sheet_11
+  - first:
+      213: -26019921963667720
+    second: Milton_Death_sprite_sheet_12
+  - first:
+      213: -3383381733238644079
+    second: Milton_Death_sprite_sheet_13
+  - first:
+      213: 7065106779519338761
+    second: Milton_Death_sprite_sheet_14
+  - first:
+      213: -3996272985788590728
+    second: Milton_Death_sprite_sheet_15
+  - first:
+      213: 1593479901981778740
+    second: Milton_Death_sprite_sheet_16
+  - first:
+      213: 1445785926891723585
+    second: Milton_Death_sprite_sheet_17
+  - first:
+      213: 5164276737142442256
+    second: Milton_Death_sprite_sheet_18
+  - first:
+      213: 8145191803317819664
+    second: Milton_Death_sprite_sheet_19
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Milton_Death_sprite_sheet_0
+      rect:
+        serializedVersion: 2
+        x: 630
+        y: 3399
+        width: 624
+        height: 692
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84265e73736d683f0800000000000000
+      internalID: -898795542964510136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Milton_Death_sprite_sheet_1
+      rect:
+        serializedVersion: 2
+        x: 2543
+        y: 3399
+        width: 635
+        height: 679
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c3577938cc5a55b0800000000000000
+      internalID: -5378884789913300025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Milton_Death_sprite_sheet_2
+      rect:
+        serializedVersion: 2
+        x: 4452
+        y: 3400
+        width: 682
+        height: 680
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f872510a5d1723c50800000000000000
+      internalID: 6643497562652616591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Milton_Death_sprite_sheet_3
+      rect:
+        serializedVersion: 2
+        x: 6366
+        y: 3401
+        width: 643
+        height: 687
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 453dee9b3edbb9220800000000000000
+      internalID: 2493795604454363988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Milton_Death_sprite_sheet_4
+      rect:
+        serializedVersion: 2
+        x: 8295
+        y: 3396
+        width: 624
+        height: 700
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e80ee35dea915b360800000000000000
+      internalID: 7184677019232166030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Milton_Death_sprite_sheet_5
+      rect:
+        serializedVersion: 2
+        x: 633
+        y: 2306
+        width: 659
+        height: 742
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9476b461d8c79660800000000000000
+      internalID: 7392598115015357598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Milton_Death_sprite_sheet_6
+      rect:
+        serializedVersion: 2
+        x: 2563
+        y: 2301
+        width: 687
+        height: 778
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90916232989d06330800000000000000
+      internalID: 3702198076721993993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Milton_Death_sprite_sheet_7
+      rect:
+        serializedVersion: 2
+        x: 4570
+        y: 2286
+        width: 619
+        height: 814
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a05b8efb5cc079ba0800000000000000
+      internalID: -6082378728272775926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Milton_Death_sprite_sheet_8
+      rect:
+        serializedVersion: 2
+        x: 6495
+        y: 2269
+        width: 687
+        height: 814
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1160df201b0a27d0800000000000000
+      internalID: -2942527242383630050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Milton_Death_sprite_sheet_9
+      rect:
+        serializedVersion: 2
+        x: 8395
+        y: 2294
+        width: 710
+        height: 770
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 811f316d281cb1080800000000000000
+      internalID: -9215559444802047720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Milton_Death_sprite_sheet_10
+      rect:
+        serializedVersion: 2
+        x: 715
+        y: 1258
+        width: 696
+        height: 716
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48643f8fc5b9aac20800000000000000
+      internalID: 3218555707325630084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Milton_Death_sprite_sheet_11
+      rect:
+        serializedVersion: 2
+        x: 2635
+        y: 1298
+        width: 686
+        height: 648
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9904274c85ba639c0800000000000000
+      internalID: -3947779625602367335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Milton_Death_sprite_sheet_12
+      rect:
+        serializedVersion: 2
+        x: 4555
+        y: 1323
+        width: 706
+        height: 604
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8fea542d40f83aff0800000000000000
+      internalID: -26019921963667720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Milton_Death_sprite_sheet_13
+      rect:
+        serializedVersion: 2
+        x: 6475
+        y: 1336
+        width: 712
+        height: 571
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 192e3c25d30db01d0800000000000000
+      internalID: -3383381733238644079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Milton_Death_sprite_sheet_14
+      rect:
+        serializedVersion: 2
+        x: 8395
+        y: 1283
+        width: 722
+        height: 586
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9094475fe2d4c0260800000000000000
+      internalID: 7065106779519338761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Milton_Death_sprite_sheet_15
+      rect:
+        serializedVersion: 2
+        x: 715
+        y: 149
+        width: 730
+        height: 593
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 875d49084e26a88c0800000000000000
+      internalID: -3996272985788590728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Milton_Death_sprite_sheet_16
+      rect:
+        serializedVersion: 2
+        x: 2635
+        y: 99
+        width: 731
+        height: 594
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 433295a378d2d1610800000000000000
+      internalID: 1593479901981778740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Milton_Death_sprite_sheet_17
+      rect:
+        serializedVersion: 2
+        x: 4555
+        y: 58
+        width: 730
+        height: 592
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14bd3a1f3a6701410800000000000000
+      internalID: 1445785926891723585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Milton_Death_sprite_sheet_18
+      rect:
+        serializedVersion: 2
+        x: 6475
+        y: 31
+        width: 728
+        height: 589
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0194037b4523ba740800000000000000
+      internalID: 5164276737142442256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Milton_Death_sprite_sheet_19
+      rect:
+        serializedVersion: 2
+        x: 8395
+        y: 20
+        width: 727
+        height: 589
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0199e204ac8890170800000000000000
+      internalID: 8145191803317819664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Milton_Death_sprite_sheet_0: -898795542964510136
+      Milton_Death_sprite_sheet_1: -5378884789913300025
+      Milton_Death_sprite_sheet_10: 3218555707325630084
+      Milton_Death_sprite_sheet_11: -3947779625602367335
+      Milton_Death_sprite_sheet_12: -26019921963667720
+      Milton_Death_sprite_sheet_13: -3383381733238644079
+      Milton_Death_sprite_sheet_14: 7065106779519338761
+      Milton_Death_sprite_sheet_15: -3996272985788590728
+      Milton_Death_sprite_sheet_16: 1593479901981778740
+      Milton_Death_sprite_sheet_17: 1445785926891723585
+      Milton_Death_sprite_sheet_18: 5164276737142442256
+      Milton_Death_sprite_sheet_19: 8145191803317819664
+      Milton_Death_sprite_sheet_2: 6643497562652616591
+      Milton_Death_sprite_sheet_3: 2493795604454363988
+      Milton_Death_sprite_sheet_4: 7184677019232166030
+      Milton_Death_sprite_sheet_5: 7392598115015357598
+      Milton_Death_sprite_sheet_6: 3702198076721993993
+      Milton_Death_sprite_sheet_7: -6082378728272775926
+      Milton_Death_sprite_sheet_8: -2942527242383630050
+      Milton_Death_sprite_sheet_9: -9215559444802047720
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
