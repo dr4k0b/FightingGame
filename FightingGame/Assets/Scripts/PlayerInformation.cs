@@ -45,4 +45,7 @@ public class PlayerInformation : MonoBehaviour
     public float specialCooldown;
     public float projectileDelay;
     public bool inSpecial;
+
+    [Header("")]
+    public Animator animator;
 }

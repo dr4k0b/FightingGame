@@ -20,6 +20,7 @@ public class PlayerSpecial : MonoBehaviour
 
     private void Update()
     {
+        p.animator.SetBool("Special", p.inSpecial);
         if (p.stunned)
         {
             if (weapon)
@@ -44,6 +45,8 @@ public class PlayerSpecial : MonoBehaviour
 
     IEnumerator SpecialMelee()
     {
+
+        p.animator.SetTrigger("Next");
         p.inSpecial = true;
         p.canMove = false;
 

@@ -12,6 +12,10 @@ public class PlayerAttack : MonoBehaviour
     {
         p = GetComponent<PlayerInformation>();
     }
+    private void Update()
+    {
+        p.animator.SetBool("Attack", p.attacking);
+    }
     public void Attack()
     {
         if (!p.attacking && !p.stunned && !p.inSpecial)
@@ -50,6 +54,8 @@ public class PlayerAttack : MonoBehaviour
     {
         p.attacking = true;
         p.canMove = false;
+
+        p.animator.SetTrigger("Next");
 
         yield return new WaitForSeconds(p.windUp);
 

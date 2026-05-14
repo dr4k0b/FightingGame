@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!221 &22100000
+AnimatorOverrideController:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: MiltonTheMouse
+  m_Controller: {fileID: 9100000, guid: c313744d12ca3f2428f95ad576374be1, type: 2}
+  m_Clips:
+  - m_OriginalClip: {fileID: 7400000, guid: 883813dff226fae4cb100da9577c743b, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: f8d4435676f04e0459fcd53247591319, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: 09a8505532ab6e94f95d7f26b967b871, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 549b3946685efd04f8eea096196773e7, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: 6e90b7da1f26f00489790b0ef6e74f25, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 6448c622bbf9bec4a9fc0cfedb34c3cd, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: 6d77b6eed3c6eea45b7c768c52ed7f17, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 83cac7e0f8b1fe94abf5a879415de221, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: 3a4659de36d63794daa1449b873707d4, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 623161b2799232146aecd9a359979336, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: bf1acdf927e249d40912a9987291627f, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 06b5eeb98b8164040a187b39deaf788b, type: 2}

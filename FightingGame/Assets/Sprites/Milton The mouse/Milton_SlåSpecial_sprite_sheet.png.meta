@@ -213,7 +213,7 @@ TextureImporter:
   platformSettings:
   - serializedVersion: 4
     buildTarget: DefaultTexturePlatform
-    maxTextureSize: 2048
+    maxTextureSize: 8192
     resizeAlgorithm: 0
     textureFormat: -1
     textureCompression: 1
@@ -257,12 +257,12 @@ TextureImporter:
       name: "Milton_Sl\xE5Special_sprite_sheet_0"
       rect:
         serializedVersion: 2
-        x: 630
-        y: 6639
-        width: 624
-        height: 692
+        x: 0
+        y: 6480
+        width: 1920
+        height: 1080
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -279,12 +279,12 @@ TextureImporter:
       name: "Milton_Sl\xE5Special_sprite_sheet_1"
       rect:
         serializedVersion: 2
-        x: 2550
-        y: 6639
-        width: 624
-        height: 692
+        x: 1920
+        y: 6480
+        width: 1920
+        height: 1080
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -301,12 +301,12 @@ TextureImporter:
       name: "Milton_Sl\xE5Special_sprite_sheet_2"
       rect:
         serializedVersion: 2
-        x: 4470
-        y: 6639
-        width: 624
-        height: 692
+        x: 3840
+        y: 6480
+        width: 1920
+        height: 1080
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -323,12 +323,12 @@ TextureImporter:
       name: "Milton_Sl\xE5Special_sprite_sheet_3"
       rect:
         serializedVersion: 2
-        x: 6390
-        y: 6639
-        width: 624
-        height: 691
+        x: 5760
+        y: 6480
+        width: 1920
+        height: 1080
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -345,12 +345,12 @@ TextureImporter:
       name: "Milton_Sl\xE5Special_sprite_sheet_4"
       rect:
         serializedVersion: 2
-        x: 8310
-        y: 6639
-        width: 624
-        height: 689
+        x: 7680
+        y: 6480
+        width: 1920
+        height: 1080
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -367,12 +367,12 @@ TextureImporter:
       name: "Milton_Sl\xE5Special_sprite_sheet_5"
       rect:
         serializedVersion: 2
-        x: 10230
-        y: 6640
-        width: 624
-        height: 685
+        x: 9600
+        y: 6480
+        width: 1920
+        height: 1080
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -389,12 +389,12 @@ TextureImporter:
       name: "Milton_Sl\xE5Special_sprite_sheet_6"
       rect:
         serializedVersion: 2
-        x: 12150
-        y: 6640
-        width: 624
-        height: 683
+        x: 11520
+        y: 6480
+        width: 1920
+        height: 1080
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -411,12 +411,12 @@ TextureImporter:
       name: "Milton_Sl\xE5Special_sprite_sheet_7"
       rect:
         serializedVersion: 2
-        x: 630
-        y: 5560
-        width: 624
-        height: 681
+        x: 0
+        y: 5400
+        width: 1920
+        height: 1080
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -433,12 +433,12 @@ TextureImporter:
       name: "Milton_Sl\xE5Special_sprite_sheet_8"
       rect:
         serializedVersion: 2
-        x: 2550
-        y: 5560
-        width: 624
-        height: 680
+        x: 1920
+        y: 5400
+        width: 1920
+        height: 1080
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -455,12 +455,12 @@ TextureImporter:
       name: "Milton_Sl\xE5Special_sprite_sheet_9"
       rect:
         serializedVersion: 2
-        x: 4474
-        y: 5558
-        width: 618
-        height: 674
+        x: 3840
+        y: 5400
+        width: 1920
+        height: 1080
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -477,12 +477,12 @@ TextureImporter:
       name: "Milton_Sl\xE5Special_sprite_sheet_10"
       rect:
         serializedVersion: 2
-        x: 6409
-        y: 5554
-        width: 641
-        height: 715
+        x: 5760
+        y: 5400
+        width: 1920
+        height: 1080
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -499,12 +499,12 @@ TextureImporter:
       name: "Milton_Sl\xE5Special_sprite_sheet_11"
       rect:
         serializedVersion: 2
-        x: 8338
-        y: 5552
-        width: 667
-        height: 720
+        x: 7680
+        y: 5400
+        width: 1920
+        height: 1080
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -521,12 +521,12 @@ TextureImporter:
       name: "Milton_Sl\xE5Special_sprite_sheet_12"
       rect:
         serializedVersion: 2
-        x: 10288
-        y: 5546
-        width: 660
-        height: 727
+        x: 9600
+        y: 5400
+        width: 1920
+        height: 1080
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -543,12 +543,12 @@ TextureImporter:
       name: "Milton_Sl\xE5Special_sprite_sheet_13"
       rect:
         serializedVersion: 2
-        x: 12246
-        y: 5529
-        width: 639
-        height: 717
+        x: 11520
+        y: 5400
+        width: 1920
+        height: 1080
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -565,12 +565,12 @@ TextureImporter:
       name: "Milton_Sl\xE5Special_sprite_sheet_14"
       rect:
         serializedVersion: 2
-        x: 697
-        y: 4464
-        width: 667
-        height: 639
+        x: 0
+        y: 4320
+        width: 1920
+        height: 1080
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -587,12 +587,12 @@ TextureImporter:
       name: "Milton_Sl\xE5Special_sprite_sheet_15"
       rect:
         serializedVersion: 2
-        x: 2586
-        y: 4460
-        width: 689
-        height: 651
+        x: 1920
+        y: 4320
+        width: 1920
+        height: 1080
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -609,12 +609,12 @@ TextureImporter:
       name: "Milton_Sl\xE5Special_sprite_sheet_16"
       rect:
         serializedVersion: 2
-        x: 4484
-        y: 4566
-        width: 711
-        height: 594
+        x: 3840
+        y: 4320
+        width: 1920
+        height: 1080
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -631,12 +631,12 @@ TextureImporter:
       name: "Milton_Sl\xE5Special_sprite_sheet_17"
       rect:
         serializedVersion: 2
-        x: 6420
-        y: 4548
-        width: 737
-        height: 626
+        x: 5760
+        y: 4320
+        width: 1920
+        height: 1080
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -653,12 +653,12 @@ TextureImporter:
       name: "Milton_Sl\xE5Special_sprite_sheet_18"
       rect:
         serializedVersion: 2
-        x: 8400
-        y: 4516
-        width: 706
-        height: 662
+        x: 7680
+        y: 4320
+        width: 1920
+        height: 1080
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -675,12 +675,12 @@ TextureImporter:
       name: "Milton_Sl\xE5Special_sprite_sheet_19"
       rect:
         serializedVersion: 2
-        x: 10386
-        y: 4493
-        width: 663
-        height: 684
+        x: 9600
+        y: 4320
+        width: 1920
+        height: 1080
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -697,12 +697,12 @@ TextureImporter:
       name: "Milton_Sl\xE5Special_sprite_sheet_20"
       rect:
         serializedVersion: 2
-        x: 12352
-        y: 4485
-        width: 606
-        height: 691
+        x: 11520
+        y: 4320
+        width: 1920
+        height: 1080
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -719,12 +719,12 @@ TextureImporter:
       name: "Milton_Sl\xE5Special_sprite_sheet_21"
       rect:
         serializedVersion: 2
-        x: 826
-        y: 3401
-        width: 576
-        height: 729
+        x: 0
+        y: 3240
+        width: 1920
+        height: 1080
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -741,12 +741,12 @@ TextureImporter:
       name: "Milton_Sl\xE5Special_sprite_sheet_22"
       rect:
         serializedVersion: 2
-        x: 2725
-        y: 3399
-        width: 567
-        height: 763
+        x: 1920
+        y: 3240
+        width: 1920
+        height: 1080
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -763,12 +763,12 @@ TextureImporter:
       name: "Milton_Sl\xE5Special_sprite_sheet_23"
       rect:
         serializedVersion: 2
-        x: 4634
-        y: 3398
-        width: 566
-        height: 773
+        x: 3840
+        y: 3240
+        width: 1920
+        height: 1080
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -785,12 +785,12 @@ TextureImporter:
       name: "Milton_Sl\xE5Special_sprite_sheet_24"
       rect:
         serializedVersion: 2
-        x: 6554
-        y: 3398
-        width: 566
-        height: 773
+        x: 5760
+        y: 3240
+        width: 1920
+        height: 1080
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -807,12 +807,12 @@ TextureImporter:
       name: "Milton_Sl\xE5Special_sprite_sheet_25"
       rect:
         serializedVersion: 2
-        x: 8474
-        y: 3398
-        width: 566
-        height: 773
+        x: 7680
+        y: 3240
+        width: 1920
+        height: 1080
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -829,12 +829,12 @@ TextureImporter:
       name: "Milton_Sl\xE5Special_sprite_sheet_26"
       rect:
         serializedVersion: 2
-        x: 10394
-        y: 3398
-        width: 566
-        height: 773
+        x: 9600
+        y: 3240
+        width: 1920
+        height: 1080
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -851,12 +851,12 @@ TextureImporter:
       name: "Milton_Sl\xE5Special_sprite_sheet_27"
       rect:
         serializedVersion: 2
-        x: 12314
-        y: 3398
-        width: 566
-        height: 773
+        x: 11520
+        y: 3240
+        width: 1920
+        height: 1080
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -873,12 +873,12 @@ TextureImporter:
       name: "Milton_Sl\xE5Special_sprite_sheet_28"
       rect:
         serializedVersion: 2
-        x: 794
-        y: 2318
-        width: 566
-        height: 773
+        x: 0
+        y: 2160
+        width: 1920
+        height: 1080
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -895,12 +895,12 @@ TextureImporter:
       name: "Milton_Sl\xE5Special_sprite_sheet_29"
       rect:
         serializedVersion: 2
-        x: 2714
-        y: 2318
-        width: 566
-        height: 773
+        x: 1920
+        y: 2160
+        width: 1920
+        height: 1080
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -917,12 +917,12 @@ TextureImporter:
       name: "Milton_Sl\xE5Special_sprite_sheet_30"
       rect:
         serializedVersion: 2
-        x: 4634
-        y: 2318
-        width: 566
-        height: 773
+        x: 3840
+        y: 2160
+        width: 1920
+        height: 1080
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -939,12 +939,12 @@ TextureImporter:
       name: "Milton_Sl\xE5Special_sprite_sheet_31"
       rect:
         serializedVersion: 2
-        x: 6554
-        y: 2318
-        width: 566
-        height: 773
+        x: 5760
+        y: 2160
+        width: 1920
+        height: 1080
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -961,12 +961,12 @@ TextureImporter:
       name: "Milton_Sl\xE5Special_sprite_sheet_32"
       rect:
         serializedVersion: 2
-        x: 8474
-        y: 2318
-        width: 566
-        height: 773
+        x: 7680
+        y: 2160
+        width: 1920
+        height: 1080
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -983,12 +983,12 @@ TextureImporter:
       name: "Milton_Sl\xE5Special_sprite_sheet_33"
       rect:
         serializedVersion: 2
-        x: 10394
-        y: 2318
-        width: 566
-        height: 773
+        x: 9600
+        y: 2160
+        width: 1920
+        height: 1080
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1005,12 +1005,12 @@ TextureImporter:
       name: "Milton_Sl\xE5Special_sprite_sheet_34"
       rect:
         serializedVersion: 2
-        x: 12318
-        y: 2318
-        width: 574
-        height: 788
+        x: 11520
+        y: 2160
+        width: 1920
+        height: 1080
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1027,12 +1027,12 @@ TextureImporter:
       name: "Milton_Sl\xE5Special_sprite_sheet_35"
       rect:
         serializedVersion: 2
-        x: 806
-        y: 1238
-        width: 592
-        height: 804
+        x: 0
+        y: 1080
+        width: 1920
+        height: 1080
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1049,12 +1049,12 @@ TextureImporter:
       name: "Milton_Sl\xE5Special_sprite_sheet_36"
       rect:
         serializedVersion: 2
-        x: 2738
-        y: 1238
-        width: 590
-        height: 779
+        x: 1920
+        y: 1080
+        width: 1920
+        height: 1080
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1071,12 +1071,12 @@ TextureImporter:
       name: "Milton_Sl\xE5Special_sprite_sheet_37"
       rect:
         serializedVersion: 2
-        x: 4625
-        y: 1238
-        width: 576
-        height: 732
+        x: 3840
+        y: 1080
+        width: 1920
+        height: 1080
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1093,12 +1093,12 @@ TextureImporter:
       name: "Milton_Sl\xE5Special_sprite_sheet_38"
       rect:
         serializedVersion: 2
-        x: 6593
-        y: 1231
-        width: 579
-        height: 744
+        x: 5760
+        y: 1080
+        width: 1920
+        height: 1080
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1115,12 +1115,12 @@ TextureImporter:
       name: "Milton_Sl\xE5Special_sprite_sheet_39"
       rect:
         serializedVersion: 2
-        x: 8466
-        y: 1270
-        width: 646
-        height: 730
+        x: 7680
+        y: 1080
+        width: 1920
+        height: 1080
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1137,12 +1137,12 @@ TextureImporter:
       name: "Milton_Sl\xE5Special_sprite_sheet_40"
       rect:
         serializedVersion: 2
-        x: 10251
-        y: 1359
-        width: 739
-        height: 631
+        x: 9600
+        y: 1080
+        width: 1920
+        height: 1080
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1159,12 +1159,12 @@ TextureImporter:
       name: "Milton_Sl\xE5Special_sprite_sheet_41"
       rect:
         serializedVersion: 2
-        x: 12199
-        y: 1216
-        width: 678
-        height: 612
+        x: 11520
+        y: 1080
+        width: 1920
+        height: 1080
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1181,12 +1181,12 @@ TextureImporter:
       name: "Milton_Sl\xE5Special_sprite_sheet_42"
       rect:
         serializedVersion: 2
-        x: 691
-        y: 130
-        width: 661
-        height: 728
+        x: 0
+        y: 0
+        width: 1920
+        height: 1080
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1203,12 +1203,12 @@ TextureImporter:
       name: "Milton_Sl\xE5Special_sprite_sheet_43"
       rect:
         serializedVersion: 2
-        x: 2546
-        y: 152
-        width: 699
-        height: 720
+        x: 1920
+        y: 0
+        width: 1920
+        height: 1080
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1225,12 +1225,12 @@ TextureImporter:
       name: "Milton_Sl\xE5Special_sprite_sheet_44"
       rect:
         serializedVersion: 2
-        x: 4466
-        y: 156
-        width: 642
-        height: 683
+        x: 3840
+        y: 0
+        width: 1920
+        height: 1080
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1247,12 +1247,12 @@ TextureImporter:
       name: "Milton_Sl\xE5Special_sprite_sheet_45"
       rect:
         serializedVersion: 2
-        x: 6390
-        y: 160
-        width: 624
-        height: 680
+        x: 5760
+        y: 0
+        width: 1920
+        height: 1080
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1269,12 +1269,12 @@ TextureImporter:
       name: "Milton_Sl\xE5Special_sprite_sheet_46"
       rect:
         serializedVersion: 2
-        x: 8310
-        y: 159
-        width: 624
-        height: 689
+        x: 7680
+        y: 0
+        width: 1920
+        height: 1080
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1291,12 +1291,12 @@ TextureImporter:
       name: "Milton_Sl\xE5Special_sprite_sheet_47"
       rect:
         serializedVersion: 2
-        x: 10230
-        y: 159
-        width: 624
-        height: 692
+        x: 9600
+        y: 0
+        width: 1920
+        height: 1080
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1313,7 +1313,7 @@ TextureImporter:
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 
+    spriteID: 0d8c7224569715b4dac58703b3ed5414
     internalID: 0
     vertices: []
     indices: 
@@ -1321,7 +1321,9 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     spriteCustomMetadata:
-      entries: []
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":1.0,"y":1.0},"gridSpriteSize":{"x":1920.0,"y":1080.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":1,"keepEmptyRects":false,"isAlternate":false}'
     nameFileIdTable:
       "Milton_Sl\xE5Special_sprite_sheet_0": -7226493392252938928
       "Milton_Sl\xE5Special_sprite_sheet_1": -5704595703333714495
