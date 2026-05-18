@@ -9,9 +9,13 @@ public class PlayerBlocking : MonoBehaviour
     {
         p = GetComponent<PlayerInformation>();
     }
+    private void Update()
+    {
+        p.animator.SetBool("Block", block);
+    }
     public void Block()
     {
-        if (!block && !p.stunned && !p.attacking)
+        if (!block && !p.stunned && !p.attacking && !p.inSpecial)
         {
             StartCoroutine(BlockDelay());
         }
@@ -27,6 +31,7 @@ public class PlayerBlocking : MonoBehaviour
         block = true;
         p.canMove = false;
 
+        p.animator.SetTrigger("Next");
         yield return new WaitForSeconds(p.blockWindUp);
 
         p.isBlocking = true;

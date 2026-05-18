@@ -1,67 +1,77 @@
 fileFormatVersion: 2
-guid: a45bb3781d096e0438e040bff48e26a9
+<<<<<<< HEAD
+guid: b7c0b7db3b6016943a23a487edd82aff
+=======
+guid: 38a056eb2802c3642a47715a59902859
+>>>>>>> 2184af778b36536d8de67a047d684ad25e42c893
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: -898795542964510136
-    second: Milton_Death_sprite_sheet_0
+      213: 4272733473659590884
+    second: "BombHerMan_Sl\xE5Speciall-Sheet_0"
   - first:
-      213: -5378884789913300025
-    second: Milton_Death_sprite_sheet_1
+      213: -8680492348151406379
+    second: "BombHerMan_Sl\xE5Speciall-Sheet_1"
   - first:
-      213: 6643497562652616591
-    second: Milton_Death_sprite_sheet_2
+      213: -3036404845190824527
+    second: "BombHerMan_Sl\xE5Speciall-Sheet_2"
   - first:
-      213: 2493795604454363988
-    second: Milton_Death_sprite_sheet_3
+      213: 8276702288348025302
+    second: "BombHerMan_Sl\xE5Speciall-Sheet_3"
   - first:
-      213: 7184677019232166030
-    second: Milton_Death_sprite_sheet_4
+      213: 6623554980968669955
+    second: "BombHerMan_Sl\xE5Speciall-Sheet_4"
   - first:
-      213: 7392598115015357598
-    second: Milton_Death_sprite_sheet_5
+      213: -2228530685715986068
+    second: "BombHerMan_Sl\xE5Speciall-Sheet_5"
   - first:
-      213: 3702198076721993993
-    second: Milton_Death_sprite_sheet_6
+      213: 7893809285905381116
+    second: "BombHerMan_Sl\xE5Speciall-Sheet_6"
   - first:
-      213: -6082378728272775926
-    second: Milton_Death_sprite_sheet_7
+      213: -6876671797742158418
+    second: "BombHerMan_Sl\xE5Speciall-Sheet_7"
   - first:
-      213: -2942527242383630050
-    second: Milton_Death_sprite_sheet_8
+      213: 6996918237482640519
+    second: "BombHerMan_Sl\xE5Speciall-Sheet_8"
   - first:
-      213: -9215559444802047720
-    second: Milton_Death_sprite_sheet_9
+      213: -348604138584240498
+    second: "BombHerMan_Sl\xE5Speciall-Sheet_9"
   - first:
-      213: 3218555707325630084
-    second: Milton_Death_sprite_sheet_10
+      213: -6963950142263662168
+    second: "BombHerMan_Sl\xE5Speciall-Sheet_10"
   - first:
-      213: -3947779625602367335
-    second: Milton_Death_sprite_sheet_11
+      213: 6859562075021110393
+    second: "BombHerMan_Sl\xE5Speciall-Sheet_11"
   - first:
-      213: -26019921963667720
-    second: Milton_Death_sprite_sheet_12
+      213: -6723894519782045360
+    second: "BombHerMan_Sl\xE5Speciall-Sheet_12"
   - first:
-      213: -3383381733238644079
-    second: Milton_Death_sprite_sheet_13
+      213: 2988042849609718968
+    second: "BombHerMan_Sl\xE5Speciall-Sheet_13"
   - first:
-      213: 7065106779519338761
-    second: Milton_Death_sprite_sheet_14
+      213: 120303914013603563
+    second: "BombHerMan_Sl\xE5Speciall-Sheet_14"
   - first:
-      213: -3996272985788590728
-    second: Milton_Death_sprite_sheet_15
+      213: 8180836694618257199
+    second: "BombHerMan_Sl\xE5Speciall-Sheet_15"
   - first:
-      213: 1593479901981778740
-    second: Milton_Death_sprite_sheet_16
+      213: -5678667950208377640
+    second: "BombHerMan_Sl\xE5Speciall-Sheet_16"
   - first:
-      213: 1445785926891723585
-    second: Milton_Death_sprite_sheet_17
+      213: 4069593613093555184
+    second: "BombHerMan_Sl\xE5Speciall-Sheet_17"
   - first:
-      213: 5164276737142442256
-    second: Milton_Death_sprite_sheet_18
+      213: -70480301537134552
+    second: "BombHerMan_Sl\xE5Speciall-Sheet_18"
   - first:
-      213: 8145191803317819664
-    second: Milton_Death_sprite_sheet_19
+      213: 7156709270426063903
+    second: "BombHerMan_Sl\xE5Speciall-Sheet_19"
+  - first:
+      213: 1846341391425181628
+    second: "BombHerMan_Sl\xE5Speciall-Sheet_20"
+  - first:
+      213: -7192836233470740692
+    second: "BombHerMan_Sl\xE5Speciall-Sheet_21"
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -153,6 +163,7 @@ TextureImporter:
     ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
+<<<<<<< HEAD
   - serializedVersion: 4
     buildTarget: WebGL
     maxTextureSize: 2048
@@ -166,17 +177,19 @@ TextureImporter:
     ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
+=======
+>>>>>>> 2184af778b36536d8de67a047d684ad25e42c893
   spriteSheet:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Milton_Death_sprite_sheet_0
+      name: "BombHerMan_Sl\xE5Speciall-Sheet_0"
       rect:
         serializedVersion: 2
-        x: 630
-        y: 3399
-        width: 624
-        height: 692
+        x: 7
+        y: 0
+        width: 17
+        height: 56
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -185,20 +198,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 84265e73736d683f0800000000000000
-      internalID: -898795542964510136
+      spriteID: 4e89665d47ccb4b30800000000000000
+      internalID: 4272733473659590884
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Milton_Death_sprite_sheet_1
+      name: "BombHerMan_Sl\xE5Speciall-Sheet_1"
       rect:
         serializedVersion: 2
-        x: 2543
-        y: 3399
-        width: 635
-        height: 679
+        x: 71
+        y: 0
+        width: 17
+        height: 56
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -207,20 +220,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 7c3577938cc5a55b0800000000000000
-      internalID: -5378884789913300025
+      spriteID: 5d060f85332b88780800000000000000
+      internalID: -8680492348151406379
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Milton_Death_sprite_sheet_2
+      name: "BombHerMan_Sl\xE5Speciall-Sheet_2"
       rect:
         serializedVersion: 2
-        x: 4452
-        y: 3400
-        width: 682
-        height: 680
+        x: 134
+        y: 0
+        width: 18
+        height: 56
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -229,20 +242,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: f872510a5d1723c50800000000000000
-      internalID: 6643497562652616591
+      spriteID: 1bd302081e58cd5d0800000000000000
+      internalID: -3036404845190824527
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Milton_Death_sprite_sheet_3
+      name: "BombHerMan_Sl\xE5Speciall-Sheet_3"
       rect:
         serializedVersion: 2
-        x: 6366
-        y: 3401
-        width: 643
-        height: 687
+        x: 198
+        y: 0
+        width: 21
+        height: 56
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -251,20 +264,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 453dee9b3edbb9220800000000000000
-      internalID: 2493795604454363988
+      spriteID: 6d195a021e0ccd270800000000000000
+      internalID: 8276702288348025302
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Milton_Death_sprite_sheet_4
+      name: "BombHerMan_Sl\xE5Speciall-Sheet_4"
       rect:
         serializedVersion: 2
-        x: 8295
-        y: 3396
-        width: 624
-        height: 700
+        x: 262
+        y: 0
+        width: 25
+        height: 56
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -273,20 +286,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: e80ee35dea915b360800000000000000
-      internalID: 7184677019232166030
+      spriteID: 30328ee79289beb50800000000000000
+      internalID: 6623554980968669955
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Milton_Death_sprite_sheet_5
+      name: "BombHerMan_Sl\xE5Speciall-Sheet_5"
       rect:
         serializedVersion: 2
-        x: 633
-        y: 2306
-        width: 659
-        height: 742
+        x: 326
+        y: 0
+        width: 30
+        height: 56
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -295,20 +308,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: e9476b461d8c79660800000000000000
-      internalID: 7392598115015357598
+      spriteID: c6947da062ba211e0800000000000000
+      internalID: -2228530685715986068
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Milton_Death_sprite_sheet_6
+      name: "BombHerMan_Sl\xE5Speciall-Sheet_6"
       rect:
         serializedVersion: 2
-        x: 2563
-        y: 2301
-        width: 687
-        height: 778
+        x: 390
+        y: 0
+        width: 30
+        height: 56
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -317,20 +330,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 90916232989d06330800000000000000
-      internalID: 3702198076721993993
+      spriteID: cf6f11be8b17c8d60800000000000000
+      internalID: 7893809285905381116
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Milton_Death_sprite_sheet_7
+      name: "BombHerMan_Sl\xE5Speciall-Sheet_7"
       rect:
         serializedVersion: 2
-        x: 4570
-        y: 2286
-        width: 619
-        height: 814
+        x: 454
+        y: 0
+        width: 32
+        height: 56
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -339,20 +352,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: a05b8efb5cc079ba0800000000000000
-      internalID: -6082378728272775926
+      spriteID: eadb1a22f672190a0800000000000000
+      internalID: -6876671797742158418
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Milton_Death_sprite_sheet_8
+      name: "BombHerMan_Sl\xE5Speciall-Sheet_8"
       rect:
         serializedVersion: 2
-        x: 6495
-        y: 2269
-        width: 687
-        height: 814
+        x: 518
+        y: 0
+        width: 31
+        height: 56
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -361,20 +374,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: e1160df201b0a27d0800000000000000
-      internalID: -2942527242383630050
+      spriteID: 784ea93d01c0a1160800000000000000
+      internalID: 6996918237482640519
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Milton_Death_sprite_sheet_9
+      name: "BombHerMan_Sl\xE5Speciall-Sheet_9"
       rect:
         serializedVersion: 2
-        x: 8395
-        y: 2294
-        width: 710
-        height: 770
+        x: 582
+        y: 0
+        width: 31
+        height: 56
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -383,20 +396,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 811f316d281cb1080800000000000000
-      internalID: -9215559444802047720
+      spriteID: e8e84780262892bf0800000000000000
+      internalID: -348604138584240498
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Milton_Death_sprite_sheet_10
+      name: "BombHerMan_Sl\xE5Speciall-Sheet_10"
       rect:
         serializedVersion: 2
-        x: 715
-        y: 1258
-        width: 696
-        height: 716
+        x: 646
+        y: 0
+        width: 33
+        height: 56
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -405,20 +418,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 48643f8fc5b9aac20800000000000000
-      internalID: 3218555707325630084
+      spriteID: 8a9e7d00e341b5f90800000000000000
+      internalID: -6963950142263662168
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Milton_Death_sprite_sheet_11
+      name: "BombHerMan_Sl\xE5Speciall-Sheet_11"
       rect:
         serializedVersion: 2
-        x: 2635
-        y: 1298
-        width: 686
-        height: 648
+        x: 710
+        y: 0
+        width: 33
+        height: 56
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -427,20 +440,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 9904274c85ba639c0800000000000000
-      internalID: -3947779625602367335
+      spriteID: 97cef5c1d5f023f50800000000000000
+      internalID: 6859562075021110393
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Milton_Death_sprite_sheet_12
+      name: "BombHerMan_Sl\xE5Speciall-Sheet_12"
       rect:
         serializedVersion: 2
-        x: 4555
-        y: 1323
-        width: 706
-        height: 604
+        x: 774
+        y: 0
+        width: 21
+        height: 56
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -449,20 +462,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 8fea542d40f83aff0800000000000000
-      internalID: -26019921963667720
+      spriteID: 05902391f8defa2a0800000000000000
+      internalID: -6723894519782045360
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Milton_Death_sprite_sheet_13
+      name: "BombHerMan_Sl\xE5Speciall-Sheet_13"
       rect:
         serializedVersion: 2
-        x: 6475
-        y: 1336
-        width: 712
-        height: 571
+        x: 838
+        y: 0
+        width: 21
+        height: 56
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -471,20 +484,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 192e3c25d30db01d0800000000000000
-      internalID: -3383381733238644079
+      spriteID: 8bc12a0f329a77920800000000000000
+      internalID: 2988042849609718968
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Milton_Death_sprite_sheet_14
+      name: "BombHerMan_Sl\xE5Speciall-Sheet_14"
       rect:
         serializedVersion: 2
-        x: 8395
-        y: 1283
-        width: 722
-        height: 586
+        x: 902
+        y: 0
+        width: 21
+        height: 56
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -493,20 +506,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 9094475fe2d4c0260800000000000000
-      internalID: 7065106779519338761
+      spriteID: be6bedbb5c76ba100800000000000000
+      internalID: 120303914013603563
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Milton_Death_sprite_sheet_15
+      name: "BombHerMan_Sl\xE5Speciall-Sheet_15"
       rect:
         serializedVersion: 2
-        x: 715
-        y: 149
-        width: 730
-        height: 593
+        x: 966
+        y: 0
+        width: 18
+        height: 56
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -515,20 +528,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 875d49084e26a88c0800000000000000
-      internalID: -3996272985788590728
+      spriteID: f27b33c31ab288170800000000000000
+      internalID: 8180836694618257199
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Milton_Death_sprite_sheet_16
+      name: "BombHerMan_Sl\xE5Speciall-Sheet_16"
       rect:
         serializedVersion: 2
-        x: 2635
-        y: 99
-        width: 731
-        height: 594
+        x: 1030
+        y: 0
+        width: 18
+        height: 56
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -537,20 +550,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 433295a378d2d1610800000000000000
-      internalID: 1593479901981778740
+      spriteID: 8dc1f6e06915131b0800000000000000
+      internalID: -5678667950208377640
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Milton_Death_sprite_sheet_17
+      name: "BombHerMan_Sl\xE5Speciall-Sheet_17"
       rect:
         serializedVersion: 2
-        x: 4555
-        y: 58
-        width: 730
-        height: 592
+        x: 1094
+        y: 0
+        width: 18
+        height: 56
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -559,20 +572,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 14bd3a1f3a6701410800000000000000
-      internalID: 1445785926891723585
+      spriteID: 0fbc3a854d91a7830800000000000000
+      internalID: 4069593613093555184
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Milton_Death_sprite_sheet_18
+      name: "BombHerMan_Sl\xE5Speciall-Sheet_18"
       rect:
         serializedVersion: 2
-        x: 6475
-        y: 31
-        width: 728
-        height: 589
+        x: 1158
+        y: 0
+        width: 18
+        height: 56
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -581,20 +594,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 0194037b4523ba740800000000000000
-      internalID: 5164276737142442256
+      spriteID: 82877370a8a950ff0800000000000000
+      internalID: -70480301537134552
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Milton_Death_sprite_sheet_19
+      name: "BombHerMan_Sl\xE5Speciall-Sheet_19"
       rect:
         serializedVersion: 2
-        x: 8395
-        y: 20
-        width: 727
-        height: 589
+        x: 1223
+        y: 0
+        width: 17
+        height: 56
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -603,8 +616,52 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 0199e204ac8890170800000000000000
-      internalID: 8145191803317819664
+      spriteID: f149d70e92db15360800000000000000
+      internalID: 7156709270426063903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "BombHerMan_Sl\xE5Speciall-Sheet_20"
+      rect:
+        serializedVersion: 2
+        x: 1287
+        y: 0
+        width: 17
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb79ff196b58f9910800000000000000
+      internalID: 1846341391425181628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "BombHerMan_Sl\xE5Speciall-Sheet_21"
+      rect:
+        serializedVersion: 2
+        x: 1351
+        y: 0
+        width: 17
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c27fa601e89ed2c90800000000000000
+      internalID: -7192836233470740692
       vertices: []
       indices: 
       edges: []
@@ -623,26 +680,28 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      Milton_Death_sprite_sheet_0: -898795542964510136
-      Milton_Death_sprite_sheet_1: -5378884789913300025
-      Milton_Death_sprite_sheet_10: 3218555707325630084
-      Milton_Death_sprite_sheet_11: -3947779625602367335
-      Milton_Death_sprite_sheet_12: -26019921963667720
-      Milton_Death_sprite_sheet_13: -3383381733238644079
-      Milton_Death_sprite_sheet_14: 7065106779519338761
-      Milton_Death_sprite_sheet_15: -3996272985788590728
-      Milton_Death_sprite_sheet_16: 1593479901981778740
-      Milton_Death_sprite_sheet_17: 1445785926891723585
-      Milton_Death_sprite_sheet_18: 5164276737142442256
-      Milton_Death_sprite_sheet_19: 8145191803317819664
-      Milton_Death_sprite_sheet_2: 6643497562652616591
-      Milton_Death_sprite_sheet_3: 2493795604454363988
-      Milton_Death_sprite_sheet_4: 7184677019232166030
-      Milton_Death_sprite_sheet_5: 7392598115015357598
-      Milton_Death_sprite_sheet_6: 3702198076721993993
-      Milton_Death_sprite_sheet_7: -6082378728272775926
-      Milton_Death_sprite_sheet_8: -2942527242383630050
-      Milton_Death_sprite_sheet_9: -9215559444802047720
+      "BombHerMan_Sl\xE5Speciall-Sheet_0": 4272733473659590884
+      "BombHerMan_Sl\xE5Speciall-Sheet_1": -8680492348151406379
+      "BombHerMan_Sl\xE5Speciall-Sheet_10": -6963950142263662168
+      "BombHerMan_Sl\xE5Speciall-Sheet_11": 6859562075021110393
+      "BombHerMan_Sl\xE5Speciall-Sheet_12": -6723894519782045360
+      "BombHerMan_Sl\xE5Speciall-Sheet_13": 2988042849609718968
+      "BombHerMan_Sl\xE5Speciall-Sheet_14": 120303914013603563
+      "BombHerMan_Sl\xE5Speciall-Sheet_15": 8180836694618257199
+      "BombHerMan_Sl\xE5Speciall-Sheet_16": -5678667950208377640
+      "BombHerMan_Sl\xE5Speciall-Sheet_17": 4069593613093555184
+      "BombHerMan_Sl\xE5Speciall-Sheet_18": -70480301537134552
+      "BombHerMan_Sl\xE5Speciall-Sheet_19": 7156709270426063903
+      "BombHerMan_Sl\xE5Speciall-Sheet_2": -3036404845190824527
+      "BombHerMan_Sl\xE5Speciall-Sheet_20": 1846341391425181628
+      "BombHerMan_Sl\xE5Speciall-Sheet_21": -7192836233470740692
+      "BombHerMan_Sl\xE5Speciall-Sheet_3": 8276702288348025302
+      "BombHerMan_Sl\xE5Speciall-Sheet_4": 6623554980968669955
+      "BombHerMan_Sl\xE5Speciall-Sheet_5": -2228530685715986068
+      "BombHerMan_Sl\xE5Speciall-Sheet_6": 7893809285905381116
+      "BombHerMan_Sl\xE5Speciall-Sheet_7": -6876671797742158418
+      "BombHerMan_Sl\xE5Speciall-Sheet_8": 6996918237482640519
+      "BombHerMan_Sl\xE5Speciall-Sheet_9": -348604138584240498
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

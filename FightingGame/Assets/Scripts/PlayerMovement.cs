@@ -17,6 +17,7 @@ public class PlayerMovement : MonoBehaviour
     }
     void FixedUpdate()
     {
+        p.animator.SetFloat("Velocity", moveSpeed * (p.thisPlayer == Player.Player1 ? 1 : -1));
         if (p.canMove)
         {
             movePlayer();

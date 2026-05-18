@@ -20,6 +20,7 @@ public class PlayerSpecial : MonoBehaviour
 
     private void Update()
     {
+        p.animator.SetBool("Special", p.inSpecial);
         if (p.stunned)
         {
             if (weapon)
@@ -34,7 +35,7 @@ public class PlayerSpecial : MonoBehaviour
     }
     public void Special()
     {
-        if (!p.attacking && !p.stunned && !p.inSpecial)
+        if (!p.attacking && !p.stunned && !p.inSpecial && !p.isBlocking)
         {
             StartCoroutine(SpecialMelee());
             if (isRanged)
@@ -44,6 +45,8 @@ public class PlayerSpecial : MonoBehaviour
 
     IEnumerator SpecialMelee()
     {
+
+        p.animator.SetTrigger("Next");
         p.inSpecial = true;
         p.canMove = false;
 
