@@ -1,68 +1,7 @@
 fileFormatVersion: 2
-<<<<<<< HEAD
 guid: 351340ddb61b6504db34e87454ab7122
-=======
-guid: 2b9a5fca0bcd3bf4c919bba29a10f20d
->>>>>>> 2184af778b36536d8de67a047d684ad25e42c893
 TextureImporter:
-  internalIDToNameTable:
-  - first:
-      213: -8253946925817426340
-    second: "BombHerMan_Sl\xE5Normal-Sheet_0"
-  - first:
-      213: -5857794182229653639
-    second: "BombHerMan_Sl\xE5Normal-Sheet_1"
-  - first:
-      213: 1627372962570329206
-    second: "BombHerMan_Sl\xE5Normal-Sheet_2"
-  - first:
-      213: -7141804062537494668
-    second: "BombHerMan_Sl\xE5Normal-Sheet_3"
-  - first:
-      213: 3973452287029339975
-    second: "BombHerMan_Sl\xE5Normal-Sheet_4"
-  - first:
-      213: 1009761858070568166
-    second: "BombHerMan_Sl\xE5Normal-Sheet_5"
-  - first:
-      213: -1827432880249849985
-    second: "BombHerMan_Sl\xE5Normal-Sheet_6"
-  - first:
-      213: -8969595382043281832
-    second: "BombHerMan_Sl\xE5Normal-Sheet_7"
-  - first:
-      213: 8539683241633455373
-    second: "BombHerMan_Sl\xE5Normal-Sheet_8"
-  - first:
-      213: 9143400664014251631
-    second: "BombHerMan_Sl\xE5Normal-Sheet_9"
-  - first:
-      213: -7961296659129703893
-    second: "BombHerMan_Sl\xE5Normal-Sheet_10"
-  - first:
-      213: 6307542218141036866
-    second: "BombHerMan_Sl\xE5Normal-Sheet_11"
-  - first:
-      213: 2146882435708168418
-    second: "BombHerMan_Sl\xE5Normal-Sheet_12"
-  - first:
-      213: -7714347483298459244
-    second: "BombHerMan_Sl\xE5Normal-Sheet_13"
-  - first:
-      213: -3860890628376982424
-    second: "BombHerMan_Sl\xE5Normal-Sheet_14"
-  - first:
-      213: 4152469586648193053
-    second: "BombHerMan_Sl\xE5Normal-Sheet_15"
-  - first:
-      213: -4134502305593064976
-    second: "BombHerMan_Sl\xE5Normal-Sheet_16"
-  - first:
-      213: -7610844356241225114
-    second: "BombHerMan_Sl\xE5Normal-Sheet_17"
-  - first:
-      213: 6061202116563744975
-    second: "BombHerMan_Sl\xE5Normal-Sheet_18"
+  internalIDToNameTable: []
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -95,12 +34,12 @@ TextureImporter:
   maxTextureSize: 2048
   textureSettings:
     serializedVersion: 2
-    filterMode: 1
+    filterMode: 0
     aniso: 1
     mipBias: 0
     wrapU: 1
     wrapV: 1
-    wrapW: 1
+    wrapW: 0
   nPOTScale: 0
   lightmap: 0
   compressionQuality: 50
@@ -109,7 +48,7 @@ TextureImporter:
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 100
+  spritePixelsToUnits: 16
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -124,9 +63,9 @@ TextureImporter:
   compressionQualitySet: 0
   textureFormatSet: 0
   ignorePngGamma: 0
-  applyGammaDecoding: 0
+  applyGammaDecoding: 1
   swizzle: 50462976
-  cookieLightType: 0
+  cookieLightType: 2
   platformSettings:
   - serializedVersion: 4
     buildTarget: DefaultTexturePlatform
@@ -146,7 +85,7 @@ TextureImporter:
     maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
-    textureCompression: 1
+    textureCompression: 0
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
@@ -154,13 +93,12 @@ TextureImporter:
     ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
-<<<<<<< HEAD
   - serializedVersion: 4
     buildTarget: WebGL
     maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
-    textureCompression: 1
+    textureCompression: 0
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
@@ -168,8 +106,6 @@ TextureImporter:
     ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
-=======
->>>>>>> 2184af778b36536d8de67a047d684ad25e42c893
   spriteSheet:
     serializedVersion: 2
     sprites:
@@ -177,20 +113,20 @@ TextureImporter:
       name: "BombHerMan_Sl\xE5Normal-Sheet_0"
       rect:
         serializedVersion: 2
-        x: 7
+        x: 0
         y: 0
-        width: 17
-        height: 56
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: 0.25, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: c5e89b39007147d80800000000000000
-      internalID: -8253946925817426340
+      spriteID: 43773155f4e052145ae2e99f87a5aff7
+      internalID: -345609670
       vertices: []
       indices: 
       edges: []
@@ -199,20 +135,20 @@ TextureImporter:
       name: "BombHerMan_Sl\xE5Normal-Sheet_1"
       rect:
         serializedVersion: 2
-        x: 71
+        x: 64
         y: 0
-        width: 19
-        height: 56
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: 0.25, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 9770ad82a3fe4bea0800000000000000
-      internalID: -5857794182229653639
+      spriteID: 6e90650b487f8614d8ca3cd91a58d13c
+      internalID: -744322110
       vertices: []
       indices: 
       edges: []
@@ -221,20 +157,20 @@ TextureImporter:
       name: "BombHerMan_Sl\xE5Normal-Sheet_2"
       rect:
         serializedVersion: 2
-        x: 135
+        x: 128
         y: 0
-        width: 18
-        height: 55
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: 0.25, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 67c54175617959610800000000000000
-      internalID: 1627372962570329206
+      spriteID: 7b838a85f100c7447aae564cf155d57c
+      internalID: -468852840
       vertices: []
       indices: 
       edges: []
@@ -243,20 +179,20 @@ TextureImporter:
       name: "BombHerMan_Sl\xE5Normal-Sheet_3"
       rect:
         serializedVersion: 2
-        x: 199
+        x: 192
         y: 0
-        width: 20
-        height: 55
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: 0.25, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 47fc2054b0733ec90800000000000000
-      internalID: -7141804062537494668
+      spriteID: 26bc4f0fa0046514d8a04592b6dc742c
+      internalID: -1295736718
       vertices: []
       indices: 
       edges: []
@@ -265,20 +201,20 @@ TextureImporter:
       name: "BombHerMan_Sl\xE5Normal-Sheet_4"
       rect:
         serializedVersion: 2
-        x: 262
+        x: 256
         y: 0
-        width: 21
-        height: 54
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: 0.25, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 747e8548dc9842730800000000000000
-      internalID: 3973452287029339975
+      spriteID: 0ab4f945263d1664cacde4957fba2093
+      internalID: -491024247
       vertices: []
       indices: 
       edges: []
@@ -287,20 +223,20 @@ TextureImporter:
       name: "BombHerMan_Sl\xE5Normal-Sheet_5"
       rect:
         serializedVersion: 2
-        x: 326
+        x: 320
         y: 0
-        width: 21
-        height: 54
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: 0.25, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 6ecd80a5f05630e00800000000000000
-      internalID: 1009761858070568166
+      spriteID: b06e01db89ad7ae4f85117eb6f26c625
+      internalID: 1501259426
       vertices: []
       indices: 
       edges: []
@@ -309,20 +245,20 @@ TextureImporter:
       name: "BombHerMan_Sl\xE5Normal-Sheet_6"
       rect:
         serializedVersion: 2
-        x: 386
+        x: 384
         y: 0
-        width: 23
-        height: 53
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: 0.25, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: f77b6d14a77a3a6e0800000000000000
-      internalID: -1827432880249849985
+      spriteID: d4d1066303b251a478eb19b6baef9428
+      internalID: 220301873
       vertices: []
       indices: 
       edges: []
@@ -331,20 +267,20 @@ TextureImporter:
       name: "BombHerMan_Sl\xE5Normal-Sheet_7"
       rect:
         serializedVersion: 2
-        x: 454
+        x: 448
         y: 0
-        width: 22
-        height: 54
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: 0.25, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 8567352e588958380800000000000000
-      internalID: -8969595382043281832
+      spriteID: d44eeb637aff0c349ae9efcb3f59bf43
+      internalID: -798791904
       vertices: []
       indices: 
       edges: []
@@ -353,20 +289,20 @@ TextureImporter:
       name: "BombHerMan_Sl\xE5Normal-Sheet_8"
       rect:
         serializedVersion: 2
-        x: 520
+        x: 512
         y: 0
-        width: 30
-        height: 54
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: 0.25, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: d0d1befb9ac038670800000000000000
-      internalID: 8539683241633455373
+      spriteID: 2ae4a477f84e9fa4a89d210c2e168f9e
+      internalID: 1408985757
       vertices: []
       indices: 
       edges: []
@@ -375,20 +311,20 @@ TextureImporter:
       name: "BombHerMan_Sl\xE5Normal-Sheet_9"
       rect:
         serializedVersion: 2
-        x: 584
+        x: 576
         y: 0
-        width: 36
-        height: 49
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: 0.25, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: f66e3a9c572e3ee70800000000000000
-      internalID: 9143400664014251631
+      spriteID: eecbd2dc87dc23d48b28d898cae718b2
+      internalID: -1234992646
       vertices: []
       indices: 
       edges: []
@@ -397,20 +333,20 @@ TextureImporter:
       name: "BombHerMan_Sl\xE5Normal-Sheet_10"
       rect:
         serializedVersion: 2
-        x: 648
+        x: 640
         y: 0
-        width: 44
-        height: 39
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: 0.25, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: b22e1198edac38190800000000000000
-      internalID: -7961296659129703893
+      spriteID: 19c259daa54198d4987e52fb39935812
+      internalID: -94391751
       vertices: []
       indices: 
       edges: []
@@ -419,20 +355,20 @@ TextureImporter:
       name: "BombHerMan_Sl\xE5Normal-Sheet_11"
       rect:
         serializedVersion: 2
-        x: 712
+        x: 704
         y: 0
-        width: 44
-        height: 37
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: 0.25, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 24173168a34e88750800000000000000
-      internalID: 6307542218141036866
+      spriteID: daf350a1f01fc3e4bbb8e82ec163f2e0
+      internalID: -324234963
       vertices: []
       indices: 
       edges: []
@@ -441,20 +377,20 @@ TextureImporter:
       name: "BombHerMan_Sl\xE5Normal-Sheet_12"
       rect:
         serializedVersion: 2
-        x: 776
+        x: 768
         y: 0
-        width: 44
-        height: 37
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: 0.25, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 2e829ea53324bcd10800000000000000
-      internalID: 2146882435708168418
+      spriteID: 540452b19135d2444801b6bcd5dbef22
+      internalID: -1035087407
       vertices: []
       indices: 
       edges: []
@@ -463,20 +399,20 @@ TextureImporter:
       name: "BombHerMan_Sl\xE5Normal-Sheet_13"
       rect:
         serializedVersion: 2
-        x: 840
+        x: 832
         y: 0
-        width: 36
-        height: 49
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: 0.25, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 491111816d121f490800000000000000
-      internalID: -7714347483298459244
+      spriteID: 2f39da54ba5d5f942a0d1560476662b9
+      internalID: 585723895
       vertices: []
       indices: 
       edges: []
@@ -485,20 +421,20 @@ TextureImporter:
       name: "BombHerMan_Sl\xE5Normal-Sheet_14"
       rect:
         serializedVersion: 2
-        x: 904
+        x: 896
         y: 0
-        width: 30
-        height: 54
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: 0.25, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 86c84faed6c5b6ac0800000000000000
-      internalID: -3860890628376982424
+      spriteID: 566c7d7aa3257e34aaeeb54bd5f97bbb
+      internalID: -355518804
       vertices: []
       indices: 
       edges: []
@@ -507,20 +443,20 @@ TextureImporter:
       name: "BombHerMan_Sl\xE5Normal-Sheet_15"
       rect:
         serializedVersion: 2
-        x: 966
+        x: 960
         y: 0
-        width: 21
-        height: 54
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: 0.25, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: d1857cc961980a930800000000000000
-      internalID: 4152469586648193053
+      spriteID: 7b08748773be08848a896e582b9b2241
+      internalID: 515098790
       vertices: []
       indices: 
       edges: []
@@ -529,20 +465,20 @@ TextureImporter:
       name: "BombHerMan_Sl\xE5Normal-Sheet_16"
       rect:
         serializedVersion: 2
-        x: 1026
+        x: 1024
         y: 0
-        width: 23
-        height: 53
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: 0.25, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 0f187100f0c4f96c0800000000000000
-      internalID: -4134502305593064976
+      spriteID: c7870b6f136ad7445b6dd119cb35c508
+      internalID: -346277952
       vertices: []
       indices: 
       edges: []
@@ -551,20 +487,20 @@ TextureImporter:
       name: "BombHerMan_Sl\xE5Normal-Sheet_17"
       rect:
         serializedVersion: 2
-        x: 1095
+        x: 1088
         y: 0
-        width: 20
-        height: 55
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: 0.25, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 66a8479c169d06690800000000000000
-      internalID: -7610844356241225114
+      spriteID: 2f1b8362caf9c934eab7472b2722e87a
+      internalID: -1170068878
       vertices: []
       indices: 
       edges: []
@@ -573,20 +509,20 @@ TextureImporter:
       name: "BombHerMan_Sl\xE5Normal-Sheet_18"
       rect:
         serializedVersion: 2
-        x: 1159
+        x: 1152
         y: 0
-        width: 17
-        height: 56
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: 0.25, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: fc8b0ad1637bd1450800000000000000
-      internalID: 6061202116563744975
+      spriteID: b4503d941a67b4a44a081a487fa4bd6b
+      internalID: 1536640765
       vertices: []
       indices: 
       edges: []
@@ -595,7 +531,7 @@ TextureImporter:
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 
+    spriteID: 2b389414f5363ea458d5559f1b5dfc5c
     internalID: 0
     vertices: []
     indices: 
@@ -603,27 +539,29 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     spriteCustomMetadata:
-      entries: []
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":1.0,"y":1.0},"gridSpriteSize":{"x":64.0,"y":64.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.25,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":9,"pivotUnitMode":0,"slicingType":1,"keepEmptyRects":false,"isAlternate":false}'
     nameFileIdTable:
-      "BombHerMan_Sl\xE5Normal-Sheet_0": -8253946925817426340
-      "BombHerMan_Sl\xE5Normal-Sheet_1": -5857794182229653639
-      "BombHerMan_Sl\xE5Normal-Sheet_10": -7961296659129703893
-      "BombHerMan_Sl\xE5Normal-Sheet_11": 6307542218141036866
-      "BombHerMan_Sl\xE5Normal-Sheet_12": 2146882435708168418
-      "BombHerMan_Sl\xE5Normal-Sheet_13": -7714347483298459244
-      "BombHerMan_Sl\xE5Normal-Sheet_14": -3860890628376982424
-      "BombHerMan_Sl\xE5Normal-Sheet_15": 4152469586648193053
-      "BombHerMan_Sl\xE5Normal-Sheet_16": -4134502305593064976
-      "BombHerMan_Sl\xE5Normal-Sheet_17": -7610844356241225114
-      "BombHerMan_Sl\xE5Normal-Sheet_18": 6061202116563744975
-      "BombHerMan_Sl\xE5Normal-Sheet_2": 1627372962570329206
-      "BombHerMan_Sl\xE5Normal-Sheet_3": -7141804062537494668
-      "BombHerMan_Sl\xE5Normal-Sheet_4": 3973452287029339975
-      "BombHerMan_Sl\xE5Normal-Sheet_5": 1009761858070568166
-      "BombHerMan_Sl\xE5Normal-Sheet_6": -1827432880249849985
-      "BombHerMan_Sl\xE5Normal-Sheet_7": -8969595382043281832
-      "BombHerMan_Sl\xE5Normal-Sheet_8": 8539683241633455373
-      "BombHerMan_Sl\xE5Normal-Sheet_9": 9143400664014251631
+      "BombHerMan_Sl\xE5Normal-Sheet_0": -345609670
+      "BombHerMan_Sl\xE5Normal-Sheet_1": -744322110
+      "BombHerMan_Sl\xE5Normal-Sheet_10": -94391751
+      "BombHerMan_Sl\xE5Normal-Sheet_11": -324234963
+      "BombHerMan_Sl\xE5Normal-Sheet_12": -1035087407
+      "BombHerMan_Sl\xE5Normal-Sheet_13": 585723895
+      "BombHerMan_Sl\xE5Normal-Sheet_14": -355518804
+      "BombHerMan_Sl\xE5Normal-Sheet_15": 515098790
+      "BombHerMan_Sl\xE5Normal-Sheet_16": -346277952
+      "BombHerMan_Sl\xE5Normal-Sheet_17": -1170068878
+      "BombHerMan_Sl\xE5Normal-Sheet_18": 1536640765
+      "BombHerMan_Sl\xE5Normal-Sheet_2": -468852840
+      "BombHerMan_Sl\xE5Normal-Sheet_3": -1295736718
+      "BombHerMan_Sl\xE5Normal-Sheet_4": -491024247
+      "BombHerMan_Sl\xE5Normal-Sheet_5": 1501259426
+      "BombHerMan_Sl\xE5Normal-Sheet_6": 220301873
+      "BombHerMan_Sl\xE5Normal-Sheet_7": -798791904
+      "BombHerMan_Sl\xE5Normal-Sheet_8": 1408985757
+      "BombHerMan_Sl\xE5Normal-Sheet_9": -1234992646
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
