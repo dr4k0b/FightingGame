@@ -1,0 +1,1157 @@
+fileFormatVersion: 2
+guid: 1ae70fdae05f8b54ca070dd865312db5
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5882111797739551495
+    second: Badsanta_Walk_0
+  - first:
+      213: 174453355407555265
+    second: Badsanta_Walk_1
+  - first:
+      213: 8292580462897573488
+    second: Badsanta_Walk_2
+  - first:
+      213: 7039749181215721190
+    second: Badsanta_Walk_3
+  - first:
+      213: 6533594270828646887
+    second: Badsanta_Walk_4
+  - first:
+      213: 6010826437003544296
+    second: Badsanta_Walk_5
+  - first:
+      213: -2413038437983760828
+    second: Badsanta_Walk_6
+  - first:
+      213: -2560894741737342856
+    second: Badsanta_Walk_7
+  - first:
+      213: 6279618779852471165
+    second: Badsanta_Walk_8
+  - first:
+      213: -3858298142029027306
+    second: Badsanta_Walk_9
+  - first:
+      213: 1014846809098006267
+    second: Badsanta_Walk_10
+  - first:
+      213: 31430300793724144
+    second: Badsanta_Walk_11
+  - first:
+      213: 1188978310912754466
+    second: Badsanta_Walk_12
+  - first:
+      213: 3377615317914160749
+    second: Badsanta_Walk_13
+  - first:
+      213: -4327095854187272892
+    second: Badsanta_Walk_14
+  - first:
+      213: 3098351836726437519
+    second: Badsanta_Walk_15
+  - first:
+      213: 7401915512558034572
+    second: Badsanta_Walk_16
+  - first:
+      213: -3777152902491258442
+    second: Badsanta_Walk_17
+  - first:
+      213: -7305313812107408456
+    second: Badsanta_Walk_18
+  - first:
+      213: -744651744273081435
+    second: Badsanta_Walk_19
+  - first:
+      213: 2448422847692624799
+    second: Badsanta_Walk_20
+  - first:
+      213: -8753606623847388645
+    second: Badsanta_Walk_21
+  - first:
+      213: 2302987512563179814
+    second: Badsanta_Walk_22
+  - first:
+      213: -3093372758060926066
+    second: Badsanta_Walk_23
+  - first:
+      213: -4525061987877190351
+    second: Badsanta_Walk_24
+  - first:
+      213: 9026499030505283810
+    second: Badsanta_Walk_25
+  - first:
+      213: 3948144049613919330
+    second: Badsanta_Walk_26
+  - first:
+      213: 6298105569715180407
+    second: Badsanta_Walk_27
+  - first:
+      213: -2023410669022239976
+    second: Badsanta_Walk_28
+  - first:
+      213: -8819107141417784746
+    second: Badsanta_Walk_29
+  - first:
+      213: 7544217203778446513
+    second: Badsanta_Walk_30
+  - first:
+      213: -7333020028277988037
+    second: Badsanta_Walk_31
+  - first:
+      213: 308955523164502343
+    second: Badsanta_Walk_32
+  - first:
+      213: 5357733815575643249
+    second: Badsanta_Walk_33
+  - first:
+      213: -3305116559105651502
+    second: Badsanta_Walk_34
+  - first:
+      213: 2674265738978995870
+    second: Badsanta_Walk_35
+  - first:
+      213: 6910579523362816550
+    second: Badsanta_Walk_36
+  - first:
+      213: -9081380848651124559
+    second: Badsanta_Walk_37
+  - first:
+      213: 3611336517728019753
+    second: Badsanta_Walk_38
+  - first:
+      213: -3759208778353430080
+    second: Badsanta_Walk_39
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Badsanta_Walk_0
+      rect:
+        serializedVersion: 2
+        x: 684
+        y: 5509
+        width: 503
+        height: 695
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f489961c7a8e5ea0800000000000000
+      internalID: -5882111797739551495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Badsanta_Walk_1
+      rect:
+        serializedVersion: 2
+        x: 2604
+        y: 5501
+        width: 503
+        height: 695
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ca31f60768cb6200800000000000000
+      internalID: 174453355407555265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Badsanta_Walk_2
+      rect:
+        serializedVersion: 2
+        x: 4524
+        y: 5494
+        width: 503
+        height: 695
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07eaa5abef9251370800000000000000
+      internalID: 8292580462897573488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Badsanta_Walk_3
+      rect:
+        serializedVersion: 2
+        x: 6444
+        y: 5502
+        width: 503
+        height: 682
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e6c536059632b160800000000000000
+      internalID: 7039749181215721190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Badsanta_Walk_4
+      rect:
+        serializedVersion: 2
+        x: 8361
+        y: 5514
+        width: 506
+        height: 668
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e1d4437f5dfbaa50800000000000000
+      internalID: 6533594270828646887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Badsanta_Walk_5
+      rect:
+        serializedVersion: 2
+        x: 10284
+        y: 5513
+        width: 503
+        height: 671
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e68f183cceba6350800000000000000
+      internalID: 6010826437003544296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Badsanta_Walk_6
+      rect:
+        serializedVersion: 2
+        x: 12204
+        y: 5503
+        width: 503
+        height: 687
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44e4d92535a238ed0800000000000000
+      internalID: -2413038437983760828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Badsanta_Walk_7
+      rect:
+        serializedVersion: 2
+        x: 684
+        y: 4418
+        width: 503
+        height: 700
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8787493fccfd57cd0800000000000000
+      internalID: -2560894741737342856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Badsanta_Walk_8
+      rect:
+        serializedVersion: 2
+        x: 2604
+        y: 4423
+        width: 503
+        height: 705
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7b7af96200b52750800000000000000
+      internalID: 6279618779852471165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Badsanta_Walk_9
+      rect:
+        serializedVersion: 2
+        x: 4524
+        y: 4436
+        width: 503
+        height: 700
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6186fce2842947ac0800000000000000
+      internalID: -3858298142029027306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Badsanta_Walk_10
+      rect:
+        serializedVersion: 2
+        x: 6444
+        y: 4435
+        width: 503
+        height: 708
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bfea9b5cbc5751e00800000000000000
+      internalID: 1014846809098006267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Badsanta_Walk_11
+      rect:
+        serializedVersion: 2
+        x: 8364
+        y: 4432
+        width: 503
+        height: 716
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0fc5ef921b9af6000800000000000000
+      internalID: 31430300793724144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Badsanta_Walk_12
+      rect:
+        serializedVersion: 2
+        x: 10284
+        y: 4430
+        width: 503
+        height: 721
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 223499b6979108010800000000000000
+      internalID: 1188978310912754466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Badsanta_Walk_13
+      rect:
+        serializedVersion: 2
+        x: 12204
+        y: 4430
+        width: 503
+        height: 723
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6e013c7c33bfde20800000000000000
+      internalID: 3377615317914160749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Badsanta_Walk_14
+      rect:
+        serializedVersion: 2
+        x: 684
+        y: 3355
+        width: 503
+        height: 719
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4452a1e1f3113f3c0800000000000000
+      internalID: -4327095854187272892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Badsanta_Walk_15
+      rect:
+        serializedVersion: 2
+        x: 2604
+        y: 3359
+        width: 503
+        height: 712
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f862249649e8ffa20800000000000000
+      internalID: 3098351836726437519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Badsanta_Walk_16
+      rect:
+        serializedVersion: 2
+        x: 4524
+        y: 3358
+        width: 503
+        height: 705
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8e997f01f2e8b660800000000000000
+      internalID: 7401915512558034572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Badsanta_Walk_17
+      rect:
+        serializedVersion: 2
+        x: 6444
+        y: 3355
+        width: 503
+        height: 698
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b14ca8827bd49bc0800000000000000
+      internalID: -3777152902491258442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Badsanta_Walk_18
+      rect:
+        serializedVersion: 2
+        x: 8364
+        y: 3352
+        width: 503
+        height: 691
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8bb45980bcf4e9a90800000000000000
+      internalID: -7305313812107408456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Badsanta_Walk_19
+      rect:
+        serializedVersion: 2
+        x: 10284
+        y: 3351
+        width: 503
+        height: 684
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ab5a351f277aa5f0800000000000000
+      internalID: -744651744273081435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Badsanta_Walk_20
+      rect:
+        serializedVersion: 2
+        x: 12204
+        y: 3348
+        width: 503
+        height: 683
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f935ba09b9b8af120800000000000000
+      internalID: 2448422847692624799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Badsanta_Walk_21
+      rect:
+        serializedVersion: 2
+        x: 684
+        y: 2265
+        width: 503
+        height: 683
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1ae11a7721f48680800000000000000
+      internalID: -8753606623847388645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Badsanta_Walk_22
+      rect:
+        serializedVersion: 2
+        x: 2604
+        y: 2262
+        width: 503
+        height: 685
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6212d70e0fad5ff10800000000000000
+      internalID: 2302987512563179814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Badsanta_Walk_23
+      rect:
+        serializedVersion: 2
+        x: 4524
+        y: 2266
+        width: 503
+        height: 680
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8b78edadd12215d0800000000000000
+      internalID: -3093372758060926066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Badsanta_Walk_24
+      rect:
+        serializedVersion: 2
+        x: 6444
+        y: 2274
+        width: 503
+        height: 672
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13505f9c810c331c0800000000000000
+      internalID: -4525061987877190351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Badsanta_Walk_25
+      rect:
+        serializedVersion: 2
+        x: 8364
+        y: 2273
+        width: 503
+        height: 675
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e0eca63b01944d70800000000000000
+      internalID: 9026499030505283810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Badsanta_Walk_26
+      rect:
+        serializedVersion: 2
+        x: 10284
+        y: 2270
+        width: 503
+        height: 683
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2645f4f4810aac630800000000000000
+      internalID: 3948144049613919330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Badsanta_Walk_27
+      rect:
+        serializedVersion: 2
+        x: 12204
+        y: 2268
+        width: 503
+        height: 692
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77358c895ad576750800000000000000
+      internalID: 6298105569715180407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Badsanta_Walk_28
+      rect:
+        serializedVersion: 2
+        x: 684
+        y: 1191
+        width: 503
+        height: 697
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 813a13e87b66be3e0800000000000000
+      internalID: -2023410669022239976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Badsanta_Walk_29
+      rect:
+        serializedVersion: 2
+        x: 2604
+        y: 1195
+        width: 503
+        height: 700
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65aaeafc7cc3c9580800000000000000
+      internalID: -8819107141417784746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Badsanta_Walk_30
+      rect:
+        serializedVersion: 2
+        x: 4524
+        y: 1183
+        width: 503
+        height: 717
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b4ea9b639172b860800000000000000
+      internalID: 7544217203778446513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Badsanta_Walk_31
+      rect:
+        serializedVersion: 2
+        x: 6444
+        y: 1180
+        width: 503
+        height: 723
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b356aa3e221eb3a90800000000000000
+      internalID: -7333020028277988037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Badsanta_Walk_32
+      rect:
+        serializedVersion: 2
+        x: 8364
+        y: 1183
+        width: 503
+        height: 721
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7497d915961a94400800000000000000
+      internalID: 308955523164502343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Badsanta_Walk_33
+      rect:
+        serializedVersion: 2
+        x: 10284
+        y: 1187
+        width: 503
+        height: 718
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1740c7ec48e7a5a40800000000000000
+      internalID: 5357733815575643249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Badsanta_Walk_34
+      rect:
+        serializedVersion: 2
+        x: 12204
+        y: 1192
+        width: 503
+        height: 712
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2dc0f31300ed122d0800000000000000
+      internalID: -3305116559105651502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Badsanta_Walk_35
+      rect:
+        serializedVersion: 2
+        x: 684
+        y: 114
+        width: 503
+        height: 709
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9e27de4586ec1520800000000000000
+      internalID: 2674265738978995870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Badsanta_Walk_36
+      rect:
+        serializedVersion: 2
+        x: 2604
+        y: 114
+        width: 503
+        height: 707
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6220122767f47ef50800000000000000
+      internalID: 6910579523362816550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Badsanta_Walk_37
+      rect:
+        serializedVersion: 2
+        x: 4524
+        y: 114
+        width: 503
+        height: 702
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b04d1ebb3478f180800000000000000
+      internalID: -9081380848651124559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Badsanta_Walk_38
+      rect:
+        serializedVersion: 2
+        x: 6444
+        y: 113
+        width: 503
+        height: 698
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 925239fdd6b0e1230800000000000000
+      internalID: 3611336517728019753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Badsanta_Walk_39
+      rect:
+        serializedVersion: 2
+        x: 8364
+        y: 109
+        width: 503
+        height: 695
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c1b6b1888b94dbc0800000000000000
+      internalID: -3759208778353430080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Badsanta_Walk_0: -5882111797739551495
+      Badsanta_Walk_1: 174453355407555265
+      Badsanta_Walk_10: 1014846809098006267
+      Badsanta_Walk_11: 31430300793724144
+      Badsanta_Walk_12: 1188978310912754466
+      Badsanta_Walk_13: 3377615317914160749
+      Badsanta_Walk_14: -4327095854187272892
+      Badsanta_Walk_15: 3098351836726437519
+      Badsanta_Walk_16: 7401915512558034572
+      Badsanta_Walk_17: -3777152902491258442
+      Badsanta_Walk_18: -7305313812107408456
+      Badsanta_Walk_19: -744651744273081435
+      Badsanta_Walk_2: 8292580462897573488
+      Badsanta_Walk_20: 2448422847692624799
+      Badsanta_Walk_21: -8753606623847388645
+      Badsanta_Walk_22: 2302987512563179814
+      Badsanta_Walk_23: -3093372758060926066
+      Badsanta_Walk_24: -4525061987877190351
+      Badsanta_Walk_25: 9026499030505283810
+      Badsanta_Walk_26: 3948144049613919330
+      Badsanta_Walk_27: 6298105569715180407
+      Badsanta_Walk_28: -2023410669022239976
+      Badsanta_Walk_29: -8819107141417784746
+      Badsanta_Walk_3: 7039749181215721190
+      Badsanta_Walk_30: 7544217203778446513
+      Badsanta_Walk_31: -7333020028277988037
+      Badsanta_Walk_32: 308955523164502343
+      Badsanta_Walk_33: 5357733815575643249
+      Badsanta_Walk_34: -3305116559105651502
+      Badsanta_Walk_35: 2674265738978995870
+      Badsanta_Walk_36: 6910579523362816550
+      Badsanta_Walk_37: -9081380848651124559
+      Badsanta_Walk_38: 3611336517728019753
+      Badsanta_Walk_39: -3759208778353430080
+      Badsanta_Walk_4: 6533594270828646887
+      Badsanta_Walk_5: 6010826437003544296
+      Badsanta_Walk_6: -2413038437983760828
+      Badsanta_Walk_7: -2560894741737342856
+      Badsanta_Walk_8: 6279618779852471165
+      Badsanta_Walk_9: -3858298142029027306
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

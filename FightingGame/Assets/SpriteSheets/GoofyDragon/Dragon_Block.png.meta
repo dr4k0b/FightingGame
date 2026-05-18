@@ -1,0 +1,1079 @@
+fileFormatVersion: 2
+guid: aacc7bd281901c34f9b53e09f5a9533f
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2045694233208931597
+    second: Dragon_Block_0
+  - first:
+      213: -3446424789372834248
+    second: Dragon_Block_1
+  - first:
+      213: -6406630555597917262
+    second: Dragon_Block_2
+  - first:
+      213: 508369415271726816
+    second: Dragon_Block_3
+  - first:
+      213: 4368768931944317484
+    second: Dragon_Block_4
+  - first:
+      213: 1217159363634926012
+    second: Dragon_Block_5
+  - first:
+      213: 4388331388864772252
+    second: Dragon_Block_6
+  - first:
+      213: -3780386636018281791
+    second: Dragon_Block_7
+  - first:
+      213: -4975219245383181570
+    second: Dragon_Block_8
+  - first:
+      213: 6431775731289515946
+    second: Dragon_Block_9
+  - first:
+      213: -5463719862206130530
+    second: Dragon_Block_10
+  - first:
+      213: -8162819782325428040
+    second: Dragon_Block_11
+  - first:
+      213: -2188876543080828714
+    second: Dragon_Block_12
+  - first:
+      213: 5813514855643298653
+    second: Dragon_Block_13
+  - first:
+      213: 1242089109542670556
+    second: Dragon_Block_14
+  - first:
+      213: 4037785256140056970
+    second: Dragon_Block_15
+  - first:
+      213: -6056610436462164370
+    second: Dragon_Block_16
+  - first:
+      213: -2151755740073980183
+    second: Dragon_Block_17
+  - first:
+      213: -4104336248709925307
+    second: Dragon_Block_18
+  - first:
+      213: 8570121841574443025
+    second: Dragon_Block_19
+  - first:
+      213: -4894248615915381002
+    second: Dragon_Block_20
+  - first:
+      213: -8287226114994869318
+    second: Dragon_Block_21
+  - first:
+      213: 3576631691050976181
+    second: Dragon_Block_22
+  - first:
+      213: -8208859157485194083
+    second: Dragon_Block_23
+  - first:
+      213: 6911355707894391676
+    second: Dragon_Block_24
+  - first:
+      213: 6600489831428747555
+    second: Dragon_Block_25
+  - first:
+      213: -3307845586648307269
+    second: Dragon_Block_26
+  - first:
+      213: 2136146671490007127
+    second: Dragon_Block_27
+  - first:
+      213: -7892394225255149260
+    second: Dragon_Block_28
+  - first:
+      213: -7357152190747142033
+    second: Dragon_Block_29
+  - first:
+      213: 3621268638629403554
+    second: Dragon_Block_30
+  - first:
+      213: -9188309718016626557
+    second: Dragon_Block_31
+  - first:
+      213: -6739915978414607672
+    second: Dragon_Block_32
+  - first:
+      213: -6241288873442120077
+    second: Dragon_Block_33
+  - first:
+      213: -7416979151830619988
+    second: Dragon_Block_34
+  - first:
+      213: -8108393199878050803
+    second: Dragon_Block_35
+  - first:
+      213: -5131752760798458628
+    second: Dragon_Block_36
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Dragon_Block_0
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 5679
+        width: 1714
+        height: 469
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3fa3486feeb3c93e0800000000000000
+      internalID: -2045694233208931597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dragon_Block_1
+      rect:
+        serializedVersion: 2
+        x: 1998
+        y: 5679
+        width: 1706
+        height: 409
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83ee45cf9e6db20d0800000000000000
+      internalID: -3446424789372834248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dragon_Block_2
+      rect:
+        serializedVersion: 2
+        x: 3935
+        y: 5558
+        width: 1678
+        height: 542
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b33c6614731717a0800000000000000
+      internalID: -6406630555597917262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dragon_Block_3
+      rect:
+        serializedVersion: 2
+        x: 5886
+        y: 5679
+        width: 1795
+        height: 615
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0eeb1fb2a471e0700800000000000000
+      internalID: 508369415271726816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dragon_Block_4
+      rect:
+        serializedVersion: 2
+        x: 7841
+        y: 5679
+        width: 1760
+        height: 628
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c22cd46623cf0ac30800000000000000
+      internalID: 4368768931944317484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dragon_Block_5
+      rect:
+        serializedVersion: 2
+        x: 9791
+        y: 5679
+        width: 1725
+        height: 617
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb110801ef734e010800000000000000
+      internalID: 1217159363634926012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dragon_Block_6
+      rect:
+        serializedVersion: 2
+        x: 11712
+        y: 5679
+        width: 1627
+        height: 610
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c983bf5d52c76ec30800000000000000
+      internalID: 4388331388864772252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dragon_Block_7
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 4599
+        width: 1633
+        height: 610
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c21f76426e598bc0800000000000000
+      internalID: -3780386636018281791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dragon_Block_8
+      rect:
+        serializedVersion: 2
+        x: 2135
+        y: 4599
+        width: 1604
+        height: 610
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: efa9f37c47874fab0800000000000000
+      internalID: -4975219245383181570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dragon_Block_9
+      rect:
+        serializedVersion: 2
+        x: 4066
+        y: 4599
+        width: 1593
+        height: 610
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa76d7a53f1424950800000000000000
+      internalID: 6431775731289515946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dragon_Block_10
+      rect:
+        serializedVersion: 2
+        x: 5971
+        y: 4599
+        width: 1608
+        height: 610
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9615fcbbb7fc24b0800000000000000
+      internalID: -5463719862206130530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dragon_Block_11
+      rect:
+        serializedVersion: 2
+        x: 7888
+        y: 4599
+        width: 1611
+        height: 610
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b026fc08a6d7be80800000000000000
+      internalID: -8162819782325428040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dragon_Block_12
+      rect:
+        serializedVersion: 2
+        x: 9850
+        y: 4599
+        width: 1569
+        height: 610
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d07b78916c8f91e0800000000000000
+      internalID: -2188876543080828714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dragon_Block_13
+      rect:
+        serializedVersion: 2
+        x: 11792
+        y: 4599
+        width: 1547
+        height: 610
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5b331bb5f0cda050800000000000000
+      internalID: 5813514855643298653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dragon_Block_14
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 3519
+        width: 1572
+        height: 610
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd01ca9d679cc3110800000000000000
+      internalID: 1242089109542670556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dragon_Block_15
+      rect:
+        serializedVersion: 2
+        x: 2153
+        y: 3519
+        width: 1586
+        height: 610
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a89a98f1c48190830800000000000000
+      internalID: 4037785256140056970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dragon_Block_16
+      rect:
+        serializedVersion: 2
+        x: 4057
+        y: 3519
+        width: 1602
+        height: 610
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e66cfb7b5e892fba0800000000000000
+      internalID: -6056610436462164370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dragon_Block_17
+      rect:
+        serializedVersion: 2
+        x: 5965
+        y: 3519
+        width: 1614
+        height: 610
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ee8b7d0e8d6322e0800000000000000
+      internalID: -2151755740073980183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dragon_Block_18
+      rect:
+        serializedVersion: 2
+        x: 7881
+        y: 3519
+        width: 1618
+        height: 610
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 546b2e07de77a07c0800000000000000
+      internalID: -4104336248709925307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dragon_Block_19
+      rect:
+        serializedVersion: 2
+        x: 9801
+        y: 3519
+        width: 1618
+        height: 610
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1187cd098603fe670800000000000000
+      internalID: 8570121841574443025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dragon_Block_20
+      rect:
+        serializedVersion: 2
+        x: 11721
+        y: 3519
+        width: 1618
+        height: 610
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6fe9aed80d2241cb0800000000000000
+      internalID: -4894248615915381002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dragon_Block_21
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 2439
+        width: 1618
+        height: 610
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: abbe36a81cbddfc80800000000000000
+      internalID: -8287226114994869318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dragon_Block_22
+      rect:
+        serializedVersion: 2
+        x: 2121
+        y: 2439
+        width: 1618
+        height: 610
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b38f7db29fb2a130800000000000000
+      internalID: 3576631691050976181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dragon_Block_23
+      rect:
+        serializedVersion: 2
+        x: 4041
+        y: 2439
+        width: 1618
+        height: 610
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d94f1e2b616441e80800000000000000
+      internalID: -8208859157485194083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dragon_Block_24
+      rect:
+        serializedVersion: 2
+        x: 5961
+        y: 2439
+        width: 1618
+        height: 610
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c73e96df5611aef50800000000000000
+      internalID: 6911355707894391676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dragon_Block_25
+      rect:
+        serializedVersion: 2
+        x: 7854
+        y: 2439
+        width: 1675
+        height: 614
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32173e1e786a99b50800000000000000
+      internalID: 6600489831428747555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dragon_Block_26
+      rect:
+        serializedVersion: 2
+        x: 9718
+        y: 2439
+        width: 1803
+        height: 621
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb9ebf3f6fb2812d0800000000000000
+      internalID: -3307845586648307269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dragon_Block_27
+      rect:
+        serializedVersion: 2
+        x: 11603
+        y: 2433
+        width: 1837
+        height: 635
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7508b46741e15ad10800000000000000
+      internalID: 2136146671490007127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dragon_Block_28
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 1359
+        width: 1831
+        height: 635
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43192509445987290800000000000000
+      internalID: -7892394225255149260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dragon_Block_29
+      rect:
+        serializedVersion: 2
+        x: 2020
+        y: 1359
+        width: 1821
+        height: 634
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f689708ff0526e990800000000000000
+      internalID: -7357152190747142033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dragon_Block_30
+      rect:
+        serializedVersion: 2
+        x: 3912
+        y: 1359
+        width: 1849
+        height: 624
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ab94c9f3a4514230800000000000000
+      internalID: 3621268638629403554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dragon_Block_31
+      rect:
+        serializedVersion: 2
+        x: 5841
+        y: 1097
+        width: 1763
+        height: 785
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38079534ef09c7080800000000000000
+      internalID: -9188309718016626557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dragon_Block_32
+      rect:
+        serializedVersion: 2
+        x: 7758
+        y: 1229
+        width: 1710
+        height: 555
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c23e9290220772a0800000000000000
+      internalID: -6739915978414607672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dragon_Block_33
+      rect:
+        serializedVersion: 2
+        x: 9675
+        y: 1359
+        width: 1713
+        height: 392
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37e62ed56dc7269a0800000000000000
+      internalID: -6241288873442120077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dragon_Block_34
+      rect:
+        serializedVersion: 2
+        x: 11594
+        y: 1359
+        width: 1714
+        height: 411
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca868ac12c8911990800000000000000
+      internalID: -7416979151830619988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dragon_Block_35
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 279
+        width: 1714
+        height: 440
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0c63164853397f80800000000000000
+      internalID: -8108393199878050803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dragon_Block_36
+      rect:
+        serializedVersion: 2
+        x: 1994
+        y: 279
+        width: 1714
+        height: 469
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cfc4a71ad0a58c8b0800000000000000
+      internalID: -5131752760798458628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Dragon_Block_0: -2045694233208931597
+      Dragon_Block_1: -3446424789372834248
+      Dragon_Block_10: -5463719862206130530
+      Dragon_Block_11: -8162819782325428040
+      Dragon_Block_12: -2188876543080828714
+      Dragon_Block_13: 5813514855643298653
+      Dragon_Block_14: 1242089109542670556
+      Dragon_Block_15: 4037785256140056970
+      Dragon_Block_16: -6056610436462164370
+      Dragon_Block_17: -2151755740073980183
+      Dragon_Block_18: -4104336248709925307
+      Dragon_Block_19: 8570121841574443025
+      Dragon_Block_2: -6406630555597917262
+      Dragon_Block_20: -4894248615915381002
+      Dragon_Block_21: -8287226114994869318
+      Dragon_Block_22: 3576631691050976181
+      Dragon_Block_23: -8208859157485194083
+      Dragon_Block_24: 6911355707894391676
+      Dragon_Block_25: 6600489831428747555
+      Dragon_Block_26: -3307845586648307269
+      Dragon_Block_27: 2136146671490007127
+      Dragon_Block_28: -7892394225255149260
+      Dragon_Block_29: -7357152190747142033
+      Dragon_Block_3: 508369415271726816
+      Dragon_Block_30: 3621268638629403554
+      Dragon_Block_31: -9188309718016626557
+      Dragon_Block_32: -6739915978414607672
+      Dragon_Block_33: -6241288873442120077
+      Dragon_Block_34: -7416979151830619988
+      Dragon_Block_35: -8108393199878050803
+      Dragon_Block_36: -5131752760798458628
+      Dragon_Block_4: 4368768931944317484
+      Dragon_Block_5: 1217159363634926012
+      Dragon_Block_6: 4388331388864772252
+      Dragon_Block_7: -3780386636018281791
+      Dragon_Block_8: -4975219245383181570
+      Dragon_Block_9: 6431775731289515946
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,1703 @@
+fileFormatVersion: 2
+guid: c7583c20e8071464ba159a10d1958a41
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2856356873787351952
+    second: Dragon_Walk_0
+  - first:
+      213: -3286855291952511122
+    second: Dragon_Walk_1
+  - first:
+      213: -6869466405332205146
+    second: Dragon_Walk_2
+  - first:
+      213: -8780007826934219005
+    second: Dragon_Walk_3
+  - first:
+      213: 449111196182437442
+    second: Dragon_Walk_4
+  - first:
+      213: -9212184743980528734
+    second: Dragon_Walk_5
+  - first:
+      213: -1317488776069184963
+    second: Dragon_Walk_6
+  - first:
+      213: -7352580328491774687
+    second: Dragon_Walk_7
+  - first:
+      213: 6771354824683113502
+    second: Dragon_Walk_8
+  - first:
+      213: 2906822288105329830
+    second: Dragon_Walk_9
+  - first:
+      213: 2624011558576084670
+    second: Dragon_Walk_10
+  - first:
+      213: 1779467857566245923
+    second: Dragon_Walk_11
+  - first:
+      213: -7793881815867649796
+    second: Dragon_Walk_12
+  - first:
+      213: -7170585194876604953
+    second: Dragon_Walk_13
+  - first:
+      213: 6365239072596359691
+    second: Dragon_Walk_14
+  - first:
+      213: -8850588604434874929
+    second: Dragon_Walk_15
+  - first:
+      213: 1361023301474202559
+    second: Dragon_Walk_16
+  - first:
+      213: -5420820389977064056
+    second: Dragon_Walk_17
+  - first:
+      213: 3998845317018631515
+    second: Dragon_Walk_18
+  - first:
+      213: -1184627515203527691
+    second: Dragon_Walk_19
+  - first:
+      213: -166777889220134164
+    second: Dragon_Walk_20
+  - first:
+      213: -5309665939789444595
+    second: Dragon_Walk_21
+  - first:
+      213: 5343659443564242711
+    second: Dragon_Walk_22
+  - first:
+      213: 5970812436235154548
+    second: Dragon_Walk_23
+  - first:
+      213: -3010117493082136493
+    second: Dragon_Walk_24
+  - first:
+      213: 1982650955764019343
+    second: Dragon_Walk_25
+  - first:
+      213: -8629272360696771355
+    second: Dragon_Walk_26
+  - first:
+      213: -8462311946271134045
+    second: Dragon_Walk_27
+  - first:
+      213: -1851676205491756243
+    second: Dragon_Walk_28
+  - first:
+      213: 6867202701312749289
+    second: Dragon_Walk_29
+  - first:
+      213: 7281898974381375269
+    second: Dragon_Walk_30
+  - first:
+      213: -2764267096283128379
+    second: Dragon_Walk_31
+  - first:
+      213: -8273838209054946483
+    second: Dragon_Walk_32
+  - first:
+      213: 1524143550891581578
+    second: Dragon_Walk_33
+  - first:
+      213: 6585443543684864753
+    second: Dragon_Walk_34
+  - first:
+      213: 1658606681462025299
+    second: Dragon_Walk_35
+  - first:
+      213: 2971464830131869542
+    second: Dragon_Walk_36
+  - first:
+      213: -9139608021338178546
+    second: Dragon_Walk_37
+  - first:
+      213: 7112016563666221814
+    second: Dragon_Walk_38
+  - first:
+      213: 4716807062868113473
+    second: Dragon_Walk_39
+  - first:
+      213: 5147157971383663556
+    second: Dragon_Walk_40
+  - first:
+      213: -8499406108229913280
+    second: Dragon_Walk_41
+  - first:
+      213: 5987713102486875258
+    second: Dragon_Walk_42
+  - first:
+      213: -8785929039256353311
+    second: Dragon_Walk_43
+  - first:
+      213: -7699283693890214474
+    second: Dragon_Walk_44
+  - first:
+      213: 2898832914691620814
+    second: Dragon_Walk_45
+  - first:
+      213: 4153349768602706200
+    second: Dragon_Walk_46
+  - first:
+      213: -8037436366452823696
+    second: Dragon_Walk_47
+  - first:
+      213: -2269478356474351248
+    second: Dragon_Walk_48
+  - first:
+      213: -4038167492266327731
+    second: Dragon_Walk_49
+  - first:
+      213: -3407057101915222381
+    second: Dragon_Walk_50
+  - first:
+      213: -2712383751396804417
+    second: Dragon_Walk_51
+  - first:
+      213: 2849688365526382717
+    second: Dragon_Walk_52
+  - first:
+      213: -2818693490352966190
+    second: Dragon_Walk_53
+  - first:
+      213: 4484903745061335550
+    second: Dragon_Walk_54
+  - first:
+      213: -1471912725524207052
+    second: Dragon_Walk_55
+  - first:
+      213: -5126581292699857376
+    second: Dragon_Walk_56
+  - first:
+      213: -2797310659662294332
+    second: Dragon_Walk_57
+  - first:
+      213: 2781432923746199694
+    second: Dragon_Walk_58
+  - first:
+      213: 7272681071327844792
+    second: Dragon_Walk_59
+  - first:
+      213: 8939779651496577656
+    second: Dragon_Walk_60
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Dragon_Walk_0
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 7838
+        width: 1669
+        height: 513
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09327dd6171d3a720800000000000000
+      internalID: 2856356873787351952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dragon_Walk_1
+      rect:
+        serializedVersion: 2
+        x: 2046
+        y: 7838
+        width: 1671
+        height: 508
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e67ce07c68eb262d0800000000000000
+      internalID: -3286855291952511122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dragon_Walk_2
+      rect:
+        serializedVersion: 2
+        x: 3963
+        y: 7838
+        width: 1674
+        height: 501
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a1c1b943b0caa0a0800000000000000
+      internalID: -6869466405332205146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dragon_Walk_3
+      rect:
+        serializedVersion: 2
+        x: 5880
+        y: 7833
+        width: 1678
+        height: 499
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30fbf6e5665272680800000000000000
+      internalID: -8780007826934219005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dragon_Walk_4
+      rect:
+        serializedVersion: 2
+        x: 7796
+        y: 7828
+        width: 1682
+        height: 494
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24eda11e0409b3600800000000000000
+      internalID: 449111196182437442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dragon_Walk_5
+      rect:
+        serializedVersion: 2
+        x: 9712
+        y: 7823
+        width: 1685
+        height: 489
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ab84c998ceb72080800000000000000
+      internalID: -9212184743980528734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dragon_Walk_6
+      rect:
+        serializedVersion: 2
+        x: 11627
+        y: 7820
+        width: 1690
+        height: 482
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3205d240f657bde0800000000000000
+      internalID: -1317488776069184963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dragon_Walk_7
+      rect:
+        serializedVersion: 2
+        x: 13543
+        y: 7814
+        width: 1692
+        height: 477
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12d09b9952366f990800000000000000
+      internalID: -7352580328491774687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dragon_Walk_8
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 6732
+        width: 1696
+        height: 472
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1c4d5d365fa8fd50800000000000000
+      internalID: 6771354824683113502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dragon_Walk_9
+      rect:
+        serializedVersion: 2
+        x: 2013
+        y: 6741
+        width: 1699
+        height: 460
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a4d4b3587b175820800000000000000
+      internalID: 2906822288105329830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dragon_Walk_10
+      rect:
+        serializedVersion: 2
+        x: 3929
+        y: 6754
+        width: 1701
+        height: 445
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb652732c9c5a6420800000000000000
+      internalID: 2624011558576084670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dragon_Walk_11
+      rect:
+        serializedVersion: 2
+        x: 5845
+        y: 6758
+        width: 1704
+        height: 440
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3242673a690f1b810800000000000000
+      internalID: 1779467857566245923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dragon_Walk_12
+      rect:
+        serializedVersion: 2
+        x: 7762
+        y: 6758
+        width: 1706
+        height: 440
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf015df38c196d390800000000000000
+      internalID: -7793881815867649796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dragon_Walk_13
+      rect:
+        serializedVersion: 2
+        x: 9679
+        y: 6758
+        width: 1708
+        height: 440
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ed64b3b1c6fc7c90800000000000000
+      internalID: -7170585194876604953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dragon_Walk_14
+      rect:
+        serializedVersion: 2
+        x: 11595
+        y: 6758
+        width: 1711
+        height: 440
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0afa88463fd55850800000000000000
+      internalID: 6365239072596359691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dragon_Walk_15
+      rect:
+        serializedVersion: 2
+        x: 13512
+        y: 6758
+        width: 1713
+        height: 444
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fcdf9838e846c2580800000000000000
+      internalID: -8850588604434874929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dragon_Walk_16
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 5678
+        width: 1716
+        height: 455
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb3366f4b7353e210800000000000000
+      internalID: 1361023301474202559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dragon_Walk_17
+      rect:
+        serializedVersion: 2
+        x: 1987
+        y: 5675
+        width: 1718
+        height: 474
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88df838739065c4b0800000000000000
+      internalID: -5420820389977064056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dragon_Walk_18
+      rect:
+        serializedVersion: 2
+        x: 3906
+        y: 5670
+        width: 1719
+        height: 496
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5d31a801a0ce7730800000000000000
+      internalID: 3998845317018631515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dragon_Walk_19
+      rect:
+        serializedVersion: 2
+        x: 5826
+        y: 5664
+        width: 1720
+        height: 520
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5fbd3252d8b5f8fe0800000000000000
+      internalID: -1184627515203527691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dragon_Walk_20
+      rect:
+        serializedVersion: 2
+        x: 7747
+        y: 5658
+        width: 1720
+        height: 541
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ceaf4a4b46c7fadf0800000000000000
+      internalID: -166777889220134164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dragon_Walk_21
+      rect:
+        serializedVersion: 2
+        x: 9671
+        y: 5655
+        width: 1717
+        height: 554
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0a0cd6a5f64056b0800000000000000
+      internalID: -5309665939789444595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dragon_Walk_22
+      rect:
+        serializedVersion: 2
+        x: 11596
+        y: 5655
+        width: 1713
+        height: 560
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 717ee46b3fd782a40800000000000000
+      internalID: 5343659443564242711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dragon_Walk_23
+      rect:
+        serializedVersion: 2
+        x: 13523
+        y: 5660
+        width: 1707
+        height: 557
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 474f74aa6469cd250800000000000000
+      internalID: 5970812436235154548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dragon_Walk_24
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 4587
+        width: 1700
+        height: 550
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35066ac961ae936d0800000000000000
+      internalID: -3010117493082136493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dragon_Walk_25
+      rect:
+        serializedVersion: 2
+        x: 2019
+        y: 4595
+        width: 1693
+        height: 539
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8037eb2a8ac38b10800000000000000
+      internalID: 1982650955764019343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dragon_Walk_26
+      rect:
+        serializedVersion: 2
+        x: 3947
+        y: 4597
+        width: 1686
+        height: 532
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ec829ef18aae3880800000000000000
+      internalID: -8629272360696771355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dragon_Walk_27
+      rect:
+        serializedVersion: 2
+        x: 5874
+        y: 4597
+        width: 1680
+        height: 528
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3aee6ffbe14df8a80800000000000000
+      internalID: -8462311946271134045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dragon_Walk_28
+      rect:
+        serializedVersion: 2
+        x: 7800
+        y: 4597
+        width: 1675
+        height: 523
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d23ee9c3d468d46e0800000000000000
+      internalID: -1851676205491756243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dragon_Walk_29
+      rect:
+        serializedVersion: 2
+        x: 9724
+        y: 4597
+        width: 1671
+        height: 519
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ee695c09743d4f50800000000000000
+      internalID: 6867202701312749289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dragon_Walk_30
+      rect:
+        serializedVersion: 2
+        x: 11645
+        y: 4598
+        width: 1671
+        height: 513
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52f784a39808e0560800000000000000
+      internalID: 7281898974381375269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dragon_Walk_31
+      rect:
+        serializedVersion: 2
+        x: 13564
+        y: 4598
+        width: 1673
+        height: 507
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5cd5ebdb8b953a9d0800000000000000
+      internalID: -2764267096283128379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dragon_Walk_32
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 3518
+        width: 1675
+        height: 501
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4bc93c4cfb6d2d80800000000000000
+      internalID: -8273838209054946483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dragon_Walk_33
+      rect:
+        serializedVersion: 2
+        x: 2039
+        y: 3513
+        width: 1679
+        height: 499
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a806899fb78d62510800000000000000
+      internalID: 1524143550891581578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dragon_Walk_34
+      rect:
+        serializedVersion: 2
+        x: 3956
+        y: 3508
+        width: 1682
+        height: 495
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1fad9b50302346b50800000000000000
+      internalID: 6585443543684864753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dragon_Walk_35
+      rect:
+        serializedVersion: 2
+        x: 5872
+        y: 3503
+        width: 1685
+        height: 490
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35c22a63dfd840710800000000000000
+      internalID: 1658606681462025299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dragon_Walk_36
+      rect:
+        serializedVersion: 2
+        x: 7788
+        y: 3500
+        width: 1689
+        height: 482
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 667939ef483cc3920800000000000000
+      internalID: 2971464830131869542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dragon_Walk_37
+      rect:
+        serializedVersion: 2
+        x: 9703
+        y: 3494
+        width: 1692
+        height: 477
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0cb3d5ade6992180800000000000000
+      internalID: -9139608021338178546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dragon_Walk_38
+      rect:
+        serializedVersion: 2
+        x: 11618
+        y: 3492
+        width: 1696
+        height: 472
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6faf4023265f2b260800000000000000
+      internalID: 7112016563666221814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dragon_Walk_39
+      rect:
+        serializedVersion: 2
+        x: 13534
+        y: 3501
+        width: 1698
+        height: 460
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 148be407807757140800000000000000
+      internalID: 4716807062868113473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dragon_Walk_40
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 2434
+        width: 1700
+        height: 445
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4cbb42777e06e6740800000000000000
+      internalID: 5147157971383663556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dragon_Walk_41
+      rect:
+        serializedVersion: 2
+        x: 2006
+        y: 2438
+        width: 1703
+        height: 440
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 045bb252d2b0c0a80800000000000000
+      internalID: -8499406108229913280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dragon_Walk_42
+      rect:
+        serializedVersion: 2
+        x: 3923
+        y: 2438
+        width: 1705
+        height: 440
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7caeaaa751a81350800000000000000
+      internalID: 5987713102486875258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dragon_Walk_43
+      rect:
+        serializedVersion: 2
+        x: 5839
+        y: 2438
+        width: 1708
+        height: 440
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e50651b61c121680800000000000000
+      internalID: -8785929039256353311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dragon_Walk_44
+      rect:
+        serializedVersion: 2
+        x: 7756
+        y: 2438
+        width: 1710
+        height: 440
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b567b0e546a62590800000000000000
+      internalID: -7699283693890214474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dragon_Walk_45
+      rect:
+        serializedVersion: 2
+        x: 9673
+        y: 2438
+        width: 1712
+        height: 444
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ecf776f5d29ba3820800000000000000
+      internalID: 2898832914691620814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dragon_Walk_46
+      rect:
+        serializedVersion: 2
+        x: 11590
+        y: 2438
+        width: 1715
+        height: 455
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 811e381fb99a3a930800000000000000
+      internalID: 4153349768602706200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dragon_Walk_47
+      rect:
+        serializedVersion: 2
+        x: 13508
+        y: 2435
+        width: 1717
+        height: 474
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 079e5c8753a457090800000000000000
+      internalID: -8037436366452823696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dragon_Walk_48
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 1350
+        width: 1719
+        height: 496
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 071b8e085713180e0800000000000000
+      internalID: -2269478356474351248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dragon_Walk_49
+      rect:
+        serializedVersion: 2
+        x: 1987
+        y: 1344
+        width: 1719
+        height: 520
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d418fe79f0c85f7c0800000000000000
+      internalID: -4038167492266327731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dragon_Walk_50
+      rect:
+        serializedVersion: 2
+        x: 3908
+        y: 1338
+        width: 1719
+        height: 541
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39e0fdefd93b7b0d0800000000000000
+      internalID: -3407057101915222381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dragon_Walk_51
+      rect:
+        serializedVersion: 2
+        x: 5832
+        y: 1335
+        width: 1716
+        height: 554
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb8b373595dab5ad0800000000000000
+      internalID: -2712383751396804417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dragon_Walk_52
+      rect:
+        serializedVersion: 2
+        x: 7757
+        y: 1335
+        width: 1712
+        height: 560
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7873cb58702c8720800000000000000
+      internalID: 2849688365526382717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dragon_Walk_53
+      rect:
+        serializedVersion: 2
+        x: 9684
+        y: 1340
+        width: 1707
+        height: 557
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d53ec0643df1e8d0800000000000000
+      internalID: -2818693490352966190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dragon_Walk_54
+      rect:
+        serializedVersion: 2
+        x: 11612
+        y: 1347
+        width: 1700
+        height: 550
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef13330b1349d3e30800000000000000
+      internalID: 4484903745061335550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dragon_Walk_55
+      rect:
+        serializedVersion: 2
+        x: 13541
+        y: 1355
+        width: 1691
+        height: 539
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43aa0c6bc27b29be0800000000000000
+      internalID: -1471912725524207052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dragon_Walk_56
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 277
+        width: 1684
+        height: 533
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02e4670e979bad8b0800000000000000
+      internalID: -5126581292699857376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dragon_Walk_57
+      rect:
+        serializedVersion: 2
+        x: 2036
+        y: 277
+        width: 1678
+        height: 528
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c25a6c96c4fd29d0800000000000000
+      internalID: -2797310659662294332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dragon_Walk_58
+      rect:
+        serializedVersion: 2
+        x: 3962
+        y: 277
+        width: 1673
+        height: 523
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e88e77ae182a99620800000000000000
+      internalID: 2781432923746199694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dragon_Walk_59
+      rect:
+        serializedVersion: 2
+        x: 5886
+        y: 277
+        width: 1669
+        height: 519
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b9143de6e0cde460800000000000000
+      internalID: 7272681071327844792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dragon_Walk_60
+      rect:
+        serializedVersion: 2
+        x: 7806
+        y: 277
+        width: 1669
+        height: 519
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87a08b16a3a701c70800000000000000
+      internalID: 8939779651496577656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Dragon_Walk_0: 2856356873787351952
+      Dragon_Walk_1: -3286855291952511122
+      Dragon_Walk_10: 2624011558576084670
+      Dragon_Walk_11: 1779467857566245923
+      Dragon_Walk_12: -7793881815867649796
+      Dragon_Walk_13: -7170585194876604953
+      Dragon_Walk_14: 6365239072596359691
+      Dragon_Walk_15: -8850588604434874929
+      Dragon_Walk_16: 1361023301474202559
+      Dragon_Walk_17: -5420820389977064056
+      Dragon_Walk_18: 3998845317018631515
+      Dragon_Walk_19: -1184627515203527691
+      Dragon_Walk_2: -6869466405332205146
+      Dragon_Walk_20: -166777889220134164
+      Dragon_Walk_21: -5309665939789444595
+      Dragon_Walk_22: 5343659443564242711
+      Dragon_Walk_23: 5970812436235154548
+      Dragon_Walk_24: -3010117493082136493
+      Dragon_Walk_25: 1982650955764019343
+      Dragon_Walk_26: -8629272360696771355
+      Dragon_Walk_27: -8462311946271134045
+      Dragon_Walk_28: -1851676205491756243
+      Dragon_Walk_29: 6867202701312749289
+      Dragon_Walk_3: -8780007826934219005
+      Dragon_Walk_30: 7281898974381375269
+      Dragon_Walk_31: -2764267096283128379
+      Dragon_Walk_32: -8273838209054946483
+      Dragon_Walk_33: 1524143550891581578
+      Dragon_Walk_34: 6585443543684864753
+      Dragon_Walk_35: 1658606681462025299
+      Dragon_Walk_36: 2971464830131869542
+      Dragon_Walk_37: -9139608021338178546
+      Dragon_Walk_38: 7112016563666221814
+      Dragon_Walk_39: 4716807062868113473
+      Dragon_Walk_4: 449111196182437442
+      Dragon_Walk_40: 5147157971383663556
+      Dragon_Walk_41: -8499406108229913280
+      Dragon_Walk_42: 5987713102486875258
+      Dragon_Walk_43: -8785929039256353311
+      Dragon_Walk_44: -7699283693890214474
+      Dragon_Walk_45: 2898832914691620814
+      Dragon_Walk_46: 4153349768602706200
+      Dragon_Walk_47: -8037436366452823696
+      Dragon_Walk_48: -2269478356474351248
+      Dragon_Walk_49: -4038167492266327731
+      Dragon_Walk_5: -9212184743980528734
+      Dragon_Walk_50: -3407057101915222381
+      Dragon_Walk_51: -2712383751396804417
+      Dragon_Walk_52: 2849688365526382717
+      Dragon_Walk_53: -2818693490352966190
+      Dragon_Walk_54: 4484903745061335550
+      Dragon_Walk_55: -1471912725524207052
+      Dragon_Walk_56: -5126581292699857376
+      Dragon_Walk_57: -2797310659662294332
+      Dragon_Walk_58: 2781432923746199694
+      Dragon_Walk_59: 7272681071327844792
+      Dragon_Walk_6: -1317488776069184963
+      Dragon_Walk_60: 8939779651496577656
+      Dragon_Walk_7: -7352580328491774687
+      Dragon_Walk_8: 6771354824683113502
+      Dragon_Walk_9: 2906822288105329830
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
