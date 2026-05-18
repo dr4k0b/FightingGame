@@ -7,11 +7,12 @@ public class PlayerHealth : MonoBehaviour
 {
     PlayerInformation p;
     GlobalInformation g;
-
+    GameManager gm;
     void Start()
     {
         p = GetComponent<PlayerInformation>();
         g = FindFirstObjectByType<GlobalInformation>();
+        gm = FindFirstObjectByType<GameManager>();
         p.health = p.maxHealth;
     }
 

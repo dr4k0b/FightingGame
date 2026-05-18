@@ -29,6 +29,8 @@ public class PlayerInformation : MonoBehaviour
     public float knockbackDeacceleration;
     [HideInInspector]
     public float currentKnockback;
+    [HideInInspector]
+    public RectTransform healthbarScale;
 
     [Header("Blocking")]
     public bool isBlocking;
@@ -48,4 +50,6 @@ public class PlayerInformation : MonoBehaviour
 
     [Header("")]
     public Animator animator;
+
+
 }
