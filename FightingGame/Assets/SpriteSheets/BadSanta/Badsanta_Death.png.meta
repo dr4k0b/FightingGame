@@ -1,0 +1,780 @@
+fileFormatVersion: 2
+guid: c7002e2af9105da49a75f4a2beac9f85
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6395790114129255794
+    second: Badsanta_Death_0
+  - first:
+      213: 5663236712348122759
+    second: Badsanta_Death_1
+  - first:
+      213: -6948078011214113966
+    second: Badsanta_Death_2
+  - first:
+      213: 5816033652766082879
+    second: Badsanta_Death_3
+  - first:
+      213: -1151542534543841655
+    second: Badsanta_Death_4
+  - first:
+      213: 6012371865492211273
+    second: Badsanta_Death_5
+  - first:
+      213: -1273549218812783670
+    second: Badsanta_Death_6
+  - first:
+      213: 6172882647853673661
+    second: Badsanta_Death_7
+  - first:
+      213: 6159153781117493709
+    second: Badsanta_Death_8
+  - first:
+      213: 2169968184008324921
+    second: Badsanta_Death_9
+  - first:
+      213: -7412272263004711507
+    second: Badsanta_Death_10
+  - first:
+      213: 2027178883072449740
+    second: Badsanta_Death_11
+  - first:
+      213: 5303457220912769367
+    second: Badsanta_Death_12
+  - first:
+      213: 7459078089386154196
+    second: Badsanta_Death_13
+  - first:
+      213: -348468014567641608
+    second: Badsanta_Death_14
+  - first:
+      213: 1603410459504275123
+    second: Badsanta_Death_15
+  - first:
+      213: 54311634270100075
+    second: Badsanta_Death_16
+  - first:
+      213: 6300202767651532347
+    second: Badsanta_Death_17
+  - first:
+      213: -8187832718160840327
+    second: Badsanta_Death_18
+  - first:
+      213: 1404517017342531466
+    second: Badsanta_Death_19
+  - first:
+      213: 1176524484988849736
+    second: Badsanta_Death_20
+  - first:
+      213: 709282168268560957
+    second: Badsanta_Death_21
+  - first:
+      213: -4034664594623599826
+    second: Badsanta_Death_22
+  - first:
+      213: 5736793049935375030
+    second: Badsanta_Death_23
+  - first:
+      213: -4068636031007932894
+    second: Badsanta_Death_24
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Badsanta_Death_0
+      rect:
+        serializedVersion: 2
+        x: 684
+        y: 4429
+        width: 503
+        height: 695
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e82ee5d07c69d37a0800000000000000
+      internalID: -6395790114129255794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Badsanta_Death_1
+      rect:
+        serializedVersion: 2
+        x: 2604
+        y: 4429
+        width: 503
+        height: 694
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78ef576e8cbd79e40800000000000000
+      internalID: 5663236712348122759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Badsanta_Death_2
+      rect:
+        serializedVersion: 2
+        x: 4524
+        y: 4429
+        width: 503
+        height: 691
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25351ed7cd7739f90800000000000000
+      internalID: -6948078011214113966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Badsanta_Death_3
+      rect:
+        serializedVersion: 2
+        x: 6444
+        y: 4428
+        width: 503
+        height: 688
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3707d2eac3b6b050800000000000000
+      internalID: 5816033652766082879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Badsanta_Death_4
+      rect:
+        serializedVersion: 2
+        x: 8364
+        y: 4428
+        width: 503
+        height: 683
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 986e2cc7a26e400f0800000000000000
+      internalID: -1151542534543841655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Badsanta_Death_5
+      rect:
+        serializedVersion: 2
+        x: 684
+        y: 3348
+        width: 503
+        height: 678
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94647345b5c307350800000000000000
+      internalID: 6012371865492211273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Badsanta_Death_6
+      rect:
+        serializedVersion: 2
+        x: 2604
+        y: 3347
+        width: 503
+        height: 674
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac310b8abb1735ee0800000000000000
+      internalID: -1273549218812783670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Badsanta_Death_7
+      rect:
+        serializedVersion: 2
+        x: 4524
+        y: 3347
+        width: 503
+        height: 670
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dbcad79101c7aa550800000000000000
+      internalID: 6172882647853673661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Badsanta_Death_8
+      rect:
+        serializedVersion: 2
+        x: 6444
+        y: 3347
+        width: 503
+        height: 667
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc123883bb5b97550800000000000000
+      internalID: 6159153781117493709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Badsanta_Death_9
+      rect:
+        serializedVersion: 2
+        x: 8364
+        y: 3347
+        width: 503
+        height: 666
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93737bdf0964d1e10800000000000000
+      internalID: 2169968184008324921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Badsanta_Death_10
+      rect:
+        serializedVersion: 2
+        x: 684
+        y: 2268
+        width: 505
+        height: 667
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da59f1116a1522990800000000000000
+      internalID: -7412272263004711507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Badsanta_Death_11
+      rect:
+        serializedVersion: 2
+        x: 2605
+        y: 2272
+        width: 509
+        height: 667
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cccd4b5247cf12c10800000000000000
+      internalID: 2027178883072449740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Badsanta_Death_12
+      rect:
+        serializedVersion: 2
+        x: 4526
+        y: 2275
+        width: 515
+        height: 670
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7596cf55e3aa99940800000000000000
+      internalID: 5303457220912769367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Badsanta_Death_13
+      rect:
+        serializedVersion: 2
+        x: 6449
+        y: 2280
+        width: 522
+        height: 674
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d8d2cd9008f38760800000000000000
+      internalID: 7459078089386154196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Badsanta_Death_14
+      rect:
+        serializedVersion: 2
+        x: 8375
+        y: 2285
+        width: 528
+        height: 679
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8fd2c10ef2ef92bf0800000000000000
+      internalID: -348468014567641608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Badsanta_Death_15
+      rect:
+        serializedVersion: 2
+        x: 702
+        y: 1212
+        width: 535
+        height: 683
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3bee5e35155704610800000000000000
+      internalID: 1603410459504275123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Badsanta_Death_16
+      rect:
+        serializedVersion: 2
+        x: 2631
+        y: 1218
+        width: 539
+        height: 688
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6a17d3c424f0c000800000000000000
+      internalID: 54311634270100075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Badsanta_Death_17
+      rect:
+        serializedVersion: 2
+        x: 4564
+        y: 1225
+        width: 540
+        height: 693
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3e6dca8901de6750800000000000000
+      internalID: 6300202767651532347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Badsanta_Death_18
+      rect:
+        serializedVersion: 2
+        x: 6480
+        y: 1233
+        width: 555
+        height: 696
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 979b3b91689fe5e80800000000000000
+      internalID: -8187832718160840327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Badsanta_Death_19
+      rect:
+        serializedVersion: 2
+        x: 8352
+        y: 1242
+        width: 611
+        height: 698
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8751bb29c8dd7310800000000000000
+      internalID: 1404517017342531466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Badsanta_Death_20
+      rect:
+        serializedVersion: 2
+        x: 620
+        y: 169
+        width: 667
+        height: 701
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84e4f4d19cad35010800000000000000
+      internalID: 1176524484988849736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Badsanta_Death_21
+      rect:
+        serializedVersion: 2
+        x: 2501
+        y: 177
+        width: 708
+        height: 701
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3a9a25cf50e7d900800000000000000
+      internalID: 709282168268560957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Badsanta_Death_22
+      rect:
+        serializedVersion: 2
+        x: 4398
+        y: 183
+        width: 731
+        height: 702
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2b6d918dedf108c0800000000000000
+      internalID: -4034664594623599826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Badsanta_Death_23
+      rect:
+        serializedVersion: 2
+        x: 6306
+        y: 187
+        width: 743
+        height: 702
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6bae35352ee2d9f40800000000000000
+      internalID: 5736793049935375030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Badsanta_Death_24
+      rect:
+        serializedVersion: 2
+        x: 8223
+        y: 188
+        width: 745
+        height: 703
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22eba6b161d4987c0800000000000000
+      internalID: -4068636031007932894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Badsanta_Death_0: -6395790114129255794
+      Badsanta_Death_1: 5663236712348122759
+      Badsanta_Death_10: -7412272263004711507
+      Badsanta_Death_11: 2027178883072449740
+      Badsanta_Death_12: 5303457220912769367
+      Badsanta_Death_13: 7459078089386154196
+      Badsanta_Death_14: -348468014567641608
+      Badsanta_Death_15: 1603410459504275123
+      Badsanta_Death_16: 54311634270100075
+      Badsanta_Death_17: 6300202767651532347
+      Badsanta_Death_18: -8187832718160840327
+      Badsanta_Death_19: 1404517017342531466
+      Badsanta_Death_2: -6948078011214113966
+      Badsanta_Death_20: 1176524484988849736
+      Badsanta_Death_21: 709282168268560957
+      Badsanta_Death_22: -4034664594623599826
+      Badsanta_Death_23: 5736793049935375030
+      Badsanta_Death_24: -4068636031007932894
+      Badsanta_Death_3: 5816033652766082879
+      Badsanta_Death_4: -1151542534543841655
+      Badsanta_Death_5: 6012371865492211273
+      Badsanta_Death_6: -1273549218812783670
+      Badsanta_Death_7: 6172882647853673661
+      Badsanta_Death_8: 6159153781117493709
+      Badsanta_Death_9: 2169968184008324921
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
