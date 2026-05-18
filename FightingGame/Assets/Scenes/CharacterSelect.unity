@@ -316,7 +316,7 @@ GameObject:
   - component: {fileID: 760929465}
   - component: {fileID: 760929464}
   m_Layer: 0
-  m_Name: input
+  m_Name: CharacterSelect
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -342,6 +342,7 @@ MonoBehaviour:
   - {fileID: 8144418025246382057, guid: 9a0fa276815d10b4484cce175e3fb066, type: 3}
   - {fileID: 8144418025246382057, guid: 3c8b0a6d1a257d644b29bbb43e429053, type: 3}
   - {fileID: 8144418025246382057, guid: d9e03d3c25ec53a4eb6523868eff4fba, type: 3}
+  - {fileID: 8144418025246382057, guid: 34433d88e415ffe41ab1e3cc1ba20921, type: 3}
 --- !u!114 &760929465
 MonoBehaviour:
   m_ObjectHideFlags: 0
