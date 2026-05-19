@@ -434,7 +434,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3f7bd1946b8892644923fadc542a47d7, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::GlobalInformation
-  state: 0
   player1Character: {fileID: 0}
   player2Character: {fileID: 0}
   gameOver: 0
@@ -492,6 +491,7 @@ MonoBehaviour:
   characters:
   - {fileID: 8144418025246382057, guid: d9e03d3c25ec53a4eb6523868eff4fba, type: 3}
   - {fileID: 8144418025246382057, guid: 34433d88e415ffe41ab1e3cc1ba20921, type: 3}
+  - {fileID: 8144418025246382057, guid: 5280c8570238b854fa7b9d73229e077b, type: 3}
 --- !u!114 &760929465
 MonoBehaviour:
   m_ObjectHideFlags: 0
