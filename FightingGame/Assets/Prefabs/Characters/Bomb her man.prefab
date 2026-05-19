@@ -859,7 +859,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: '::'
   PlayerInformation: {fileID: 7530658709007922272}
-  damage: 1
+  damage: 2
   isProjectile: 0
 --- !u!1 &6153047884873650298
 GameObject:
@@ -1447,7 +1447,7 @@ MonoBehaviour:
   blockWindUp: 0.05
   blocking: 0.2
   blockCooldown: 0.5
-  stunnedTime: 1
+  stunnedTime: 1.5
   stunned: 0
   specialWindUp: 1
   specialHurt: 0

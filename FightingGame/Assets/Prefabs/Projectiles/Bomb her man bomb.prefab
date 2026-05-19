@@ -105,8 +105,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 598544a091faf1d4998725afad205dcf, type: 3}
   m_Name: 
   m_EditorClassIdentifier: '::'
-  speed: 4
-  distance: 5
+  speed: 5
+  distance: 6
   p: {fileID: 0}
   hurt: {fileID: 7291527071747044098}
 --- !u!50 &1313160085934109307
@@ -182,7 +182,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Hurt
   PlayerInformation: {fileID: 0}
-  damage: 2
+  damage: 1
   isProjectile: 1
 --- !u!61 &2972992364511923821
 BoxCollider2D:
