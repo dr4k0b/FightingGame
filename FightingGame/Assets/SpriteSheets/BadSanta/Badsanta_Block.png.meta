@@ -1,10 +1,10 @@
 fileFormatVersion: 2
-guid: c2bdc58f04e5fd148a9bbba884ed40a1
+guid: b086d8b23acf52d4196f344e195785e3
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: -8532816129797798633
-    second: BombHerMan_Bomb-Sheet_0
+      213: -6020379781234722184
+    second: Badsanta_Block_0
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -37,7 +37,7 @@ TextureImporter:
   maxTextureSize: 2048
   textureSettings:
     serializedVersion: 2
-    filterMode: 0
+    filterMode: 1
     aniso: 1
     mipBias: 0
     wrapU: 1
@@ -51,7 +51,7 @@ TextureImporter:
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 16
+  spritePixelsToUnits: 100
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -113,45 +113,23 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: BombHerMan_Bomb-Sheet_0
+      name: Badsanta_Block_0
       rect:
         serializedVersion: 2
-        x: 0
-        y: 0
-        width: 16
-        height: 16
+        x: 673
+        y: 109
+        width: 376
+        height: 679
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 715cda150f8559980800000000000000
-      internalID: -8532816129797798633
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: BombHerMan_Bomb-Sheet_1
-      rect:
-        serializedVersion: 2
-        x: 16
-        y: 0
-        width: 16
-        height: 16
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 8f777f15965ce844dbd5da5f08013cc1
-      internalID: 1897344640
+      spriteID: 87a7f8e7c70537ca0800000000000000
+      internalID: -6020379781234722184
       vertices: []
       indices: 
       edges: []
@@ -160,7 +138,7 @@ TextureImporter:
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 5c7d33a5cd491934cbc1a1d66e840b2e
+    spriteID: 
     internalID: 0
     vertices: []
     indices: 
@@ -168,14 +146,9 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     spriteCustomMetadata:
-      entries:
-      - key: SpriteEditor.SliceOnImport
-        value: False
-      - key: SpriteEditor.SliceSettings
-        value: '{"sliceOnImport":false,"gridCellCount":{"x":1.0,"y":1.0},"gridSpriteSize":{"x":16.0,"y":16.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":1,"keepEmptyRects":false,"isAlternate":false}'
+      entries: []
     nameFileIdTable:
-      BombHerMan_Bomb-Sheet_0: -8532816129797798633
-      BombHerMan_Bomb-Sheet_1: 1897344640
+      Badsanta_Block_0: -6020379781234722184
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

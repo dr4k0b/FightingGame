@@ -1,0 +1,598 @@
+fileFormatVersion: 2
+guid: c97b34b4a8ce5904ea87f4ddca812950
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 277230496941224428
+    second: "Badsanta_Sl\xE5Normal_0"
+  - first:
+      213: 7306970402746779955
+    second: "Badsanta_Sl\xE5Normal_1"
+  - first:
+      213: -6424592499249098765
+    second: "Badsanta_Sl\xE5Normal_2"
+  - first:
+      213: 3179969189005299020
+    second: "Badsanta_Sl\xE5Normal_3"
+  - first:
+      213: -3985484886447225976
+    second: "Badsanta_Sl\xE5Normal_4"
+  - first:
+      213: 2632215729516648377
+    second: "Badsanta_Sl\xE5Normal_5"
+  - first:
+      213: -2180539917337312429
+    second: "Badsanta_Sl\xE5Normal_6"
+  - first:
+      213: -1357186747994114663
+    second: "Badsanta_Sl\xE5Normal_7"
+  - first:
+      213: 2429292888807182572
+    second: "Badsanta_Sl\xE5Normal_8"
+  - first:
+      213: 2891781378779145121
+    second: "Badsanta_Sl\xE5Normal_9"
+  - first:
+      213: -5161668680465956107
+    second: "Badsanta_Sl\xE5Normal_10"
+  - first:
+      213: -3039636538973409860
+    second: "Badsanta_Sl\xE5Normal_11"
+  - first:
+      213: 1788523734506901132
+    second: "Badsanta_Sl\xE5Normal_12"
+  - first:
+      213: 8229774450187575405
+    second: "Badsanta_Sl\xE5Normal_13"
+  - first:
+      213: 2408714109656460050
+    second: "Badsanta_Sl\xE5Normal_14"
+  - first:
+      213: -9176118378939295352
+    second: "Badsanta_Sl\xE5Normal_15"
+  - first:
+      213: -7847943208577857461
+    second: "Badsanta_Sl\xE5Normal_16"
+  - first:
+      213: -1662309400165825787
+    second: "Badsanta_Sl\xE5Normal_17"
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: "Badsanta_Sl\xE5Normal_0"
+      rect:
+        serializedVersion: 2
+        x: 684
+        y: 3349
+        width: 503
+        height: 695
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce1361b0babe8d300800000000000000
+      internalID: 277230496941224428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Badsanta_Sl\xE5Normal_1"
+      rect:
+        serializedVersion: 2
+        x: 2603
+        y: 3349
+        width: 494
+        height: 695
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 339c3080ed2976560800000000000000
+      internalID: 7306970402746779955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Badsanta_Sl\xE5Normal_2"
+      rect:
+        serializedVersion: 2
+        x: 4523
+        y: 3349
+        width: 492
+        height: 695
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ff4e9f292347d6a0800000000000000
+      internalID: -6424592499249098765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Badsanta_Sl\xE5Normal_3"
+      rect:
+        serializedVersion: 2
+        x: 6454
+        y: 3349
+        width: 527
+        height: 693
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4d09531125812c20800000000000000
+      internalID: 3179969189005299020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Badsanta_Sl\xE5Normal_4"
+      rect:
+        serializedVersion: 2
+        x: 8397
+        y: 3349
+        width: 561
+        height: 690
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88300ad9c96b0b8c0800000000000000
+      internalID: -3985484886447225976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Badsanta_Sl\xE5Normal_5"
+      rect:
+        serializedVersion: 2
+        x: 740
+        y: 2268
+        width: 584
+        height: 687
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b7190a8242878420800000000000000
+      internalID: 2632215729516648377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Badsanta_Sl\xE5Normal_6"
+      rect:
+        serializedVersion: 2
+        x: 2674
+        y: 2268
+        width: 600
+        height: 686
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 353cc888f7a2db1e0800000000000000
+      internalID: -2180539917337312429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Badsanta_Sl\xE5Normal_7"
+      rect:
+        serializedVersion: 2
+        x: 4594
+        y: 2268
+        width: 612
+        height: 686
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99571f7e7dd4a2de0800000000000000
+      internalID: -1357186747994114663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Badsanta_Sl\xE5Normal_8"
+      rect:
+        serializedVersion: 2
+        x: 6514
+        y: 2268
+        width: 622
+        height: 686
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce01cbce20596b120800000000000000
+      internalID: 2429292888807182572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Badsanta_Sl\xE5Normal_9"
+      rect:
+        serializedVersion: 2
+        x: 8434
+        y: 2268
+        width: 630
+        height: 686
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a3683ab7dba12820800000000000000
+      internalID: 2891781378779145121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Badsanta_Sl\xE5Normal_10"
+      rect:
+        serializedVersion: 2
+        x: 754
+        y: 1188
+        width: 636
+        height: 686
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f2419ccea11e58b0800000000000000
+      internalID: -5161668680465956107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Badsanta_Sl\xE5Normal_11"
+      rect:
+        serializedVersion: 2
+        x: 2674
+        y: 1188
+        width: 638
+        height: 686
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cbd21382caa01d5d0800000000000000
+      internalID: -3039636538973409860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Badsanta_Sl\xE5Normal_12"
+      rect:
+        serializedVersion: 2
+        x: 4574
+        y: 1188
+        width: 617
+        height: 688
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8e83ab4cdc12d810800000000000000
+      internalID: 1788523734506901132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Badsanta_Sl\xE5Normal_13"
+      rect:
+        serializedVersion: 2
+        x: 6477
+        y: 1189
+        width: 586
+        height: 690
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d60240d5248063270800000000000000
+      internalID: 8229774450187575405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Badsanta_Sl\xE5Normal_14"
+      rect:
+        serializedVersion: 2
+        x: 8381
+        y: 1189
+        width: 549
+        height: 692
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21b6b8788b87d6120800000000000000
+      internalID: 2408714109656460050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Badsanta_Sl\xE5Normal_15"
+      rect:
+        serializedVersion: 2
+        x: 689
+        y: 109
+        width: 516
+        height: 694
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 889d36693f0e7a080800000000000000
+      internalID: -9176118378939295352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Badsanta_Sl\xE5Normal_16"
+      rect:
+        serializedVersion: 2
+        x: 2604
+        y: 109
+        width: 503
+        height: 695
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4807436b31861390800000000000000
+      internalID: -7847943208577857461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Badsanta_Sl\xE5Normal_17"
+      rect:
+        serializedVersion: 2
+        x: 4524
+        y: 109
+        width: 503
+        height: 695
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 503c258686a4ee8e0800000000000000
+      internalID: -1662309400165825787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      "Badsanta_Sl\xE5Normal_0": 277230496941224428
+      "Badsanta_Sl\xE5Normal_1": 7306970402746779955
+      "Badsanta_Sl\xE5Normal_10": -5161668680465956107
+      "Badsanta_Sl\xE5Normal_11": -3039636538973409860
+      "Badsanta_Sl\xE5Normal_12": 1788523734506901132
+      "Badsanta_Sl\xE5Normal_13": 8229774450187575405
+      "Badsanta_Sl\xE5Normal_14": 2408714109656460050
+      "Badsanta_Sl\xE5Normal_15": -9176118378939295352
+      "Badsanta_Sl\xE5Normal_16": -7847943208577857461
+      "Badsanta_Sl\xE5Normal_17": -1662309400165825787
+      "Badsanta_Sl\xE5Normal_2": -6424592499249098765
+      "Badsanta_Sl\xE5Normal_3": 3179969189005299020
+      "Badsanta_Sl\xE5Normal_4": -3985484886447225976
+      "Badsanta_Sl\xE5Normal_5": 2632215729516648377
+      "Badsanta_Sl\xE5Normal_6": -2180539917337312429
+      "Badsanta_Sl\xE5Normal_7": -1357186747994114663
+      "Badsanta_Sl\xE5Normal_8": 2429292888807182572
+      "Badsanta_Sl\xE5Normal_9": 2891781378779145121
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
