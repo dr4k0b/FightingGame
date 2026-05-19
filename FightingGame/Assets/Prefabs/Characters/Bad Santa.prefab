@@ -1459,7 +1459,8 @@ MonoBehaviour:
   knockbackDeacceleration: 0.2
   currentKnockback: 0
   healthbarScale: {fileID: 0}
-  isBlocking: 0
+  block: 0
+  isParrying: 0
   blockWindUp: 0.05
   blocking: 0.2
   blockCooldown: 0.5
@@ -1483,6 +1484,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2fd4c11ec2f44543a9a19187c4e6278, type: 3}
   m_Name: 
   m_EditorClassIdentifier: '::'
+  renderer: {fileID: 7570521692809290322}
+  hurtmat: {fileID: 2100000, guid: 2f301e00692724c49a08c91028d588ec, type: 2}
 --- !u!114 &7952818489501854706
 MonoBehaviour:
   m_ObjectHideFlags: 0

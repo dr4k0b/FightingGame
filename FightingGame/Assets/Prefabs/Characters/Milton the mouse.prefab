@@ -1589,6 +1589,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e2fd4c11ec2f44543a9a19187c4e6278, type: 3}
   m_Name: 
   m_EditorClassIdentifier: '::'
+  renderer: {fileID: 1465117221737655040}
   hurtmat: {fileID: 2100000, guid: 2f301e00692724c49a08c91028d588ec, type: 2}
 --- !u!114 &7952818489501854706
 MonoBehaviour:

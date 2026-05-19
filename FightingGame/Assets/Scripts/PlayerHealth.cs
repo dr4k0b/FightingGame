@@ -9,16 +9,17 @@ public class PlayerHealth : MonoBehaviour
     PlayerInformation p;
     GlobalInformation g;
     GameManager gm;
+    public SpriteRenderer renderer;
 
     public Material hurtmat;
     private Material normalmat;
     bool died;
     void Start()
     {
-        normalmat = GetComponent<SpriteRenderer>().material;
         p = GetComponent<PlayerInformation>();
         g = FindFirstObjectByType<GlobalInformation>();
         gm = FindFirstObjectByType<GameManager>();
+        normalmat = renderer.material;
         p.health = p.maxHealth;
     }
 
@@ -63,8 +64,9 @@ public class PlayerHealth : MonoBehaviour
 
     IEnumerator hurtVisual()
     {
-        GetComponent<SpriteRenderer>().material = hurtmat;
+        Debug.Log("funkar");
+        renderer.material = hurtmat;
         yield return new WaitForSeconds(.1f);
-        GetComponent<SpriteRenderer>().material = normalmat;
+        renderer.material = normalmat;
     }
 }
