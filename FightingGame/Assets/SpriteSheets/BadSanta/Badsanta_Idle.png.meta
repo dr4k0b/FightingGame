@@ -476,12 +476,12 @@ TextureImporter:
       name: Badsanta_Idle_0
       rect:
         serializedVersion: 2
-        x: 684
-        y: 10909
-        width: 503
-        height: 695
+        x: 0
+        y: 7560
+        width: 1920
+        height: 1080
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -498,12 +498,12 @@ TextureImporter:
       name: Badsanta_Idle_1
       rect:
         serializedVersion: 2
-        x: 1793
-        y: 10674
-        width: 2174
-        height: 1206
+        x: 1920
+        y: 7560
+        width: 1920
+        height: 1080
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -520,12 +520,12 @@ TextureImporter:
       name: Badsanta_Idle_2
       rect:
         serializedVersion: 2
-        x: 4524
-        y: 10909
-        width: 503
-        height: 695
+        x: 3840
+        y: 7560
+        width: 1920
+        height: 1080
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -542,12 +542,12 @@ TextureImporter:
       name: Badsanta_Idle_3
       rect:
         serializedVersion: 2
-        x: 6444
-        y: 10909
-        width: 503
-        height: 695
+        x: 5760
+        y: 7560
+        width: 1920
+        height: 1080
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -564,12 +564,12 @@ TextureImporter:
       name: Badsanta_Idle_4
       rect:
         serializedVersion: 2
-        x: 8364
-        y: 10909
-        width: 503
-        height: 695
+        x: 7680
+        y: 7560
+        width: 1920
+        height: 1080
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -586,12 +586,12 @@ TextureImporter:
       name: Badsanta_Idle_5
       rect:
         serializedVersion: 2
-        x: 10284
-        y: 10909
-        width: 503
-        height: 695
+        x: 9600
+        y: 7560
+        width: 1920
+        height: 1080
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -608,12 +608,12 @@ TextureImporter:
       name: Badsanta_Idle_6
       rect:
         serializedVersion: 2
-        x: 12204
-        y: 10909
-        width: 503
-        height: 695
+        x: 11520
+        y: 7560
+        width: 1920
+        height: 1080
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -630,12 +630,12 @@ TextureImporter:
       name: Badsanta_Idle_7
       rect:
         serializedVersion: 2
-        x: 14124
-        y: 10909
-        width: 503
-        height: 695
+        x: 13440
+        y: 7560
+        width: 1920
+        height: 1080
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -652,12 +652,12 @@ TextureImporter:
       name: Badsanta_Idle_8
       rect:
         serializedVersion: 2
-        x: 16044
-        y: 10909
-        width: 503
-        height: 695
+        x: 0
+        y: 6480
+        width: 1920
+        height: 1080
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -674,12 +674,12 @@ TextureImporter:
       name: Badsanta_Idle_9
       rect:
         serializedVersion: 2
-        x: 17964
-        y: 10909
-        width: 502
-        height: 695
+        x: 1920
+        y: 6480
+        width: 1920
+        height: 1080
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -696,12 +696,12 @@ TextureImporter:
       name: Badsanta_Idle_10
       rect:
         serializedVersion: 2
-        x: 19884
-        y: 10909
-        width: 502
-        height: 695
+        x: 3840
+        y: 6480
+        width: 1920
+        height: 1080
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -718,12 +718,12 @@ TextureImporter:
       name: Badsanta_Idle_11
       rect:
         serializedVersion: 2
-        x: 684
-        y: 9829
-        width: 502
-        height: 695
+        x: 5760
+        y: 6480
+        width: 1920
+        height: 1080
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -740,12 +740,12 @@ TextureImporter:
       name: Badsanta_Idle_12
       rect:
         serializedVersion: 2
-        x: 2604
-        y: 9829
-        width: 502
-        height: 695
+        x: 7680
+        y: 6480
+        width: 1920
+        height: 1080
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -762,12 +762,12 @@ TextureImporter:
       name: Badsanta_Idle_13
       rect:
         serializedVersion: 2
-        x: 4524
-        y: 9829
-        width: 502
-        height: 695
+        x: 9600
+        y: 6480
+        width: 1920
+        height: 1080
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -784,12 +784,12 @@ TextureImporter:
       name: Badsanta_Idle_14
       rect:
         serializedVersion: 2
-        x: 6444
-        y: 9829
-        width: 502
-        height: 695
+        x: 11520
+        y: 6480
+        width: 1920
+        height: 1080
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -806,12 +806,12 @@ TextureImporter:
       name: Badsanta_Idle_15
       rect:
         serializedVersion: 2
-        x: 8364
-        y: 9829
-        width: 502
-        height: 695
+        x: 13440
+        y: 6480
+        width: 1920
+        height: 1080
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -828,12 +828,12 @@ TextureImporter:
       name: Badsanta_Idle_16
       rect:
         serializedVersion: 2
-        x: 10284
-        y: 9829
-        width: 502
-        height: 695
+        x: 0
+        y: 5400
+        width: 1920
+        height: 1080
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -850,12 +850,12 @@ TextureImporter:
       name: Badsanta_Idle_17
       rect:
         serializedVersion: 2
-        x: 12204
-        y: 9829
-        width: 502
-        height: 695
+        x: 1920
+        y: 5400
+        width: 1920
+        height: 1080
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -872,12 +872,12 @@ TextureImporter:
       name: Badsanta_Idle_18
       rect:
         serializedVersion: 2
-        x: 14124
-        y: 9829
-        width: 501
-        height: 695
+        x: 3840
+        y: 5400
+        width: 1920
+        height: 1080
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -894,12 +894,12 @@ TextureImporter:
       name: Badsanta_Idle_19
       rect:
         serializedVersion: 2
-        x: 16044
-        y: 9829
-        width: 501
-        height: 695
+        x: 5760
+        y: 5400
+        width: 1920
+        height: 1080
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -916,12 +916,12 @@ TextureImporter:
       name: Badsanta_Idle_20
       rect:
         serializedVersion: 2
-        x: 17965
-        y: 9829
-        width: 500
-        height: 695
+        x: 7680
+        y: 5400
+        width: 1920
+        height: 1080
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -938,12 +938,12 @@ TextureImporter:
       name: Badsanta_Idle_21
       rect:
         serializedVersion: 2
-        x: 19885
-        y: 9829
-        width: 500
-        height: 695
+        x: 9600
+        y: 5400
+        width: 1920
+        height: 1080
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -960,12 +960,12 @@ TextureImporter:
       name: Badsanta_Idle_22
       rect:
         serializedVersion: 2
-        x: 685
-        y: 8749
-        width: 500
-        height: 695
+        x: 11520
+        y: 5400
+        width: 1920
+        height: 1080
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -982,12 +982,12 @@ TextureImporter:
       name: Badsanta_Idle_23
       rect:
         serializedVersion: 2
-        x: 2605
-        y: 8749
-        width: 500
-        height: 695
+        x: 13440
+        y: 5400
+        width: 1920
+        height: 1080
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1004,12 +1004,12 @@ TextureImporter:
       name: Badsanta_Idle_24
       rect:
         serializedVersion: 2
-        x: 4525
-        y: 8749
-        width: 500
-        height: 695
+        x: 0
+        y: 4320
+        width: 1920
+        height: 1080
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1026,12 +1026,12 @@ TextureImporter:
       name: Badsanta_Idle_25
       rect:
         serializedVersion: 2
-        x: 6445
-        y: 8749
-        width: 499
-        height: 695
+        x: 1920
+        y: 4320
+        width: 1920
+        height: 1080
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1048,12 +1048,12 @@ TextureImporter:
       name: Badsanta_Idle_26
       rect:
         serializedVersion: 2
-        x: 8365
-        y: 8749
-        width: 499
-        height: 695
+        x: 3840
+        y: 4320
+        width: 1920
+        height: 1080
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1070,12 +1070,12 @@ TextureImporter:
       name: Badsanta_Idle_27
       rect:
         serializedVersion: 2
-        x: 10285
-        y: 8749
-        width: 499
-        height: 695
+        x: 5760
+        y: 4320
+        width: 1920
+        height: 1080
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1092,12 +1092,12 @@ TextureImporter:
       name: Badsanta_Idle_28
       rect:
         serializedVersion: 2
-        x: 12205
-        y: 8749
-        width: 499
-        height: 695
+        x: 7680
+        y: 4320
+        width: 1920
+        height: 1080
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1114,12 +1114,12 @@ TextureImporter:
       name: Badsanta_Idle_29
       rect:
         serializedVersion: 2
-        x: 14125
-        y: 8749
-        width: 499
-        height: 695
+        x: 9600
+        y: 4320
+        width: 1920
+        height: 1080
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1136,12 +1136,12 @@ TextureImporter:
       name: Badsanta_Idle_30
       rect:
         serializedVersion: 2
-        x: 16045
-        y: 8749
-        width: 499
-        height: 695
+        x: 11520
+        y: 4320
+        width: 1920
+        height: 1080
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1158,12 +1158,12 @@ TextureImporter:
       name: Badsanta_Idle_31
       rect:
         serializedVersion: 2
-        x: 17965
-        y: 8749
-        width: 498
-        height: 695
+        x: 13440
+        y: 4320
+        width: 1920
+        height: 1080
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1180,12 +1180,12 @@ TextureImporter:
       name: Badsanta_Idle_32
       rect:
         serializedVersion: 2
-        x: 19885
-        y: 8749
-        width: 498
-        height: 695
+        x: 0
+        y: 3240
+        width: 1920
+        height: 1080
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1202,12 +1202,12 @@ TextureImporter:
       name: Badsanta_Idle_33
       rect:
         serializedVersion: 2
-        x: 685
-        y: 7669
-        width: 498
-        height: 695
+        x: 1920
+        y: 3240
+        width: 1920
+        height: 1080
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1224,12 +1224,12 @@ TextureImporter:
       name: Badsanta_Idle_34
       rect:
         serializedVersion: 2
-        x: 2605
-        y: 7669
-        width: 498
-        height: 695
+        x: 3840
+        y: 3240
+        width: 1920
+        height: 1080
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1246,12 +1246,12 @@ TextureImporter:
       name: Badsanta_Idle_35
       rect:
         serializedVersion: 2
-        x: 4525
-        y: 7669
-        width: 498
-        height: 695
+        x: 5760
+        y: 3240
+        width: 1920
+        height: 1080
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1268,12 +1268,12 @@ TextureImporter:
       name: Badsanta_Idle_36
       rect:
         serializedVersion: 2
-        x: 6445
-        y: 7669
-        width: 498
-        height: 695
+        x: 7680
+        y: 3240
+        width: 1920
+        height: 1080
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1290,12 +1290,12 @@ TextureImporter:
       name: Badsanta_Idle_37
       rect:
         serializedVersion: 2
-        x: 8366
-        y: 7669
-        width: 496
-        height: 696
+        x: 9600
+        y: 3240
+        width: 1920
+        height: 1080
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1312,12 +1312,12 @@ TextureImporter:
       name: Badsanta_Idle_38
       rect:
         serializedVersion: 2
-        x: 10286
-        y: 7669
-        width: 496
-        height: 696
+        x: 11520
+        y: 3240
+        width: 1920
+        height: 1080
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1334,12 +1334,12 @@ TextureImporter:
       name: Badsanta_Idle_39
       rect:
         serializedVersion: 2
-        x: 12206
-        y: 7669
-        width: 496
-        height: 696
+        x: 13440
+        y: 3240
+        width: 1920
+        height: 1080
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1356,12 +1356,12 @@ TextureImporter:
       name: Badsanta_Idle_40
       rect:
         serializedVersion: 2
-        x: 14126
-        y: 7669
-        width: 496
-        height: 696
+        x: 0
+        y: 2160
+        width: 1920
+        height: 1080
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1378,12 +1378,12 @@ TextureImporter:
       name: Badsanta_Idle_41
       rect:
         serializedVersion: 2
-        x: 16046
-        y: 7669
-        width: 496
-        height: 696
+        x: 1920
+        y: 2160
+        width: 1920
+        height: 1080
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1400,12 +1400,12 @@ TextureImporter:
       name: Badsanta_Idle_42
       rect:
         serializedVersion: 2
-        x: 17966
-        y: 7669
-        width: 495
-        height: 696
+        x: 3840
+        y: 2160
+        width: 1920
+        height: 1080
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1422,12 +1422,12 @@ TextureImporter:
       name: Badsanta_Idle_43
       rect:
         serializedVersion: 2
-        x: 19886
-        y: 7669
-        width: 495
-        height: 696
+        x: 5760
+        y: 2160
+        width: 1920
+        height: 1080
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1444,12 +1444,12 @@ TextureImporter:
       name: Badsanta_Idle_44
       rect:
         serializedVersion: 2
-        x: 686
-        y: 6589
-        width: 495
-        height: 696
+        x: 7680
+        y: 2160
+        width: 1920
+        height: 1080
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1466,12 +1466,12 @@ TextureImporter:
       name: Badsanta_Idle_45
       rect:
         serializedVersion: 2
-        x: 2606
-        y: 6589
-        width: 495
-        height: 696
+        x: 9600
+        y: 2160
+        width: 1920
+        height: 1080
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1488,12 +1488,12 @@ TextureImporter:
       name: Badsanta_Idle_46
       rect:
         serializedVersion: 2
-        x: 4526
-        y: 6589
-        width: 495
-        height: 696
+        x: 11520
+        y: 2160
+        width: 1920
+        height: 1080
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1510,12 +1510,12 @@ TextureImporter:
       name: Badsanta_Idle_47
       rect:
         serializedVersion: 2
-        x: 6446
-        y: 6589
-        width: 495
-        height: 696
+        x: 13440
+        y: 2160
+        width: 1920
+        height: 1080
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1532,12 +1532,12 @@ TextureImporter:
       name: Badsanta_Idle_48
       rect:
         serializedVersion: 2
-        x: 8366
-        y: 6589
-        width: 495
-        height: 696
+        x: 0
+        y: 1080
+        width: 1920
+        height: 1080
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1554,12 +1554,12 @@ TextureImporter:
       name: Badsanta_Idle_49
       rect:
         serializedVersion: 2
-        x: 10286
-        y: 6589
-        width: 495
-        height: 696
+        x: 1920
+        y: 1080
+        width: 1920
+        height: 1080
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1576,12 +1576,12 @@ TextureImporter:
       name: Badsanta_Idle_50
       rect:
         serializedVersion: 2
-        x: 12206
-        y: 6589
-        width: 494
-        height: 696
+        x: 3840
+        y: 1080
+        width: 1920
+        height: 1080
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1598,12 +1598,12 @@ TextureImporter:
       name: Badsanta_Idle_51
       rect:
         serializedVersion: 2
-        x: 14126
-        y: 6589
-        width: 494
-        height: 696
+        x: 5760
+        y: 1080
+        width: 1920
+        height: 1080
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1620,12 +1620,12 @@ TextureImporter:
       name: Badsanta_Idle_52
       rect:
         serializedVersion: 2
-        x: 16046
-        y: 6589
-        width: 494
-        height: 696
+        x: 7680
+        y: 1080
+        width: 1920
+        height: 1080
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1642,12 +1642,12 @@ TextureImporter:
       name: Badsanta_Idle_53
       rect:
         serializedVersion: 2
-        x: 17966
-        y: 6589
-        width: 494
-        height: 696
+        x: 9600
+        y: 1080
+        width: 1920
+        height: 1080
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1664,12 +1664,12 @@ TextureImporter:
       name: Badsanta_Idle_54
       rect:
         serializedVersion: 2
-        x: 19886
-        y: 6589
-        width: 494
-        height: 696
+        x: 11520
+        y: 1080
+        width: 1920
+        height: 1080
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1686,12 +1686,12 @@ TextureImporter:
       name: Badsanta_Idle_55
       rect:
         serializedVersion: 2
-        x: 686
-        y: 5509
-        width: 494
-        height: 696
+        x: 13440
+        y: 1080
+        width: 1920
+        height: 1080
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1708,12 +1708,12 @@ TextureImporter:
       name: Badsanta_Idle_56
       rect:
         serializedVersion: 2
-        x: 2606
-        y: 5509
-        width: 494
-        height: 696
+        x: 0
+        y: 0
+        width: 1920
+        height: 1080
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1730,12 +1730,12 @@ TextureImporter:
       name: Badsanta_Idle_57
       rect:
         serializedVersion: 2
-        x: 4526
-        y: 5509
-        width: 494
-        height: 696
+        x: 1920
+        y: 0
+        width: 1920
+        height: 1080
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1752,12 +1752,12 @@ TextureImporter:
       name: Badsanta_Idle_58
       rect:
         serializedVersion: 2
-        x: 6446
-        y: 5509
-        width: 494
-        height: 696
+        x: 3840
+        y: 0
+        width: 1920
+        height: 1080
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1774,12 +1774,12 @@ TextureImporter:
       name: Badsanta_Idle_59
       rect:
         serializedVersion: 2
-        x: 8366
-        y: 5509
-        width: 494
-        height: 696
+        x: 5760
+        y: 0
+        width: 1920
+        height: 1080
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1796,12 +1796,12 @@ TextureImporter:
       name: Badsanta_Idle_60
       rect:
         serializedVersion: 2
-        x: 10286
-        y: 5509
-        width: 494
-        height: 696
+        x: 7680
+        y: 0
+        width: 1920
+        height: 1080
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1818,12 +1818,12 @@ TextureImporter:
       name: Badsanta_Idle_61
       rect:
         serializedVersion: 2
-        x: 12206
-        y: 5509
-        width: 494
-        height: 696
+        x: 9600
+        y: 0
+        width: 1920
+        height: 1080
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1840,12 +1840,12 @@ TextureImporter:
       name: Badsanta_Idle_62
       rect:
         serializedVersion: 2
-        x: 14126
-        y: 5509
-        width: 494
-        height: 696
+        x: 11520
+        y: 0
+        width: 1920
+        height: 1080
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1858,1287 +1858,11 @@ TextureImporter:
       indices: 
       edges: []
       weights: []
-    - serializedVersion: 2
-      name: Badsanta_Idle_63
-      rect:
-        serializedVersion: 2
-        x: 16046
-        y: 5509
-        width: 494
-        height: 696
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: ed5b3a543d25ef320800000000000000
-      internalID: 2593601502771918302
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Badsanta_Idle_64
-      rect:
-        serializedVersion: 2
-        x: 17966
-        y: 5509
-        width: 494
-        height: 696
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: d5853210852fbde00800000000000000
-      internalID: 1070715796220762205
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Badsanta_Idle_65
-      rect:
-        serializedVersion: 2
-        x: 19886
-        y: 5509
-        width: 494
-        height: 696
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: f3eb7148cc74272f0800000000000000
-      internalID: -976639225470927297
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Badsanta_Idle_66
-      rect:
-        serializedVersion: 2
-        x: 686
-        y: 4429
-        width: 494
-        height: 696
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: fb301cab5aaff9f00800000000000000
-      internalID: 1125894021575672767
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Badsanta_Idle_67
-      rect:
-        serializedVersion: 2
-        x: 2606
-        y: 4429
-        width: 494
-        height: 696
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 7a72f92f19e6dbdf0800000000000000
-      internalID: -162852438395639897
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Badsanta_Idle_68
-      rect:
-        serializedVersion: 2
-        x: 4526
-        y: 4429
-        width: 494
-        height: 696
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 1312e7769675f2ab0800000000000000
-      internalID: -5030706148530052815
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Badsanta_Idle_69
-      rect:
-        serializedVersion: 2
-        x: 6446
-        y: 4429
-        width: 494
-        height: 696
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: ed33779ec45df0490800000000000000
-      internalID: -7777763505134423074
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Badsanta_Idle_70
-      rect:
-        serializedVersion: 2
-        x: 8366
-        y: 4429
-        width: 494
-        height: 696
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: f9843cb166ee262c0800000000000000
-      internalID: -4439724160314029921
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Badsanta_Idle_71
-      rect:
-        serializedVersion: 2
-        x: 10286
-        y: 4429
-        width: 495
-        height: 696
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 8e386bd68a7551f70800000000000000
-      internalID: 9157321798234571752
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Badsanta_Idle_72
-      rect:
-        serializedVersion: 2
-        x: 12206
-        y: 4429
-        width: 495
-        height: 696
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: ce71b1eff9441b010800000000000000
-      internalID: 1202818029438310380
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Badsanta_Idle_73
-      rect:
-        serializedVersion: 2
-        x: 14126
-        y: 4429
-        width: 495
-        height: 696
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 96ff2526b66b7f270800000000000000
-      internalID: 8284290611898679145
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Badsanta_Idle_74
-      rect:
-        serializedVersion: 2
-        x: 16046
-        y: 4429
-        width: 495
-        height: 696
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 39d0ac40b78f77030800000000000000
-      internalID: 3492533243294125459
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Badsanta_Idle_75
-      rect:
-        serializedVersion: 2
-        x: 17966
-        y: 4429
-        width: 495
-        height: 696
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 782bb37863621baf0800000000000000
-      internalID: -382482477710855545
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Badsanta_Idle_76
-      rect:
-        serializedVersion: 2
-        x: 19886
-        y: 4429
-        width: 495
-        height: 696
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: e0982b75a8309abe0800000000000000
-      internalID: -1465636311020697330
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Badsanta_Idle_77
-      rect:
-        serializedVersion: 2
-        x: 686
-        y: 3349
-        width: 495
-        height: 696
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 059526d1779916a70800000000000000
-      internalID: 8818498282241284432
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Badsanta_Idle_78
-      rect:
-        serializedVersion: 2
-        x: 2606
-        y: 3349
-        width: 495
-        height: 696
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: f9af74a76e046b4b0800000000000000
-      internalID: -5425077342482990433
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Badsanta_Idle_79
-      rect:
-        serializedVersion: 2
-        x: 4526
-        y: 3349
-        width: 496
-        height: 696
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 9214eb5303ff0c100800000000000000
-      internalID: 126381372091547945
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Badsanta_Idle_80
-      rect:
-        serializedVersion: 2
-        x: 6446
-        y: 3349
-        width: 496
-        height: 696
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 5c638834b16ee15d0800000000000000
-      internalID: -3089779289558075707
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Badsanta_Idle_81
-      rect:
-        serializedVersion: 2
-        x: 8366
-        y: 3349
-        width: 496
-        height: 696
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 057a7c4f886f9cf70800000000000000
-      internalID: 9208161981218400080
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Badsanta_Idle_82
-      rect:
-        serializedVersion: 2
-        x: 10286
-        y: 3349
-        width: 496
-        height: 696
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 9cf4bbc4284542890800000000000000
-      internalID: -7483763762173095991
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Badsanta_Idle_83
-      rect:
-        serializedVersion: 2
-        x: 12206
-        y: 3349
-        width: 496
-        height: 696
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 91160c582f5907920800000000000000
-      internalID: 2986051421805240601
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Badsanta_Idle_84
-      rect:
-        serializedVersion: 2
-        x: 14125
-        y: 3349
-        width: 498
-        height: 695
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: d2e41fa3f660f9110800000000000000
-      internalID: 1269740694741798445
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Badsanta_Idle_85
-      rect:
-        serializedVersion: 2
-        x: 16045
-        y: 3349
-        width: 498
-        height: 695
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: e71eb1feef012d760800000000000000
-      internalID: 7481060618135134590
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Badsanta_Idle_86
-      rect:
-        serializedVersion: 2
-        x: 17965
-        y: 3349
-        width: 498
-        height: 695
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: cb06e5fb3b02dd5a0800000000000000
-      internalID: -6494999131216518980
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Badsanta_Idle_87
-      rect:
-        serializedVersion: 2
-        x: 19885
-        y: 3349
-        width: 498
-        height: 695
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: e761aa042f1d9c200800000000000000
-      internalID: 200922496791877246
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Badsanta_Idle_88
-      rect:
-        serializedVersion: 2
-        x: 685
-        y: 2269
-        width: 498
-        height: 695
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 060c514d50d2787e0800000000000000
-      internalID: -1763391226035978144
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Badsanta_Idle_89
-      rect:
-        serializedVersion: 2
-        x: 2605
-        y: 2269
-        width: 498
-        height: 695
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: f4391dcebbab32a30800000000000000
-      internalID: 4189397394679501647
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Badsanta_Idle_90
-      rect:
-        serializedVersion: 2
-        x: 4525
-        y: 2269
-        width: 499
-        height: 695
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 974a9c237e9c4afc0800000000000000
-      internalID: -3484438216851217287
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Badsanta_Idle_91
-      rect:
-        serializedVersion: 2
-        x: 6445
-        y: 2269
-        width: 499
-        height: 695
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 39330f2cb27478f00800000000000000
-      internalID: 1118941285704545171
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Badsanta_Idle_92
-      rect:
-        serializedVersion: 2
-        x: 8365
-        y: 2269
-        width: 499
-        height: 695
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 19bedcd3ff40785a0800000000000000
-      internalID: -6519236441295426671
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Badsanta_Idle_93
-      rect:
-        serializedVersion: 2
-        x: 10285
-        y: 2269
-        width: 499
-        height: 695
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 2189d81dc0ee7a650800000000000000
-      internalID: 6244221147195217938
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Badsanta_Idle_94
-      rect:
-        serializedVersion: 2
-        x: 12205
-        y: 2269
-        width: 499
-        height: 695
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: f7ad4a0b675522860800000000000000
-      internalID: 7503653897410763391
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Badsanta_Idle_95
-      rect:
-        serializedVersion: 2
-        x: 14125
-        y: 2269
-        width: 499
-        height: 695
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: fee3a4d39fb382cf0800000000000000
-      internalID: -276905435422114065
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Badsanta_Idle_96
-      rect:
-        serializedVersion: 2
-        x: 16045
-        y: 2269
-        width: 500
-        height: 695
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 27b936d11dc9fac20800000000000000
-      internalID: 3219964680548359026
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Badsanta_Idle_97
-      rect:
-        serializedVersion: 2
-        x: 17965
-        y: 2269
-        width: 500
-        height: 695
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 6f12d8f2d4f511aa0800000000000000
-      internalID: -6192063227542822410
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Badsanta_Idle_98
-      rect:
-        serializedVersion: 2
-        x: 19885
-        y: 2269
-        width: 500
-        height: 695
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 245fe2f1039df0520800000000000000
-      internalID: 2670591904758822210
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Badsanta_Idle_99
-      rect:
-        serializedVersion: 2
-        x: 685
-        y: 1189
-        width: 500
-        height: 695
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 3fb1d0b4a99a16af0800000000000000
-      internalID: -404856011337425933
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Badsanta_Idle_100
-      rect:
-        serializedVersion: 2
-        x: 2605
-        y: 1189
-        width: 500
-        height: 695
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 86e24e215ffcd35c0800000000000000
-      internalID: -4233999423167517080
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Badsanta_Idle_101
-      rect:
-        serializedVersion: 2
-        x: 4524
-        y: 1189
-        width: 501
-        height: 695
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: b133f8ffaf0299a40800000000000000
-      internalID: 5375363892644885275
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Badsanta_Idle_102
-      rect:
-        serializedVersion: 2
-        x: 6444
-        y: 1189
-        width: 501
-        height: 695
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: d8224b0f8591e9860800000000000000
-      internalID: 7538490696050942605
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Badsanta_Idle_103
-      rect:
-        serializedVersion: 2
-        x: 8364
-        y: 1189
-        width: 502
-        height: 695
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 27862a439a1a4fcb0800000000000000
-      internalID: -4831058752157095822
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Badsanta_Idle_104
-      rect:
-        serializedVersion: 2
-        x: 10284
-        y: 1189
-        width: 502
-        height: 695
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: dd74cf72a91c5fa40800000000000000
-      internalID: 5401436195940747229
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Badsanta_Idle_105
-      rect:
-        serializedVersion: 2
-        x: 12204
-        y: 1189
-        width: 502
-        height: 695
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: f39c9b1c568bc99e0800000000000000
-      internalID: -1613211819324094145
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Badsanta_Idle_106
-      rect:
-        serializedVersion: 2
-        x: 14124
-        y: 1189
-        width: 502
-        height: 695
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 625550c86d24794c0800000000000000
-      internalID: -4280879431552772826
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Badsanta_Idle_107
-      rect:
-        serializedVersion: 2
-        x: 16044
-        y: 1189
-        width: 502
-        height: 695
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 0103b9a694ce7cad0800000000000000
-      internalID: -2681915253010518000
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Badsanta_Idle_108
-      rect:
-        serializedVersion: 2
-        x: 17964
-        y: 1189
-        width: 502
-        height: 695
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 6210bbff64d919720800000000000000
-      internalID: 2851232967365951782
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Badsanta_Idle_109
-      rect:
-        serializedVersion: 2
-        x: 19884
-        y: 1189
-        width: 502
-        height: 695
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: dd4573b0ee79f5c80800000000000000
-      internalID: -8331773736965942051
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Badsanta_Idle_110
-      rect:
-        serializedVersion: 2
-        x: 684
-        y: 109
-        width: 502
-        height: 695
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 0d8c6806745e21890800000000000000
-      internalID: -7488671135638828848
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Badsanta_Idle_111
-      rect:
-        serializedVersion: 2
-        x: 2604
-        y: 109
-        width: 502
-        height: 695
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 55219f4e35b848750800000000000000
-      internalID: 6306318570665611861
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Badsanta_Idle_112
-      rect:
-        serializedVersion: 2
-        x: 4524
-        y: 109
-        width: 503
-        height: 695
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 5dccf47ff999981f0800000000000000
-      internalID: -1042132926431507243
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Badsanta_Idle_113
-      rect:
-        serializedVersion: 2
-        x: 6444
-        y: 109
-        width: 503
-        height: 695
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: beed604ba73930dd0800000000000000
-      internalID: -2521009211181703445
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Badsanta_Idle_114
-      rect:
-        serializedVersion: 2
-        x: 8364
-        y: 109
-        width: 503
-        height: 695
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 10b25fa7c9e5ff900800000000000000
-      internalID: 720398491573365505
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Badsanta_Idle_115
-      rect:
-        serializedVersion: 2
-        x: 10284
-        y: 109
-        width: 503
-        height: 695
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 48561df968d152be0800000000000000
-      internalID: -1502762436614068860
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Badsanta_Idle_116
-      rect:
-        serializedVersion: 2
-        x: 12204
-        y: 109
-        width: 503
-        height: 695
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: bcd993876de119ec0800000000000000
-      internalID: -3562031923784475189
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Badsanta_Idle_117
-      rect:
-        serializedVersion: 2
-        x: 14124
-        y: 109
-        width: 503
-        height: 695
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: b5f9e68e9fb5fbae0800000000000000
-      internalID: -1531404219378131109
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Badsanta_Idle_118
-      rect:
-        serializedVersion: 2
-        x: 16044
-        y: 109
-        width: 503
-        height: 695
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: cedf4222ac6edd660800000000000000
-      internalID: 7412334317552336364
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Badsanta_Idle_119
-      rect:
-        serializedVersion: 2
-        x: 17964
-        y: 109
-        width: 503
-        height: 695
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 8e026403bfec8f560800000000000000
-      internalID: 7347850370296979688
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Badsanta_Idle_120
-      rect:
-        serializedVersion: 2
-        x: 19884
-        y: 109
-        width: 503
-        height: 695
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: c9ca8c7d80f0e7410800000000000000
-      internalID: 1476634258478509212
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     outline: []
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 
+    spriteID: ef1d9721e51877044b4c0211a79e7cfb
     internalID: 0
     vertices: []
     indices: 
@@ -3146,34 +1870,15 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     spriteCustomMetadata:
-      entries: []
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":1.0,"y":1.0},"gridSpriteSize":{"x":1920.0,"y":1080.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":1,"keepEmptyRects":false,"isAlternate":false}'
     nameFileIdTable:
       Badsanta_Idle_0: 8625384171693279546
       Badsanta_Idle_1: -7884764357517772009
       Badsanta_Idle_10: -8951498803440679106
-      Badsanta_Idle_100: -4233999423167517080
-      Badsanta_Idle_101: 5375363892644885275
-      Badsanta_Idle_102: 7538490696050942605
-      Badsanta_Idle_103: -4831058752157095822
-      Badsanta_Idle_104: 5401436195940747229
-      Badsanta_Idle_105: -1613211819324094145
-      Badsanta_Idle_106: -4280879431552772826
-      Badsanta_Idle_107: -2681915253010518000
-      Badsanta_Idle_108: 2851232967365951782
-      Badsanta_Idle_109: -8331773736965942051
       Badsanta_Idle_11: 4954020638521732838
-      Badsanta_Idle_110: -7488671135638828848
-      Badsanta_Idle_111: 6306318570665611861
-      Badsanta_Idle_112: -1042132926431507243
-      Badsanta_Idle_113: -2521009211181703445
-      Badsanta_Idle_114: 720398491573365505
-      Badsanta_Idle_115: -1502762436614068860
-      Badsanta_Idle_116: -3562031923784475189
-      Badsanta_Idle_117: -1531404219378131109
-      Badsanta_Idle_118: 7412334317552336364
-      Badsanta_Idle_119: 7347850370296979688
       Badsanta_Idle_12: 3786679579253104514
-      Badsanta_Idle_120: 1476634258478509212
       Badsanta_Idle_13: 7777529065173135809
       Badsanta_Idle_14: -8618246887274332332
       Badsanta_Idle_15: 2474557236540476840
@@ -3229,46 +1934,9 @@ TextureImporter:
       Badsanta_Idle_60: -3786746472341191074
       Badsanta_Idle_61: 8747314876589027999
       Badsanta_Idle_62: 532486217904150319
-      Badsanta_Idle_63: 2593601502771918302
-      Badsanta_Idle_64: 1070715796220762205
-      Badsanta_Idle_65: -976639225470927297
-      Badsanta_Idle_66: 1125894021575672767
-      Badsanta_Idle_67: -162852438395639897
-      Badsanta_Idle_68: -5030706148530052815
-      Badsanta_Idle_69: -7777763505134423074
       Badsanta_Idle_7: 5931681641226115992
-      Badsanta_Idle_70: -4439724160314029921
-      Badsanta_Idle_71: 9157321798234571752
-      Badsanta_Idle_72: 1202818029438310380
-      Badsanta_Idle_73: 8284290611898679145
-      Badsanta_Idle_74: 3492533243294125459
-      Badsanta_Idle_75: -382482477710855545
-      Badsanta_Idle_76: -1465636311020697330
-      Badsanta_Idle_77: 8818498282241284432
-      Badsanta_Idle_78: -5425077342482990433
-      Badsanta_Idle_79: 126381372091547945
       Badsanta_Idle_8: -1258528663704067284
-      Badsanta_Idle_80: -3089779289558075707
-      Badsanta_Idle_81: 9208161981218400080
-      Badsanta_Idle_82: -7483763762173095991
-      Badsanta_Idle_83: 2986051421805240601
-      Badsanta_Idle_84: 1269740694741798445
-      Badsanta_Idle_85: 7481060618135134590
-      Badsanta_Idle_86: -6494999131216518980
-      Badsanta_Idle_87: 200922496791877246
-      Badsanta_Idle_88: -1763391226035978144
-      Badsanta_Idle_89: 4189397394679501647
       Badsanta_Idle_9: -125678188156525660
-      Badsanta_Idle_90: -3484438216851217287
-      Badsanta_Idle_91: 1118941285704545171
-      Badsanta_Idle_92: -6519236441295426671
-      Badsanta_Idle_93: 6244221147195217938
-      Badsanta_Idle_94: 7503653897410763391
-      Badsanta_Idle_95: -276905435422114065
-      Badsanta_Idle_96: 3219964680548359026
-      Badsanta_Idle_97: -6192063227542822410
-      Badsanta_Idle_98: 2670591904758822210
-      Badsanta_Idle_99: -404856011337425933
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

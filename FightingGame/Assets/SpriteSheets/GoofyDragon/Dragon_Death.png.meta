@@ -1,0 +1,1365 @@
+fileFormatVersion: 2
+guid: a3e13c65b235b564ca0e6da021501ad9
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3340488085800330850
+    second: Dragon_Death_0
+  - first:
+      213: 1328069521093807567
+    second: Dragon_Death_1
+  - first:
+      213: -3197550988760131141
+    second: Dragon_Death_2
+  - first:
+      213: 8715430866163907630
+    second: Dragon_Death_3
+  - first:
+      213: 7839495896548927882
+    second: Dragon_Death_4
+  - first:
+      213: -1374299517952242617
+    second: Dragon_Death_5
+  - first:
+      213: -5195847917759955665
+    second: Dragon_Death_6
+  - first:
+      213: -8502510955625616727
+    second: Dragon_Death_7
+  - first:
+      213: 3148656396172416406
+    second: Dragon_Death_8
+  - first:
+      213: 5880743207443171743
+    second: Dragon_Death_9
+  - first:
+      213: 1860605073038773480
+    second: Dragon_Death_10
+  - first:
+      213: -5381172393716475474
+    second: Dragon_Death_11
+  - first:
+      213: -5900256160731325796
+    second: Dragon_Death_12
+  - first:
+      213: -4810400252948213704
+    second: Dragon_Death_13
+  - first:
+      213: -8433004484292100484
+    second: Dragon_Death_14
+  - first:
+      213: -5009733095815041571
+    second: Dragon_Death_15
+  - first:
+      213: 1269875585512244275
+    second: Dragon_Death_16
+  - first:
+      213: 4386931735688139862
+    second: Dragon_Death_17
+  - first:
+      213: -5810010429294028000
+    second: Dragon_Death_18
+  - first:
+      213: -6496708144817879891
+    second: Dragon_Death_19
+  - first:
+      213: -5662728321716977691
+    second: Dragon_Death_20
+  - first:
+      213: 2943854550041520489
+    second: Dragon_Death_21
+  - first:
+      213: -4789330770413532189
+    second: Dragon_Death_22
+  - first:
+      213: -1036585436935475691
+    second: Dragon_Death_23
+  - first:
+      213: -7158358956761602559
+    second: Dragon_Death_24
+  - first:
+      213: 3155372879699245873
+    second: Dragon_Death_25
+  - first:
+      213: 2180779170655260162
+    second: Dragon_Death_26
+  - first:
+      213: -625932958087645552
+    second: Dragon_Death_27
+  - first:
+      213: -2565025194955144720
+    second: Dragon_Death_28
+  - first:
+      213: 6827338517320220221
+    second: Dragon_Death_29
+  - first:
+      213: -5366701100949555221
+    second: Dragon_Death_30
+  - first:
+      213: -9201622593202583984
+    second: Dragon_Death_31
+  - first:
+      213: -6688844522874853359
+    second: Dragon_Death_32
+  - first:
+      213: -4311829630915120932
+    second: Dragon_Death_33
+  - first:
+      213: -6487441510123362480
+    second: Dragon_Death_34
+  - first:
+      213: -1064169490194892269
+    second: Dragon_Death_35
+  - first:
+      213: 2211457464139176477
+    second: Dragon_Death_36
+  - first:
+      213: 376780566553143672
+    second: Dragon_Death_37
+  - first:
+      213: 7332136150701155009
+    second: Dragon_Death_38
+  - first:
+      213: 6776121884434245530
+    second: Dragon_Death_39
+  - first:
+      213: -2114171970286899704
+    second: Dragon_Death_40
+  - first:
+      213: 225429964889722279
+    second: Dragon_Death_41
+  - first:
+      213: -8131394625568219213
+    second: Dragon_Death_42
+  - first:
+      213: 9055916777065717637
+    second: Dragon_Death_43
+  - first:
+      213: 7328758960201730315
+    second: Dragon_Death_44
+  - first:
+      213: -186697216660302924
+    second: Dragon_Death_45
+  - first:
+      213: -4942486980916584620
+    second: Dragon_Death_46
+  - first:
+      213: -2239529828574780314
+    second: Dragon_Death_47
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Dragon_Death_0
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 6830
+        width: 1316
+        height: 995
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e99527dd8c334a1d0800000000000000
+      internalID: -3340488085800330850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dragon_Death_1
+      rect:
+        serializedVersion: 2
+        x: 2280
+        y: 6805
+        width: 1407
+        height: 838
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fcdc1d961304e6210800000000000000
+      internalID: 1328069521093807567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dragon_Death_2
+      rect:
+        serializedVersion: 2
+        x: 4112
+        y: 6788
+        width: 1507
+        height: 575
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb9d0cb215400a3d0800000000000000
+      internalID: -3197550988760131141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dragon_Death_3
+      rect:
+        serializedVersion: 2
+        x: 5928
+        y: 6781
+        width: 1618
+        height: 494
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2cbc2a423e63f870800000000000000
+      internalID: 8715430866163907630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dragon_Death_4
+      rect:
+        serializedVersion: 2
+        x: 7779
+        y: 6780
+        width: 1691
+        height: 476
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a896ee38bfb7bcc60800000000000000
+      internalID: 7839495896548927882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dragon_Death_5
+      rect:
+        serializedVersion: 2
+        x: 9670
+        y: 6782
+        width: 1722
+        height: 443
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74c4779aed18dece0800000000000000
+      internalID: -1374299517952242617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dragon_Death_6
+      rect:
+        serializedVersion: 2
+        x: 11583
+        y: 6779
+        width: 1729
+        height: 499
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2df6faf8d3a4e7b0800000000000000
+      internalID: -5195847917759955665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dragon_Death_7
+      rect:
+        serializedVersion: 2
+        x: 1079
+        y: 5803
+        width: 549
+        height: 390
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9aa61178553010a80800000000000000
+      internalID: -8502510955625616727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dragon_Death_8
+      rect:
+        serializedVersion: 2
+        x: 3003
+        y: 5814
+        width: 564
+        height: 488
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6955e9d5f4642bb20800000000000000
+      internalID: 3148656396172416406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dragon_Death_9
+      rect:
+        serializedVersion: 2
+        x: 4921
+        y: 5815
+        width: 590
+        height: 654
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9901f62ac89c9150800000000000000
+      internalID: 5880743207443171743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dragon_Death_10
+      rect:
+        serializedVersion: 2
+        x: 6594
+        y: 5801
+        width: 853
+        height: 840
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ec04cdb47232d910800000000000000
+      internalID: 1860605073038773480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dragon_Death_11
+      rect:
+        serializedVersion: 2
+        x: 8304
+        y: 5785
+        width: 1074
+        height: 897
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea91465f73c3255b0800000000000000
+      internalID: -5381172393716475474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dragon_Death_12
+      rect:
+        serializedVersion: 2
+        x: 10131
+        y: 5762
+        width: 1180
+        height: 907
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9a9ccf58441e1ea0800000000000000
+      internalID: -5900256160731325796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dragon_Death_13
+      rect:
+        serializedVersion: 2
+        x: 12007
+        y: 5732
+        width: 1239
+        height: 1004
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 830929fd4760e3db0800000000000000
+      internalID: -4810400252948213704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dragon_Death_14
+      rect:
+        serializedVersion: 2
+        x: 1185
+        y: 4588
+        width: 387
+        height: 348
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7e3e7cf913f7fa80800000000000000
+      internalID: -8433004484292100484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dragon_Death_15
+      rect:
+        serializedVersion: 2
+        x: 3091
+        y: 4599
+        width: 435
+        height: 331
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ddd2d64ca4ad97ab0800000000000000
+      internalID: -5009733095815041571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dragon_Death_16
+      rect:
+        serializedVersion: 2
+        x: 4967
+        y: 4610
+        width: 463
+        height: 313
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 334066fed118f9110800000000000000
+      internalID: 1269875585512244275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dragon_Death_17
+      rect:
+        serializedVersion: 2
+        x: 6969
+        y: 4623
+        width: 372
+        height: 292
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 654549fab2381ec30800000000000000
+      internalID: 4386931735688139862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dragon_Death_18
+      rect:
+        serializedVersion: 2
+        x: 8864
+        y: 4636
+        width: 401
+        height: 282
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02b5d9c1c42be5fa0800000000000000
+      internalID: -5810010429294028000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dragon_Death_19
+      rect:
+        serializedVersion: 2
+        x: 10753
+        y: 4650
+        width: 460
+        height: 321
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da44eb20d5e07d5a0800000000000000
+      internalID: -6496708144817879891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dragon_Death_20
+      rect:
+        serializedVersion: 2
+        x: 12627
+        y: 4664
+        width: 508
+        height: 353
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5eff3840892f961b0800000000000000
+      internalID: -5662728321716977691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dragon_Death_21
+      rect:
+        serializedVersion: 2
+        x: 1118
+        y: 3426
+        width: 448
+        height: 394
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96964a5bd1caad820800000000000000
+      internalID: 2943854550041520489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dragon_Death_22
+      rect:
+        serializedVersion: 2
+        x: 3007
+        y: 3428
+        width: 424
+        height: 393
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3eb47ad0a01e88db0800000000000000
+      internalID: -4789330770413532189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dragon_Death_23
+      rect:
+        serializedVersion: 2
+        x: 4958
+        y: 3429
+        width: 390
+        height: 393
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51e2e14890f4d91f0800000000000000
+      internalID: -1036585436935475691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dragon_Death_24
+      rect:
+        serializedVersion: 2
+        x: 6862
+        y: 3432
+        width: 415
+        height: 391
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1062d77947668ac90800000000000000
+      internalID: -7158358956761602559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dragon_Death_25
+      rect:
+        serializedVersion: 2
+        x: 8815
+        y: 3437
+        width: 433
+        height: 385
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13bff5c8ae22acb20800000000000000
+      internalID: 3155372879699245873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dragon_Death_26
+      rect:
+        serializedVersion: 2
+        x: 10741
+        y: 3444
+        width: 426
+        height: 376
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20e4a78f91fa34e10800000000000000
+      internalID: 2180779170655260162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dragon_Death_27
+      rect:
+        serializedVersion: 2
+        x: 12671
+        y: 3452
+        width: 400
+        height: 364
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 096f9fb7a4d3057f0800000000000000
+      internalID: -625932958087645552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dragon_Death_28
+      rect:
+        serializedVersion: 2
+        x: 1156
+        y: 2302
+        width: 449
+        height: 393
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f185cedc23376cd0800000000000000
+      internalID: -2565025194955144720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dragon_Death_29
+      rect:
+        serializedVersion: 2
+        x: 3089
+        y: 2294
+        width: 447
+        height: 394
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3eb63e65349fbe50800000000000000
+      internalID: 6827338517320220221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dragon_Death_30
+      rect:
+        serializedVersion: 2
+        x: 4980
+        y: 2298
+        width: 425
+        height: 393
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be7343e58c5a585b0800000000000000
+      internalID: -5366701100949555221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dragon_Death_31
+      rect:
+        serializedVersion: 2
+        x: 6865
+        y: 2298
+        width: 448
+        height: 393
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05683f6f0054d4080800000000000000
+      internalID: -9201622593202583984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dragon_Death_32
+      rect:
+        serializedVersion: 2
+        x: 8773
+        y: 2298
+        width: 440
+        height: 393
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1182a3078537c23a0800000000000000
+      internalID: -6688844522874853359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dragon_Death_33
+      rect:
+        serializedVersion: 2
+        x: 10730
+        y: 2299
+        width: 428
+        height: 393
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd0fc45bbcd4924c0800000000000000
+      internalID: -4311829630915120932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dragon_Death_34
+      rect:
+        serializedVersion: 2
+        x: 12602
+        y: 2299
+        width: 447
+        height: 394
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05729f7815af7f5a0800000000000000
+      internalID: -6487441510123362480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dragon_Death_35
+      rect:
+        serializedVersion: 2
+        x: 1170
+        y: 1180
+        width: 440
+        height: 394
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31aff14ac7f4b31f0800000000000000
+      internalID: -1064169490194892269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dragon_Death_36
+      rect:
+        serializedVersion: 2
+        x: 3063
+        y: 1175
+        width: 434
+        height: 393
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1ad6e9c8dca0be10800000000000000
+      internalID: 2211457464139176477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dragon_Death_37
+      rect:
+        serializedVersion: 2
+        x: 5042
+        y: 1166
+        width: 421
+        height: 393
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 879aba3dde79a3500800000000000000
+      internalID: 376780566553143672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dragon_Death_38
+      rect:
+        serializedVersion: 2
+        x: 6889
+        y: 1167
+        width: 443
+        height: 393
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c2a7535bfaf0c560800000000000000
+      internalID: 7332136150701155009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dragon_Death_39
+      rect:
+        serializedVersion: 2
+        x: 8800
+        y: 1185
+        width: 340
+        height: 393
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a972474d3fe990e50800000000000000
+      internalID: 6776121884434245530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dragon_Death_40
+      rect:
+        serializedVersion: 2
+        x: 10728
+        y: 1175
+        width: 378
+        height: 393
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80e26fc5bc3f8a2e0800000000000000
+      internalID: -2114171970286899704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dragon_Death_41
+      rect:
+        serializedVersion: 2
+        x: 12645
+        y: 1170
+        width: 356
+        height: 393
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ad0bf2db53e02300800000000000000
+      internalID: 225429964889722279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dragon_Death_42
+      rect:
+        serializedVersion: 2
+        x: 3029
+        y: 32
+        width: 445
+        height: 393
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3bf5c768bab772f80800000000000000
+      internalID: -8131394625568219213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dragon_Death_43
+      rect:
+        serializedVersion: 2
+        x: 5081
+        y: 0
+        width: 401
+        height: 387
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58f908414541dad70800000000000000
+      internalID: 9055916777065717637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dragon_Death_44
+      rect:
+        serializedVersion: 2
+        x: 6812
+        y: 92
+        width: 437
+        height: 393
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b090943e17bf4b560800000000000000
+      internalID: 7328758960201730315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dragon_Death_45
+      rect:
+        serializedVersion: 2
+        x: 8829
+        y: 57
+        width: 441
+        height: 394
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b39860eed7b86df0800000000000000
+      internalID: -186697216660302924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dragon_Death_46
+      rect:
+        serializedVersion: 2
+        x: 10718
+        y: 0
+        width: 449
+        height: 392
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45f597bf642c86bb0800000000000000
+      internalID: -4942486980916584620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dragon_Death_47
+      rect:
+        serializedVersion: 2
+        x: 12638
+        y: 38
+        width: 448
+        height: 393
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 664a8e78c779be0e0800000000000000
+      internalID: -2239529828574780314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Dragon_Death_0: -3340488085800330850
+      Dragon_Death_1: 1328069521093807567
+      Dragon_Death_10: 1860605073038773480
+      Dragon_Death_11: -5381172393716475474
+      Dragon_Death_12: -5900256160731325796
+      Dragon_Death_13: -4810400252948213704
+      Dragon_Death_14: -8433004484292100484
+      Dragon_Death_15: -5009733095815041571
+      Dragon_Death_16: 1269875585512244275
+      Dragon_Death_17: 4386931735688139862
+      Dragon_Death_18: -5810010429294028000
+      Dragon_Death_19: -6496708144817879891
+      Dragon_Death_2: -3197550988760131141
+      Dragon_Death_20: -5662728321716977691
+      Dragon_Death_21: 2943854550041520489
+      Dragon_Death_22: -4789330770413532189
+      Dragon_Death_23: -1036585436935475691
+      Dragon_Death_24: -7158358956761602559
+      Dragon_Death_25: 3155372879699245873
+      Dragon_Death_26: 2180779170655260162
+      Dragon_Death_27: -625932958087645552
+      Dragon_Death_28: -2565025194955144720
+      Dragon_Death_29: 6827338517320220221
+      Dragon_Death_3: 8715430866163907630
+      Dragon_Death_30: -5366701100949555221
+      Dragon_Death_31: -9201622593202583984
+      Dragon_Death_32: -6688844522874853359
+      Dragon_Death_33: -4311829630915120932
+      Dragon_Death_34: -6487441510123362480
+      Dragon_Death_35: -1064169490194892269
+      Dragon_Death_36: 2211457464139176477
+      Dragon_Death_37: 376780566553143672
+      Dragon_Death_38: 7332136150701155009
+      Dragon_Death_39: 6776121884434245530
+      Dragon_Death_4: 7839495896548927882
+      Dragon_Death_40: -2114171970286899704
+      Dragon_Death_41: 225429964889722279
+      Dragon_Death_42: -8131394625568219213
+      Dragon_Death_43: 9055916777065717637
+      Dragon_Death_44: 7328758960201730315
+      Dragon_Death_45: -186697216660302924
+      Dragon_Death_46: -4942486980916584620
+      Dragon_Death_47: -2239529828574780314
+      Dragon_Death_5: -1374299517952242617
+      Dragon_Death_6: -5195847917759955665
+      Dragon_Death_7: -8502510955625616727
+      Dragon_Death_8: 3148656396172416406
+      Dragon_Death_9: 5880743207443171743
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
