@@ -33,7 +33,8 @@ public class PlayerInformation : MonoBehaviour
     public RectTransform healthbarScale;
 
     [Header("Blocking")]
-    public bool isBlocking;
+    public bool block;
+    public bool isParrying;
     public float blockWindUp;
     public float blocking;
     public float blockCooldown;

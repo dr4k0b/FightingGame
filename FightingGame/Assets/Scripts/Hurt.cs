@@ -34,7 +34,7 @@ public class Hurt : MonoBehaviour
             return;
         }
 
-        if (!hit.GetComponent<PlayerInformation>().isBlocking)
+        if (!hit.GetComponent<PlayerInformation>().isParrying)
         {
             hit.GetComponent<PlayerHealth>().TakeDamage(damage);
         }

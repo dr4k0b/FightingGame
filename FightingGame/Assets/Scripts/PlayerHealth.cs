@@ -1,3 +1,4 @@
+using System.Collections;
 using TMPro;
 using UnityEngine;
 using UnityEngine.SceneManagement;
@@ -9,9 +10,12 @@ public class PlayerHealth : MonoBehaviour
     GlobalInformation g;
     GameManager gm;
 
+    public Material hurtmat;
+    private Material normalmat;
     bool died;
     void Start()
     {
+        normalmat = GetComponent<SpriteRenderer>().material;
         p = GetComponent<PlayerInformation>();
         g = FindFirstObjectByType<GlobalInformation>();
         gm = FindFirstObjectByType<GameManager>();
@@ -53,6 +57,14 @@ public class PlayerHealth : MonoBehaviour
         {
             p.health -= damage;
             p.currentKnockback = p.knockback;
+            StartCoroutine(hurtVisual());
         }
+    }
+
+    IEnumerator hurtVisual()
+    {
+        GetComponent<SpriteRenderer>().material = hurtmat;
+        yield return new WaitForSeconds(.1f);
+        GetComponent<SpriteRenderer>().material = normalmat;
     }
 }
