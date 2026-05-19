@@ -8,6 +8,8 @@ public class PlayerHealth : MonoBehaviour
     PlayerInformation p;
     GlobalInformation g;
     GameManager gm;
+
+    bool died;
     void Start()
     {
         p = GetComponent<PlayerInformation>();
@@ -19,11 +21,23 @@ public class PlayerHealth : MonoBehaviour
     void Update()
     {
         p.animator.SetFloat("Health", p.health);
+
+        if (p.health > 0)
+            ((p.thisPlayer == Player.Player1) ? gm.p1HealthBar : gm.p2HealthBar).localScale = new Vector3(p.health / p.maxHealth, 1, 1);
+        else
+            ((p.thisPlayer == Player.Player1) ? gm.p1HealthBar : gm.p2HealthBar).localScale = new Vector3(0, 1, 1);
+
         if (p.health <= 0)
         {
-            g.text.text = (p.thisPlayer == Player.Player1) ? "Player 2 Wins!" : "Player 1 Wins!";
+            gm.winText.text = (p.thisPlayer == Player.Player1) ? "Player 2 Wins!" : "Player 1 Wins!";
             g.gameOver = true;
             p.health = -1;
+        }
+
+        if (g.gameOver && !died)
+        {
+            p.animator.SetTrigger("Next");
+            died = true;
         }
 
         if (g.gameOver)
@@ -35,7 +49,10 @@ public class PlayerHealth : MonoBehaviour
 
     public void TakeDamage(float damage)
     {
-        p.health -= damage;
-        p.currentKnockback = p.knockback;
+        if (!g.gameOver)
+        {
+            p.health -= damage;
+            p.currentKnockback = p.knockback;
+        }
     }
 }

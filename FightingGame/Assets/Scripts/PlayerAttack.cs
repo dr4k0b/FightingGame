@@ -1,5 +1,6 @@
 using System.Collections;
 using UnityEngine;
+using UnityEngine.SceneManagement;
 
 public class PlayerAttack : MonoBehaviour
 {
@@ -7,7 +8,6 @@ public class PlayerAttack : MonoBehaviour
     public GameObject armAttack;
     public GameObject weapon;
     public GameObject StunnedVisual;
-
     void Start()
     {
         p = GetComponent<PlayerInformation>();
@@ -15,6 +15,7 @@ public class PlayerAttack : MonoBehaviour
     private void Update()
     {
         p.animator.SetBool("Attack", p.attacking);
+
     }
     public void Attack()
     {
@@ -23,6 +24,7 @@ public class PlayerAttack : MonoBehaviour
             StartCoroutine(AttackDelay());
         }
     }
+
 
     public void Parried()
     {

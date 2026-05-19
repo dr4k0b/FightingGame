@@ -8,13 +8,18 @@ using static PlayerInformation;
 public class CharacterSelect : MonoBehaviour
 {
 
-    //  [HideInInspector]
+    [HideInInspector]
     public SelectInput p1Choice;
-    //  [HideInInspector]
+    [HideInInspector]
     public SelectInput p2Choice;
+
+
 
     public TMP_Text p1Text;
     public TMP_Text p2Text;
+
+    public GameObject p1Ready;
+    public GameObject p2Ready;
 
     GlobalInformation g;
 
@@ -31,6 +36,7 @@ public class CharacterSelect : MonoBehaviour
             g.player1Character = characters[choice];
             g.p1Controller = p1Choice.thisPad;
             p1Text.text = characters[choice].GetComponent<PlayerInformation>().characterName;
+            p1Ready.SetActive(p1Choice.ready);
         }
         if (p2Choice)
         {
@@ -38,6 +44,7 @@ public class CharacterSelect : MonoBehaviour
             g.player2Character = characters[choice];
             g.p2Controller = p2Choice.thisPad;
             p2Text.text = characters[choice].GetComponent<PlayerInformation>().characterName;
+            p2Ready.SetActive(p2Choice.ready);
         }
         if ((p1Choice && p2Choice) && p1Choice.ready && p2Choice.ready)
         {
@@ -50,7 +57,7 @@ public class CharacterSelect : MonoBehaviour
 
     public int ChooseCharacter(SelectInput choice)
     {
-        if (Mathf.Abs(choice.choiceDir.x) > 0.1f)
+        if (Mathf.Abs(choice.choiceDir.x) > 0.1f && !choice.ready)
         {
             if (choice.switched == false)
             {
