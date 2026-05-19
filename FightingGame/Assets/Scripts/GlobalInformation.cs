@@ -5,16 +5,12 @@ using static PlayerInformation;
 
 public class GlobalInformation : MonoBehaviour
 {
-    public enum GameStates { Select, Game, Over }
-    public GameStates state;
 
     public GameObject player1Character;
     public GameObject player2Character;
 
     public Gamepad p1Controller;
     public Gamepad p2Controller;
-
-    public TMP_Text text;
 
     public bool gameOver;
 
@@ -31,7 +27,5 @@ public class GlobalInformation : MonoBehaviour
         {
             Destroy(gameObject);
         }
-
-        state = GameStates.Select;
     }
 }

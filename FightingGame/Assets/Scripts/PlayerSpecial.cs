@@ -1,10 +1,13 @@
-using UnityEngine;
 using System.Collections;
+using UnityEngine;
+using UnityEngine.SceneManagement;
 
 public class PlayerSpecial : MonoBehaviour
 {
     PlayerInformation p;
+    GlobalInformation g;
     public GameObject armSpecial;
+    bool canrestart;
 
     [Header("Melee")]
     public GameObject weapon;
@@ -16,6 +19,7 @@ public class PlayerSpecial : MonoBehaviour
     void Start()
     {
         p = GetComponent<PlayerInformation>();
+        g = FindFirstObjectByType<GlobalInformation>();
     }
 
     private void Update()
@@ -32,6 +36,10 @@ public class PlayerSpecial : MonoBehaviour
             if (armSpecial)
                 armSpecial.SetActive(false);
         }
+        if (g.gameOver)
+        {
+            StartCoroutine(RestartDelay());
+        }
     }
     public void Special()
     {
@@ -41,8 +49,18 @@ public class PlayerSpecial : MonoBehaviour
             if (isRanged)
                 StartCoroutine(SpecialRanged());
         }
+        if (g.gameOver && canrestart)
+        {
+            g.gameOver = false;
+            SceneManager.LoadScene("CharacterSelect");
+        }
     }
 
+    IEnumerator RestartDelay()
+    {
+        yield return new WaitForSeconds(1);
+        canrestart = true;
+    }
     IEnumerator SpecialMelee()
     {
 

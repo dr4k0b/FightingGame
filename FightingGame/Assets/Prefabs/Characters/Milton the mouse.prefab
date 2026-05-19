@@ -235,7 +235,7 @@ MonoBehaviour:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 3526065978422055250}
-  m_Enabled: 1
+  m_Enabled: 0
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 46cfd286735aa8c43924982c3ce1d6ce, type: 3}
   m_Name: 
@@ -705,7 +705,7 @@ MonoBehaviour:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 5237244246977774557}
-  m_Enabled: 1
+  m_Enabled: 0
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 46cfd286735aa8c43924982c3ce1d6ce, type: 3}
   m_Name: 
@@ -1781,6 +1781,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1934349995818312218}
+  - component: {fileID: 3511051637714194459}
   m_Layer: 0
   m_Name: WeaponSpecial
   m_TagString: Untagged
@@ -1805,6 +1806,21 @@ Transform:
   - {fileID: 2452154289384637756}
   m_Father: {fileID: 8063169130549866959}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &3511051637714194459
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 9131997053224466227}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 46cfd286735aa8c43924982c3ce1d6ce, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: '::'
+  PlayerInformation: {fileID: 7530658709007922272}
+  damage: 3
+  isProjectile: 0
 --- !u!1 &9169537560758420462
 GameObject:
   m_ObjectHideFlags: 0
