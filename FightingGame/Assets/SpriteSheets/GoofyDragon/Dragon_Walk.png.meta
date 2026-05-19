@@ -296,12 +296,12 @@ TextureImporter:
       name: Dragon_Walk_0
       rect:
         serializedVersion: 2
-        x: 127
-        y: 7838
-        width: 1669
-        height: 513
+        x: 0
+        y: 7560
+        width: 1920
+        height: 1080
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -318,12 +318,12 @@ TextureImporter:
       name: Dragon_Walk_1
       rect:
         serializedVersion: 2
-        x: 2046
-        y: 7838
-        width: 1671
-        height: 508
+        x: 1920
+        y: 7560
+        width: 1920
+        height: 1080
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -340,12 +340,12 @@ TextureImporter:
       name: Dragon_Walk_2
       rect:
         serializedVersion: 2
-        x: 3963
-        y: 7838
-        width: 1674
-        height: 501
+        x: 3840
+        y: 7560
+        width: 1920
+        height: 1080
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -362,12 +362,12 @@ TextureImporter:
       name: Dragon_Walk_3
       rect:
         serializedVersion: 2
-        x: 5880
-        y: 7833
-        width: 1678
-        height: 499
+        x: 5760
+        y: 7560
+        width: 1920
+        height: 1080
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -384,12 +384,12 @@ TextureImporter:
       name: Dragon_Walk_4
       rect:
         serializedVersion: 2
-        x: 7796
-        y: 7828
-        width: 1682
-        height: 494
+        x: 7680
+        y: 7560
+        width: 1920
+        height: 1080
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -406,12 +406,12 @@ TextureImporter:
       name: Dragon_Walk_5
       rect:
         serializedVersion: 2
-        x: 9712
-        y: 7823
-        width: 1685
-        height: 489
+        x: 9600
+        y: 7560
+        width: 1920
+        height: 1080
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -428,12 +428,12 @@ TextureImporter:
       name: Dragon_Walk_6
       rect:
         serializedVersion: 2
-        x: 11627
-        y: 7820
-        width: 1690
-        height: 482
+        x: 11520
+        y: 7560
+        width: 1920
+        height: 1080
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -450,12 +450,12 @@ TextureImporter:
       name: Dragon_Walk_7
       rect:
         serializedVersion: 2
-        x: 13543
-        y: 7814
-        width: 1692
-        height: 477
+        x: 13440
+        y: 7560
+        width: 1920
+        height: 1080
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -472,12 +472,12 @@ TextureImporter:
       name: Dragon_Walk_8
       rect:
         serializedVersion: 2
-        x: 98
-        y: 6732
-        width: 1696
-        height: 472
+        x: 0
+        y: 6480
+        width: 1920
+        height: 1080
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -494,12 +494,12 @@ TextureImporter:
       name: Dragon_Walk_9
       rect:
         serializedVersion: 2
-        x: 2013
-        y: 6741
-        width: 1699
-        height: 460
+        x: 1920
+        y: 6480
+        width: 1920
+        height: 1080
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -516,12 +516,12 @@ TextureImporter:
       name: Dragon_Walk_10
       rect:
         serializedVersion: 2
-        x: 3929
-        y: 6754
-        width: 1701
-        height: 445
+        x: 3840
+        y: 6480
+        width: 1920
+        height: 1080
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -538,12 +538,12 @@ TextureImporter:
       name: Dragon_Walk_11
       rect:
         serializedVersion: 2
-        x: 5845
-        y: 6758
-        width: 1704
-        height: 440
+        x: 5760
+        y: 6480
+        width: 1920
+        height: 1080
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -560,12 +560,12 @@ TextureImporter:
       name: Dragon_Walk_12
       rect:
         serializedVersion: 2
-        x: 7762
-        y: 6758
-        width: 1706
-        height: 440
+        x: 7680
+        y: 6480
+        width: 1920
+        height: 1080
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -582,12 +582,12 @@ TextureImporter:
       name: Dragon_Walk_13
       rect:
         serializedVersion: 2
-        x: 9679
-        y: 6758
-        width: 1708
-        height: 440
+        x: 9600
+        y: 6480
+        width: 1920
+        height: 1080
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -604,12 +604,12 @@ TextureImporter:
       name: Dragon_Walk_14
       rect:
         serializedVersion: 2
-        x: 11595
-        y: 6758
-        width: 1711
-        height: 440
+        x: 11520
+        y: 6480
+        width: 1920
+        height: 1080
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -626,12 +626,12 @@ TextureImporter:
       name: Dragon_Walk_15
       rect:
         serializedVersion: 2
-        x: 13512
-        y: 6758
-        width: 1713
-        height: 444
+        x: 13440
+        y: 6480
+        width: 1920
+        height: 1080
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -648,12 +648,12 @@ TextureImporter:
       name: Dragon_Walk_16
       rect:
         serializedVersion: 2
-        x: 69
-        y: 5678
-        width: 1716
-        height: 455
+        x: 0
+        y: 5400
+        width: 1920
+        height: 1080
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -670,12 +670,12 @@ TextureImporter:
       name: Dragon_Walk_17
       rect:
         serializedVersion: 2
-        x: 1987
-        y: 5675
-        width: 1718
-        height: 474
+        x: 1920
+        y: 5400
+        width: 1920
+        height: 1080
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -692,12 +692,12 @@ TextureImporter:
       name: Dragon_Walk_18
       rect:
         serializedVersion: 2
-        x: 3906
-        y: 5670
-        width: 1719
-        height: 496
+        x: 3840
+        y: 5400
+        width: 1920
+        height: 1080
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -714,12 +714,12 @@ TextureImporter:
       name: Dragon_Walk_19
       rect:
         serializedVersion: 2
-        x: 5826
-        y: 5664
-        width: 1720
-        height: 520
+        x: 5760
+        y: 5400
+        width: 1920
+        height: 1080
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -736,12 +736,12 @@ TextureImporter:
       name: Dragon_Walk_20
       rect:
         serializedVersion: 2
-        x: 7747
-        y: 5658
-        width: 1720
-        height: 541
+        x: 7680
+        y: 5400
+        width: 1920
+        height: 1080
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -758,12 +758,12 @@ TextureImporter:
       name: Dragon_Walk_21
       rect:
         serializedVersion: 2
-        x: 9671
-        y: 5655
-        width: 1717
-        height: 554
+        x: 9600
+        y: 5400
+        width: 1920
+        height: 1080
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -780,12 +780,12 @@ TextureImporter:
       name: Dragon_Walk_22
       rect:
         serializedVersion: 2
-        x: 11596
-        y: 5655
-        width: 1713
-        height: 560
+        x: 11520
+        y: 5400
+        width: 1920
+        height: 1080
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -802,12 +802,12 @@ TextureImporter:
       name: Dragon_Walk_23
       rect:
         serializedVersion: 2
-        x: 13523
-        y: 5660
-        width: 1707
-        height: 557
+        x: 13440
+        y: 5400
+        width: 1920
+        height: 1080
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -824,12 +824,12 @@ TextureImporter:
       name: Dragon_Walk_24
       rect:
         serializedVersion: 2
-        x: 91
-        y: 4587
-        width: 1700
-        height: 550
+        x: 0
+        y: 4320
+        width: 1920
+        height: 1080
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -846,12 +846,12 @@ TextureImporter:
       name: Dragon_Walk_25
       rect:
         serializedVersion: 2
-        x: 2019
-        y: 4595
-        width: 1693
-        height: 539
+        x: 1920
+        y: 4320
+        width: 1920
+        height: 1080
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -868,12 +868,12 @@ TextureImporter:
       name: Dragon_Walk_26
       rect:
         serializedVersion: 2
-        x: 3947
-        y: 4597
-        width: 1686
-        height: 532
+        x: 3840
+        y: 4320
+        width: 1920
+        height: 1080
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -890,12 +890,12 @@ TextureImporter:
       name: Dragon_Walk_27
       rect:
         serializedVersion: 2
-        x: 5874
-        y: 4597
-        width: 1680
-        height: 528
+        x: 5760
+        y: 4320
+        width: 1920
+        height: 1080
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -912,12 +912,12 @@ TextureImporter:
       name: Dragon_Walk_28
       rect:
         serializedVersion: 2
-        x: 7800
-        y: 4597
-        width: 1675
-        height: 523
+        x: 7680
+        y: 4320
+        width: 1920
+        height: 1080
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -934,12 +934,12 @@ TextureImporter:
       name: Dragon_Walk_29
       rect:
         serializedVersion: 2
-        x: 9724
-        y: 4597
-        width: 1671
-        height: 519
+        x: 9600
+        y: 4320
+        width: 1920
+        height: 1080
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -956,12 +956,12 @@ TextureImporter:
       name: Dragon_Walk_30
       rect:
         serializedVersion: 2
-        x: 11645
-        y: 4598
-        width: 1671
-        height: 513
+        x: 11520
+        y: 4320
+        width: 1920
+        height: 1080
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -978,12 +978,12 @@ TextureImporter:
       name: Dragon_Walk_31
       rect:
         serializedVersion: 2
-        x: 13564
-        y: 4598
-        width: 1673
-        height: 507
+        x: 13440
+        y: 4320
+        width: 1920
+        height: 1080
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1000,12 +1000,12 @@ TextureImporter:
       name: Dragon_Walk_32
       rect:
         serializedVersion: 2
-        x: 122
-        y: 3518
-        width: 1675
-        height: 501
+        x: 0
+        y: 3240
+        width: 1920
+        height: 1080
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1022,12 +1022,12 @@ TextureImporter:
       name: Dragon_Walk_33
       rect:
         serializedVersion: 2
-        x: 2039
-        y: 3513
-        width: 1679
-        height: 499
+        x: 1920
+        y: 3240
+        width: 1920
+        height: 1080
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1044,12 +1044,12 @@ TextureImporter:
       name: Dragon_Walk_34
       rect:
         serializedVersion: 2
-        x: 3956
-        y: 3508
-        width: 1682
-        height: 495
+        x: 3840
+        y: 3240
+        width: 1920
+        height: 1080
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1066,12 +1066,12 @@ TextureImporter:
       name: Dragon_Walk_35
       rect:
         serializedVersion: 2
-        x: 5872
-        y: 3503
-        width: 1685
-        height: 490
+        x: 5760
+        y: 3240
+        width: 1920
+        height: 1080
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1088,12 +1088,12 @@ TextureImporter:
       name: Dragon_Walk_36
       rect:
         serializedVersion: 2
-        x: 7788
-        y: 3500
-        width: 1689
-        height: 482
+        x: 7680
+        y: 3240
+        width: 1920
+        height: 1080
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1110,12 +1110,12 @@ TextureImporter:
       name: Dragon_Walk_37
       rect:
         serializedVersion: 2
-        x: 9703
-        y: 3494
-        width: 1692
-        height: 477
+        x: 9600
+        y: 3240
+        width: 1920
+        height: 1080
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1132,12 +1132,12 @@ TextureImporter:
       name: Dragon_Walk_38
       rect:
         serializedVersion: 2
-        x: 11618
-        y: 3492
-        width: 1696
-        height: 472
+        x: 11520
+        y: 3240
+        width: 1920
+        height: 1080
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1154,12 +1154,12 @@ TextureImporter:
       name: Dragon_Walk_39
       rect:
         serializedVersion: 2
-        x: 13534
-        y: 3501
-        width: 1698
-        height: 460
+        x: 13440
+        y: 3240
+        width: 1920
+        height: 1080
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1176,12 +1176,12 @@ TextureImporter:
       name: Dragon_Walk_40
       rect:
         serializedVersion: 2
-        x: 90
-        y: 2434
-        width: 1700
-        height: 445
+        x: 0
+        y: 2160
+        width: 1920
+        height: 1080
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1198,12 +1198,12 @@ TextureImporter:
       name: Dragon_Walk_41
       rect:
         serializedVersion: 2
-        x: 2006
-        y: 2438
-        width: 1703
-        height: 440
+        x: 1920
+        y: 2160
+        width: 1920
+        height: 1080
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1220,12 +1220,12 @@ TextureImporter:
       name: Dragon_Walk_42
       rect:
         serializedVersion: 2
-        x: 3923
-        y: 2438
-        width: 1705
-        height: 440
+        x: 3840
+        y: 2160
+        width: 1920
+        height: 1080
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1242,12 +1242,12 @@ TextureImporter:
       name: Dragon_Walk_43
       rect:
         serializedVersion: 2
-        x: 5839
-        y: 2438
-        width: 1708
-        height: 440
+        x: 5760
+        y: 2160
+        width: 1920
+        height: 1080
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1264,12 +1264,12 @@ TextureImporter:
       name: Dragon_Walk_44
       rect:
         serializedVersion: 2
-        x: 7756
-        y: 2438
-        width: 1710
-        height: 440
+        x: 7680
+        y: 2160
+        width: 1920
+        height: 1080
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1286,12 +1286,12 @@ TextureImporter:
       name: Dragon_Walk_45
       rect:
         serializedVersion: 2
-        x: 9673
-        y: 2438
-        width: 1712
-        height: 444
+        x: 9600
+        y: 2160
+        width: 1920
+        height: 1080
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1308,12 +1308,12 @@ TextureImporter:
       name: Dragon_Walk_46
       rect:
         serializedVersion: 2
-        x: 11590
-        y: 2438
-        width: 1715
-        height: 455
+        x: 11520
+        y: 2160
+        width: 1920
+        height: 1080
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1330,12 +1330,12 @@ TextureImporter:
       name: Dragon_Walk_47
       rect:
         serializedVersion: 2
-        x: 13508
-        y: 2435
-        width: 1717
-        height: 474
+        x: 13440
+        y: 2160
+        width: 1920
+        height: 1080
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1352,12 +1352,12 @@ TextureImporter:
       name: Dragon_Walk_48
       rect:
         serializedVersion: 2
-        x: 66
-        y: 1350
-        width: 1719
-        height: 496
+        x: 0
+        y: 1080
+        width: 1920
+        height: 1080
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1374,12 +1374,12 @@ TextureImporter:
       name: Dragon_Walk_49
       rect:
         serializedVersion: 2
-        x: 1987
-        y: 1344
-        width: 1719
-        height: 520
+        x: 1920
+        y: 1080
+        width: 1920
+        height: 1080
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1396,12 +1396,12 @@ TextureImporter:
       name: Dragon_Walk_50
       rect:
         serializedVersion: 2
-        x: 3908
-        y: 1338
-        width: 1719
-        height: 541
+        x: 3840
+        y: 1080
+        width: 1920
+        height: 1080
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1418,12 +1418,12 @@ TextureImporter:
       name: Dragon_Walk_51
       rect:
         serializedVersion: 2
-        x: 5832
-        y: 1335
-        width: 1716
-        height: 554
+        x: 5760
+        y: 1080
+        width: 1920
+        height: 1080
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1440,12 +1440,12 @@ TextureImporter:
       name: Dragon_Walk_52
       rect:
         serializedVersion: 2
-        x: 7757
-        y: 1335
-        width: 1712
-        height: 560
+        x: 7680
+        y: 1080
+        width: 1920
+        height: 1080
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1462,12 +1462,12 @@ TextureImporter:
       name: Dragon_Walk_53
       rect:
         serializedVersion: 2
-        x: 9684
-        y: 1340
-        width: 1707
-        height: 557
+        x: 9600
+        y: 1080
+        width: 1920
+        height: 1080
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1484,12 +1484,12 @@ TextureImporter:
       name: Dragon_Walk_54
       rect:
         serializedVersion: 2
-        x: 11612
-        y: 1347
-        width: 1700
-        height: 550
+        x: 11520
+        y: 1080
+        width: 1920
+        height: 1080
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1506,12 +1506,12 @@ TextureImporter:
       name: Dragon_Walk_55
       rect:
         serializedVersion: 2
-        x: 13541
-        y: 1355
-        width: 1691
-        height: 539
+        x: 13440
+        y: 1080
+        width: 1920
+        height: 1080
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1528,12 +1528,12 @@ TextureImporter:
       name: Dragon_Walk_56
       rect:
         serializedVersion: 2
-        x: 109
-        y: 277
-        width: 1684
-        height: 533
+        x: 0
+        y: 0
+        width: 1920
+        height: 1080
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1550,12 +1550,12 @@ TextureImporter:
       name: Dragon_Walk_57
       rect:
         serializedVersion: 2
-        x: 2036
-        y: 277
-        width: 1678
-        height: 528
+        x: 1920
+        y: 0
+        width: 1920
+        height: 1080
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1572,12 +1572,12 @@ TextureImporter:
       name: Dragon_Walk_58
       rect:
         serializedVersion: 2
-        x: 3962
-        y: 277
-        width: 1673
-        height: 523
+        x: 3840
+        y: 0
+        width: 1920
+        height: 1080
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1594,12 +1594,12 @@ TextureImporter:
       name: Dragon_Walk_59
       rect:
         serializedVersion: 2
-        x: 5886
-        y: 277
-        width: 1669
-        height: 519
+        x: 5760
+        y: 0
+        width: 1920
+        height: 1080
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1616,12 +1616,12 @@ TextureImporter:
       name: Dragon_Walk_60
       rect:
         serializedVersion: 2
-        x: 7806
-        y: 277
-        width: 1669
-        height: 519
+        x: 7680
+        y: 0
+        width: 1920
+        height: 1080
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1638,7 +1638,7 @@ TextureImporter:
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 
+    spriteID: 7d31cdb3ffdd73a49ac3bcc32042b923
     internalID: 0
     vertices: []
     indices: 
@@ -1646,7 +1646,9 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     spriteCustomMetadata:
-      entries: []
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":1.0,"y":1.0},"gridSpriteSize":{"x":1920.0,"y":1080.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":1,"keepEmptyRects":false,"isAlternate":false}'
     nameFileIdTable:
       Dragon_Walk_0: 2856356873787351952
       Dragon_Walk_1: -3286855291952511122

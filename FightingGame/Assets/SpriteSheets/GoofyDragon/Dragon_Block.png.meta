@@ -224,12 +224,12 @@ TextureImporter:
       name: Dragon_Block_0
       rect:
         serializedVersion: 2
-        x: 74
-        y: 5679
-        width: 1714
-        height: 469
+        x: 0
+        y: 5400
+        width: 1920
+        height: 1080
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -246,12 +246,12 @@ TextureImporter:
       name: Dragon_Block_1
       rect:
         serializedVersion: 2
-        x: 1998
-        y: 5679
-        width: 1706
-        height: 409
+        x: 1920
+        y: 5400
+        width: 1920
+        height: 1080
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -268,12 +268,12 @@ TextureImporter:
       name: Dragon_Block_2
       rect:
         serializedVersion: 2
-        x: 3935
-        y: 5558
-        width: 1678
-        height: 542
+        x: 3840
+        y: 5400
+        width: 1920
+        height: 1080
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -290,12 +290,12 @@ TextureImporter:
       name: Dragon_Block_3
       rect:
         serializedVersion: 2
-        x: 5886
-        y: 5679
-        width: 1795
-        height: 615
+        x: 5760
+        y: 5400
+        width: 1920
+        height: 1080
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -312,12 +312,12 @@ TextureImporter:
       name: Dragon_Block_4
       rect:
         serializedVersion: 2
-        x: 7841
-        y: 5679
-        width: 1760
-        height: 628
+        x: 7680
+        y: 5400
+        width: 1920
+        height: 1080
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -334,12 +334,12 @@ TextureImporter:
       name: Dragon_Block_5
       rect:
         serializedVersion: 2
-        x: 9791
-        y: 5679
-        width: 1725
-        height: 617
+        x: 9600
+        y: 5400
+        width: 1920
+        height: 1080
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -356,12 +356,12 @@ TextureImporter:
       name: Dragon_Block_6
       rect:
         serializedVersion: 2
-        x: 11712
-        y: 5679
-        width: 1627
-        height: 610
+        x: 11520
+        y: 5400
+        width: 1920
+        height: 1080
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -378,12 +378,12 @@ TextureImporter:
       name: Dragon_Block_7
       rect:
         serializedVersion: 2
-        x: 186
-        y: 4599
-        width: 1633
-        height: 610
+        x: 0
+        y: 4320
+        width: 1920
+        height: 1080
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -400,12 +400,12 @@ TextureImporter:
       name: Dragon_Block_8
       rect:
         serializedVersion: 2
-        x: 2135
-        y: 4599
-        width: 1604
-        height: 610
+        x: 1920
+        y: 4320
+        width: 1920
+        height: 1080
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -422,12 +422,12 @@ TextureImporter:
       name: Dragon_Block_9
       rect:
         serializedVersion: 2
-        x: 4066
-        y: 4599
-        width: 1593
-        height: 610
+        x: 3840
+        y: 4320
+        width: 1920
+        height: 1080
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -444,12 +444,12 @@ TextureImporter:
       name: Dragon_Block_10
       rect:
         serializedVersion: 2
-        x: 5971
-        y: 4599
-        width: 1608
-        height: 610
+        x: 5760
+        y: 4320
+        width: 1920
+        height: 1080
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -466,12 +466,12 @@ TextureImporter:
       name: Dragon_Block_11
       rect:
         serializedVersion: 2
-        x: 7888
-        y: 4599
-        width: 1611
-        height: 610
+        x: 7680
+        y: 4320
+        width: 1920
+        height: 1080
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -488,12 +488,12 @@ TextureImporter:
       name: Dragon_Block_12
       rect:
         serializedVersion: 2
-        x: 9850
-        y: 4599
-        width: 1569
-        height: 610
+        x: 9600
+        y: 4320
+        width: 1920
+        height: 1080
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -510,12 +510,12 @@ TextureImporter:
       name: Dragon_Block_13
       rect:
         serializedVersion: 2
-        x: 11792
-        y: 4599
-        width: 1547
-        height: 610
+        x: 11520
+        y: 4320
+        width: 1920
+        height: 1080
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -532,12 +532,12 @@ TextureImporter:
       name: Dragon_Block_14
       rect:
         serializedVersion: 2
-        x: 247
-        y: 3519
-        width: 1572
-        height: 610
+        x: 0
+        y: 3240
+        width: 1920
+        height: 1080
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -554,12 +554,12 @@ TextureImporter:
       name: Dragon_Block_15
       rect:
         serializedVersion: 2
-        x: 2153
-        y: 3519
-        width: 1586
-        height: 610
+        x: 1920
+        y: 3240
+        width: 1920
+        height: 1080
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -576,12 +576,12 @@ TextureImporter:
       name: Dragon_Block_16
       rect:
         serializedVersion: 2
-        x: 4057
-        y: 3519
-        width: 1602
-        height: 610
+        x: 3840
+        y: 3240
+        width: 1920
+        height: 1080
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -598,12 +598,12 @@ TextureImporter:
       name: Dragon_Block_17
       rect:
         serializedVersion: 2
-        x: 5965
-        y: 3519
-        width: 1614
-        height: 610
+        x: 5760
+        y: 3240
+        width: 1920
+        height: 1080
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -620,12 +620,12 @@ TextureImporter:
       name: Dragon_Block_18
       rect:
         serializedVersion: 2
-        x: 7881
-        y: 3519
-        width: 1618
-        height: 610
+        x: 7680
+        y: 3240
+        width: 1920
+        height: 1080
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -642,12 +642,12 @@ TextureImporter:
       name: Dragon_Block_19
       rect:
         serializedVersion: 2
-        x: 9801
-        y: 3519
-        width: 1618
-        height: 610
+        x: 9600
+        y: 3240
+        width: 1920
+        height: 1080
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -664,12 +664,12 @@ TextureImporter:
       name: Dragon_Block_20
       rect:
         serializedVersion: 2
-        x: 11721
-        y: 3519
-        width: 1618
-        height: 610
+        x: 11520
+        y: 3240
+        width: 1920
+        height: 1080
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -686,12 +686,12 @@ TextureImporter:
       name: Dragon_Block_21
       rect:
         serializedVersion: 2
-        x: 201
-        y: 2439
-        width: 1618
-        height: 610
+        x: 0
+        y: 2160
+        width: 1920
+        height: 1080
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -708,12 +708,12 @@ TextureImporter:
       name: Dragon_Block_22
       rect:
         serializedVersion: 2
-        x: 2121
-        y: 2439
-        width: 1618
-        height: 610
+        x: 1920
+        y: 2160
+        width: 1920
+        height: 1080
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -730,12 +730,12 @@ TextureImporter:
       name: Dragon_Block_23
       rect:
         serializedVersion: 2
-        x: 4041
-        y: 2439
-        width: 1618
-        height: 610
+        x: 3840
+        y: 2160
+        width: 1920
+        height: 1080
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -752,12 +752,12 @@ TextureImporter:
       name: Dragon_Block_24
       rect:
         serializedVersion: 2
-        x: 5961
-        y: 2439
-        width: 1618
-        height: 610
+        x: 5760
+        y: 2160
+        width: 1920
+        height: 1080
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -774,12 +774,12 @@ TextureImporter:
       name: Dragon_Block_25
       rect:
         serializedVersion: 2
-        x: 7854
-        y: 2439
-        width: 1675
-        height: 614
+        x: 7680
+        y: 2160
+        width: 1920
+        height: 1080
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -796,12 +796,12 @@ TextureImporter:
       name: Dragon_Block_26
       rect:
         serializedVersion: 2
-        x: 9718
-        y: 2439
-        width: 1803
-        height: 621
+        x: 9600
+        y: 2160
+        width: 1920
+        height: 1080
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -818,12 +818,12 @@ TextureImporter:
       name: Dragon_Block_27
       rect:
         serializedVersion: 2
-        x: 11603
-        y: 2433
-        width: 1837
-        height: 635
+        x: 11520
+        y: 2160
+        width: 1920
+        height: 1080
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -840,12 +840,12 @@ TextureImporter:
       name: Dragon_Block_28
       rect:
         serializedVersion: 2
-        x: 90
-        y: 1359
-        width: 1831
-        height: 635
+        x: 0
+        y: 1080
+        width: 1920
+        height: 1080
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -862,12 +862,12 @@ TextureImporter:
       name: Dragon_Block_29
       rect:
         serializedVersion: 2
-        x: 2020
-        y: 1359
-        width: 1821
-        height: 634
+        x: 1920
+        y: 1080
+        width: 1920
+        height: 1080
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -884,12 +884,12 @@ TextureImporter:
       name: Dragon_Block_30
       rect:
         serializedVersion: 2
-        x: 3912
-        y: 1359
-        width: 1849
-        height: 624
+        x: 3840
+        y: 1080
+        width: 1920
+        height: 1080
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -906,12 +906,12 @@ TextureImporter:
       name: Dragon_Block_31
       rect:
         serializedVersion: 2
-        x: 5841
-        y: 1097
-        width: 1763
-        height: 785
+        x: 5760
+        y: 1080
+        width: 1920
+        height: 1080
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -928,12 +928,12 @@ TextureImporter:
       name: Dragon_Block_32
       rect:
         serializedVersion: 2
-        x: 7758
-        y: 1229
-        width: 1710
-        height: 555
+        x: 7680
+        y: 1080
+        width: 1920
+        height: 1080
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -950,12 +950,12 @@ TextureImporter:
       name: Dragon_Block_33
       rect:
         serializedVersion: 2
-        x: 9675
-        y: 1359
-        width: 1713
-        height: 392
+        x: 9600
+        y: 1080
+        width: 1920
+        height: 1080
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -972,12 +972,12 @@ TextureImporter:
       name: Dragon_Block_34
       rect:
         serializedVersion: 2
-        x: 11594
-        y: 1359
-        width: 1714
-        height: 411
+        x: 11520
+        y: 1080
+        width: 1920
+        height: 1080
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -994,12 +994,12 @@ TextureImporter:
       name: Dragon_Block_35
       rect:
         serializedVersion: 2
-        x: 74
-        y: 279
-        width: 1714
-        height: 440
+        x: 0
+        y: 0
+        width: 1920
+        height: 1080
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1016,12 +1016,12 @@ TextureImporter:
       name: Dragon_Block_36
       rect:
         serializedVersion: 2
-        x: 1994
-        y: 279
-        width: 1714
-        height: 469
+        x: 1920
+        y: 0
+        width: 1920
+        height: 1080
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1038,7 +1038,7 @@ TextureImporter:
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 
+    spriteID: 9b697bfa7828b7c45828ad3c42014703
     internalID: 0
     vertices: []
     indices: 
@@ -1046,7 +1046,9 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     spriteCustomMetadata:
-      entries: []
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":1.0,"y":1.0},"gridSpriteSize":{"x":1920.0,"y":1080.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":1,"keepEmptyRects":false,"isAlternate":false}'
     nameFileIdTable:
       Dragon_Block_0: -2045694233208931597
       Dragon_Block_1: -3446424789372834248
