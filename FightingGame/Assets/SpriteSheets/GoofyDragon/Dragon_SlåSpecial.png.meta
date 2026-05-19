@@ -251,12 +251,12 @@ TextureImporter:
       name: "Dragon_Sl\xE5Special_0"
       rect:
         serializedVersion: 2
-        x: 59
-        y: 6759
-        width: 1729
-        height: 469
+        x: 0
+        y: 6480
+        width: 1920
+        height: 1080
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -273,12 +273,12 @@ TextureImporter:
       name: "Dragon_Sl\xE5Special_1"
       rect:
         serializedVersion: 2
-        x: 1980
-        y: 6757
-        width: 1717
-        height: 473
+        x: 1920
+        y: 6480
+        width: 1920
+        height: 1080
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -295,12 +295,12 @@ TextureImporter:
       name: "Dragon_Sl\xE5Special_2"
       rect:
         serializedVersion: 2
-        x: 3903
-        y: 6759
-        width: 1690
-        height: 483
+        x: 3840
+        y: 6480
+        width: 1920
+        height: 1080
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -317,12 +317,12 @@ TextureImporter:
       name: "Dragon_Sl\xE5Special_3"
       rect:
         serializedVersion: 2
-        x: 5829
-        y: 6759
-        width: 1661
-        height: 515
+        x: 5760
+        y: 6480
+        width: 1920
+        height: 1080
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -339,12 +339,12 @@ TextureImporter:
       name: "Dragon_Sl\xE5Special_4"
       rect:
         serializedVersion: 2
-        x: 7761
-        y: 6759
-        width: 1631
-        height: 544
+        x: 7680
+        y: 6480
+        width: 1920
+        height: 1080
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -361,12 +361,12 @@ TextureImporter:
       name: "Dragon_Sl\xE5Special_5"
       rect:
         serializedVersion: 2
-        x: 9697
-        y: 6759
-        width: 1600
-        height: 570
+        x: 9600
+        y: 6480
+        width: 1920
+        height: 1080
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -383,12 +383,12 @@ TextureImporter:
       name: "Dragon_Sl\xE5Special_6"
       rect:
         serializedVersion: 2
-        x: 11638
-        y: 6759
-        width: 1567
-        height: 591
+        x: 11520
+        y: 6480
+        width: 1920
+        height: 1080
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -405,12 +405,12 @@ TextureImporter:
       name: "Dragon_Sl\xE5Special_7"
       rect:
         serializedVersion: 2
-        x: 141
-        y: 5679
-        width: 1542
-        height: 606
+        x: 0
+        y: 5400
+        width: 1920
+        height: 1080
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -427,12 +427,12 @@ TextureImporter:
       name: "Dragon_Sl\xE5Special_8"
       rect:
         serializedVersion: 2
-        x: 2083
-        y: 5679
-        width: 1528
-        height: 616
+        x: 1920
+        y: 5400
+        width: 1920
+        height: 1080
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -449,12 +449,12 @@ TextureImporter:
       name: "Dragon_Sl\xE5Special_9"
       rect:
         serializedVersion: 2
-        x: 4019
-        y: 5679
-        width: 1523
-        height: 621
+        x: 3840
+        y: 5400
+        width: 1920
+        height: 1080
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -471,12 +471,12 @@ TextureImporter:
       name: "Dragon_Sl\xE5Special_10"
       rect:
         serializedVersion: 2
-        x: 5948
-        y: 5679
-        width: 1524
-        height: 618
+        x: 5760
+        y: 5400
+        width: 1920
+        height: 1080
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -493,12 +493,12 @@ TextureImporter:
       name: "Dragon_Sl\xE5Special_11"
       rect:
         serializedVersion: 2
-        x: 7872
-        y: 5679
-        width: 1526
-        height: 609
+        x: 7680
+        y: 5400
+        width: 1920
+        height: 1080
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -515,12 +515,12 @@ TextureImporter:
       name: "Dragon_Sl\xE5Special_12"
       rect:
         serializedVersion: 2
-        x: 9791
-        y: 5679
-        width: 1528
-        height: 596
+        x: 9600
+        y: 5400
+        width: 1920
+        height: 1080
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -537,12 +537,12 @@ TextureImporter:
       name: "Dragon_Sl\xE5Special_13"
       rect:
         serializedVersion: 2
-        x: 11708
-        y: 5679
-        width: 1530
-        height: 587
+        x: 11520
+        y: 5400
+        width: 1920
+        height: 1080
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -559,12 +559,12 @@ TextureImporter:
       name: "Dragon_Sl\xE5Special_14"
       rect:
         serializedVersion: 2
-        x: 186
-        y: 4599
-        width: 1532
-        height: 580
+        x: 0
+        y: 4320
+        width: 1920
+        height: 1080
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -581,12 +581,12 @@ TextureImporter:
       name: "Dragon_Sl\xE5Special_15"
       rect:
         serializedVersion: 2
-        x: 2105
-        y: 4599
-        width: 1533
-        height: 576
+        x: 1920
+        y: 4320
+        width: 1920
+        height: 1080
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -603,12 +603,12 @@ TextureImporter:
       name: "Dragon_Sl\xE5Special_16"
       rect:
         serializedVersion: 2
-        x: 4024
-        y: 4599
-        width: 1532
-        height: 573
+        x: 3840
+        y: 4320
+        width: 1920
+        height: 1080
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -625,12 +625,12 @@ TextureImporter:
       name: "Dragon_Sl\xE5Special_17"
       rect:
         serializedVersion: 2
-        x: 5944
-        y: 4599
-        width: 1530
-        height: 572
+        x: 5760
+        y: 4320
+        width: 1920
+        height: 1080
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -647,12 +647,12 @@ TextureImporter:
       name: "Dragon_Sl\xE5Special_18"
       rect:
         serializedVersion: 2
-        x: 7863
-        y: 4599
-        width: 1528
-        height: 571
+        x: 7680
+        y: 4320
+        width: 1920
+        height: 1080
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -669,12 +669,12 @@ TextureImporter:
       name: "Dragon_Sl\xE5Special_19"
       rect:
         serializedVersion: 2
-        x: 9783
-        y: 4599
-        width: 1502
-        height: 571
+        x: 9600
+        y: 4320
+        width: 1920
+        height: 1080
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -691,12 +691,12 @@ TextureImporter:
       name: "Dragon_Sl\xE5Special_20"
       rect:
         serializedVersion: 2
-        x: 11702
-        y: 4599
-        width: 1473
-        height: 569
+        x: 11520
+        y: 4320
+        width: 1920
+        height: 1080
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -713,12 +713,12 @@ TextureImporter:
       name: "Dragon_Sl\xE5Special_21"
       rect:
         serializedVersion: 2
-        x: 172
-        y: 3519
-        width: 1470
-        height: 564
+        x: 0
+        y: 3240
+        width: 1920
+        height: 1080
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -735,12 +735,12 @@ TextureImporter:
       name: "Dragon_Sl\xE5Special_22"
       rect:
         serializedVersion: 2
-        x: 2063
-        y: 3519
-        width: 1487
-        height: 551
+        x: 1920
+        y: 3240
+        width: 1920
+        height: 1080
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -757,12 +757,12 @@ TextureImporter:
       name: "Dragon_Sl\xE5Special_23"
       rect:
         serializedVersion: 2
-        x: 3933
-        y: 3519
-        width: 1527
-        height: 521
+        x: 3840
+        y: 3240
+        width: 1920
+        height: 1080
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -779,12 +779,12 @@ TextureImporter:
       name: "Dragon_Sl\xE5Special_24"
       rect:
         serializedVersion: 2
-        x: 5781
-        y: 3519
-        width: 1593
-        height: 483
+        x: 5760
+        y: 3240
+        width: 1920
+        height: 1080
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -801,12 +801,12 @@ TextureImporter:
       name: "Dragon_Sl\xE5Special_25"
       rect:
         serializedVersion: 2
-        x: 7679
-        y: 3519
-        width: 1616
-        height: 459
+        x: 7680
+        y: 3240
+        width: 1920
+        height: 1080
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -823,12 +823,12 @@ TextureImporter:
       name: "Dragon_Sl\xE5Special_26"
       rect:
         serializedVersion: 2
-        x: 9599
-        y: 3519
-        width: 1623
-        height: 437
+        x: 9600
+        y: 3240
+        width: 1920
+        height: 1080
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -845,12 +845,12 @@ TextureImporter:
       name: "Dragon_Sl\xE5Special_27"
       rect:
         serializedVersion: 2
-        x: 11519
-        y: 3519
-        width: 1632
-        height: 418
+        x: 11520
+        y: 3240
+        width: 1920
+        height: 1080
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -868,11 +868,11 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 0
-        y: 2439
-        width: 1642
-        height: 410
+        y: 2160
+        width: 1920
+        height: 1080
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -889,12 +889,12 @@ TextureImporter:
       name: "Dragon_Sl\xE5Special_29"
       rect:
         serializedVersion: 2
-        x: 1919
-        y: 2439
-        width: 1656
-        height: 407
+        x: 1920
+        y: 2160
+        width: 1920
+        height: 1080
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -911,12 +911,12 @@ TextureImporter:
       name: "Dragon_Sl\xE5Special_30"
       rect:
         serializedVersion: 2
-        x: 3839
-        y: 2439
-        width: 1669
-        height: 405
+        x: 3840
+        y: 2160
+        width: 1920
+        height: 1080
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -933,12 +933,12 @@ TextureImporter:
       name: "Dragon_Sl\xE5Special_31"
       rect:
         serializedVersion: 2
-        x: 5759
-        y: 2439
-        width: 1683
-        height: 405
+        x: 5760
+        y: 2160
+        width: 1920
+        height: 1080
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -955,12 +955,12 @@ TextureImporter:
       name: "Dragon_Sl\xE5Special_32"
       rect:
         serializedVersion: 2
-        x: 7679
-        y: 2439
-        width: 1697
-        height: 407
+        x: 7680
+        y: 2160
+        width: 1920
+        height: 1080
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -977,12 +977,12 @@ TextureImporter:
       name: "Dragon_Sl\xE5Special_33"
       rect:
         serializedVersion: 2
-        x: 9599
-        y: 2439
-        width: 1710
-        height: 410
+        x: 9600
+        y: 2160
+        width: 1920
+        height: 1080
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -999,12 +999,12 @@ TextureImporter:
       name: "Dragon_Sl\xE5Special_34"
       rect:
         serializedVersion: 2
-        x: 11519
-        y: 2439
-        width: 1721
-        height: 414
+        x: 11520
+        y: 2160
+        width: 1920
+        height: 1080
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1022,11 +1022,11 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 0
-        y: 1359
-        width: 1731
-        height: 418
+        y: 1080
+        width: 1920
+        height: 1080
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1043,12 +1043,12 @@ TextureImporter:
       name: "Dragon_Sl\xE5Special_36"
       rect:
         serializedVersion: 2
-        x: 1919
-        y: 1359
-        width: 1741
-        height: 423
+        x: 1920
+        y: 1080
+        width: 1920
+        height: 1080
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1065,12 +1065,12 @@ TextureImporter:
       name: "Dragon_Sl\xE5Special_37"
       rect:
         serializedVersion: 2
-        x: 3843
-        y: 1359
-        width: 1746
-        height: 427
+        x: 3840
+        y: 1080
+        width: 1920
+        height: 1080
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1087,12 +1087,12 @@ TextureImporter:
       name: "Dragon_Sl\xE5Special_38"
       rect:
         serializedVersion: 2
-        x: 5773
-        y: 1359
-        width: 1744
-        height: 438
+        x: 5760
+        y: 1080
+        width: 1920
+        height: 1080
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1109,12 +1109,12 @@ TextureImporter:
       name: "Dragon_Sl\xE5Special_39"
       rect:
         serializedVersion: 2
-        x: 7703
-        y: 1359
-        width: 1742
-        height: 455
+        x: 7680
+        y: 1080
+        width: 1920
+        height: 1080
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1131,12 +1131,12 @@ TextureImporter:
       name: "Dragon_Sl\xE5Special_40"
       rect:
         serializedVersion: 2
-        x: 9633
-        y: 1359
-        width: 1738
-        height: 468
+        x: 9600
+        y: 1080
+        width: 1920
+        height: 1080
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1153,12 +1153,12 @@ TextureImporter:
       name: "Dragon_Sl\xE5Special_41"
       rect:
         serializedVersion: 2
-        x: 11562
-        y: 1359
-        width: 1735
-        height: 474
+        x: 11520
+        y: 1080
+        width: 1920
+        height: 1080
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1175,12 +1175,12 @@ TextureImporter:
       name: "Dragon_Sl\xE5Special_42"
       rect:
         serializedVersion: 2
-        x: 49
-        y: 279
-        width: 1733
-        height: 472
+        x: 0
+        y: 0
+        width: 1920
+        height: 1080
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1197,12 +1197,12 @@ TextureImporter:
       name: "Dragon_Sl\xE5Special_43"
       rect:
         serializedVersion: 2
-        x: 1974
-        y: 279
-        width: 1731
-        height: 470
+        x: 1920
+        y: 0
+        width: 1920
+        height: 1080
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1219,12 +1219,12 @@ TextureImporter:
       name: "Dragon_Sl\xE5Special_44"
       rect:
         serializedVersion: 2
-        x: 3898
-        y: 279
-        width: 1729
-        height: 469
+        x: 3840
+        y: 0
+        width: 1920
+        height: 1080
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1241,12 +1241,12 @@ TextureImporter:
       name: "Dragon_Sl\xE5Special_45"
       rect:
         serializedVersion: 2
-        x: 5819
-        y: 279
-        width: 1729
-        height: 469
+        x: 5760
+        y: 0
+        width: 1920
+        height: 1080
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1263,7 +1263,7 @@ TextureImporter:
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 
+    spriteID: 16e05d8cc2fd12647be1bb6aecbf8768
     internalID: 0
     vertices: []
     indices: 
@@ -1271,7 +1271,9 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     spriteCustomMetadata:
-      entries: []
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":1.0,"y":1.0},"gridSpriteSize":{"x":1920.0,"y":1080.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":1,"keepEmptyRects":false,"isAlternate":false}'
     nameFileIdTable:
       "Dragon_Sl\xE5Special_0": 816579454874894294
       "Dragon_Sl\xE5Special_1": -114386737992196213
