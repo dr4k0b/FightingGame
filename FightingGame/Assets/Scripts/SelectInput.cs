@@ -21,17 +21,16 @@ public class SelectInput : MonoBehaviour
     public Player thisPlayer;
 
     CharacterSelect cs;
-    public Gamepad thisPad;
-
+    GlobalInformation g;
 
     int score;
     void Start()
     {
-        thisPad = Gamepad.current;
 
         cs = FindFirstObjectByType<CharacterSelect>();
+        g = FindAnyObjectByType<GlobalInformation>();
 
-        if (cs.p1Choice == null)
+        if (cs.p1Choice == null )
         {
             cs.p1Choice = this;
             thisPlayer = Player.Player1;

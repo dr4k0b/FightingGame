@@ -9,8 +9,8 @@ public class GlobalInformation : MonoBehaviour
     public GameObject player1Character;
     public GameObject player2Character;
 
-    public Gamepad p1Controller;
-    public Gamepad p2Controller;
+    public int p1Controller = -1;
+    public int p2Controller = -1;
 
     public bool gameOver;
 
@@ -26,6 +26,20 @@ public class GlobalInformation : MonoBehaviour
         else
         {
             Destroy(gameObject);
+        }
+
+
+        foreach (var pad in Gamepad.all)
+        {
+            if (p1Controller == -1)
+            {
+                p1Controller = pad.deviceId;
+            }
+            else if (p2Controller == -1 && p2Controller != p1Controller)
+            {
+                p2Controller = pad.deviceId;
+                break;
+            }
         }
     }
 }

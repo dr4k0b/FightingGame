@@ -3,6 +3,7 @@ using TMPro;
 using UnityEngine;
 using UnityEngine.InputSystem;
 using UnityEngine.SceneManagement;
+using UnityEngine.UI;
 using static PlayerInformation;
 
 public class CharacterSelect : MonoBehaviour
@@ -13,7 +14,8 @@ public class CharacterSelect : MonoBehaviour
     [HideInInspector]
     public SelectInput p2Choice;
 
-
+    public Image p1Preview;
+    public Image p2Preview;
 
     public TMP_Text p1Text;
     public TMP_Text p2Text;
@@ -21,12 +23,28 @@ public class CharacterSelect : MonoBehaviour
     public GameObject p1Ready;
     public GameObject p2Ready;
 
+    public GameObject inputPrefab;
     GlobalInformation g;
 
     public List<GameObject> characters = new List<GameObject>();
     void Start()
     {
         g = FindFirstObjectByType<GlobalInformation>();
+
+        join(g.p1Controller);
+        join(g.p2Controller);
+    }
+
+    public SelectInput join(int id)
+    {
+        Gamepad pad = null;
+
+        foreach (var pa in Gamepad.all)
+        {
+            if (pa.deviceId == id) pad = pa; break;
+        }
+
+        return PlayerInput.Instantiate(inputPrefab, controlScheme: "Controller", pairWithDevice: pad).GetComponent<SelectInput>();
     }
     void Update()
     {
@@ -34,7 +52,7 @@ public class CharacterSelect : MonoBehaviour
         {
             int choice = ChooseCharacter(p1Choice);
             g.player1Character = characters[choice];
-            g.p1Controller = p1Choice.thisPad;
+
             p1Text.text = characters[choice].GetComponent<PlayerInformation>().characterName;
             p1Ready.SetActive(p1Choice.ready);
         }
@@ -42,7 +60,8 @@ public class CharacterSelect : MonoBehaviour
         {
             int choice = ChooseCharacter(p2Choice);
             g.player2Character = characters[choice];
-            g.p2Controller = p2Choice.thisPad;
+
+
             p2Text.text = characters[choice].GetComponent<PlayerInformation>().characterName;
             p2Ready.SetActive(p2Choice.ready);
         }
@@ -73,6 +92,17 @@ public class CharacterSelect : MonoBehaviour
         {
             choice.switched = false;
         }
+
+        if (choice.thisPlayer == Player.Player1 && g.player1Character)
+        {
+            p1Preview.sprite = g.player1Character.GetComponentInChildren<SpriteRenderer>().sprite;
+        }
+
+        if (choice.thisPlayer == Player.Player2 && g.player2Character)
+        {
+            p2Preview.sprite = g.player2Character.GetComponentInChildren<SpriteRenderer>().sprite;
+        }
+
         return choice.choice;
     }
 }
