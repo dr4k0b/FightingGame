@@ -20,6 +20,7 @@ public class Hurt : MonoBehaviour
         {
             return;
         }
+        Debug.Log("funkar");
 
         PlayerInformation hit;
 
@@ -38,15 +39,16 @@ public class Hurt : MonoBehaviour
         {
             hit.GetComponent<PlayerHealth>().TakeDamage(damage);
         }
-        else 
+        else
         {
+            hit.GetComponent<PlayerBlocking>().Succesfull();
+           
             if (isProjectile)
             {
                 Destroy(gameObject.transform.parent.gameObject);
                 return;
             }
 
-            hit.GetComponent<PlayerBlocking>().Succesfull();
             PlayerInformation.GetComponent<PlayerAttack>().Parried();
         }
     }

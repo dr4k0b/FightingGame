@@ -4,6 +4,7 @@ public class PlayerBlocking : MonoBehaviour
 {
     PlayerInformation p;
     public GameObject Visual;
+    bool success;
     void Start()
     {
         p = GetComponent<PlayerInformation>();
@@ -21,7 +22,9 @@ public class PlayerBlocking : MonoBehaviour
     }
     public void Succesfull()
     {
+        success = true;
         p.isParrying = false;
+        p.block = false;
         p.canMove = true;
         Visual.SetActive(false);
     }
@@ -29,6 +32,7 @@ public class PlayerBlocking : MonoBehaviour
     {
         p.block = true;
         p.canMove = false;
+        success = false;
 
         p.animator.SetTrigger("Next");
         yield return new WaitForSeconds(p.blockWindUp);
@@ -38,10 +42,19 @@ public class PlayerBlocking : MonoBehaviour
 
         yield return new WaitForSeconds(p.blocking);
 
+        if (success)
+        {
+            yield break;
+        }
         p.isParrying = false;
         Visual.SetActive(false);
 
         yield return new WaitForSeconds(p.blockCooldown);
+
+        if (success)
+        {
+            yield break;
+        }
 
         p.block = false;
         p.canMove = true;

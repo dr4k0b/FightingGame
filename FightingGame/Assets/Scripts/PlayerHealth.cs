@@ -64,7 +64,6 @@ public class PlayerHealth : MonoBehaviour
 
     IEnumerator hurtVisual()
     {
-        Debug.Log("funkar");
         renderer.material = hurtmat;
         yield return new WaitForSeconds(.1f);
         renderer.material = normalmat;

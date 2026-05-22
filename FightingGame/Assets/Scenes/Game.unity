@@ -474,12 +474,12 @@ SpriteRenderer:
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: -1
-  m_Sprite: {fileID: -1955448553306655712, guid: 239f9340bf595e04098d3f875211f571, type: 3}
+  m_Sprite: {fileID: 2396429464780468728, guid: 9eb666c917913c44ab4ae2b047abff40, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
   m_FlipY: 0
   m_DrawMode: 0
-  m_Size: {x: 1, y: 1}
+  m_Size: {x: 3.84, y: 2.18}
   m_AdaptiveModeThreshold: 0.5
   m_SpriteTileMode: 0
   m_WasSpriteAssigned: 1
@@ -495,7 +495,7 @@ Transform:
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: 0, y: 0.91, z: 0}
-  m_LocalScale: {x: 1.5, y: 1.5, z: 1.5}
+  m_LocalScale: {x: 2, y: 2, z: 2}
   m_ConstrainProportionsScale: 1
   m_Children: []
   m_Father: {fileID: 0}
@@ -1830,6 +1830,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: '::'
   player1Character: {fileID: 8144418025246382057, guid: d9e03d3c25ec53a4eb6523868eff4fba, type: 3}
   player2Character: {fileID: 8144418025246382057, guid: 5280c8570238b854fa7b9d73229e077b, type: 3}
+  p1Controller: -1
+  p2Controller: -1
   gameOver: 0
 --- !u!4 &2075722479
 Transform:
