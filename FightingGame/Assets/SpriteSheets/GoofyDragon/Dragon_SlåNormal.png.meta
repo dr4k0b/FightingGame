@@ -321,7 +321,7 @@ TextureImporter:
   platformSettings:
   - serializedVersion: 4
     buildTarget: DefaultTexturePlatform
-    maxTextureSize: 2048
+    maxTextureSize: 8192
     resizeAlgorithm: 0
     textureFormat: -1
     textureCompression: 1
@@ -365,12 +365,12 @@ TextureImporter:
       name: "Dragon_Sl\xE5Normal_0"
       rect:
         serializedVersion: 2
-        x: 59
-        y: 8919
-        width: 1729
-        height: 469
+        x: 0
+        y: 5400
+        width: 1920
+        height: 1080
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -387,12 +387,12 @@ TextureImporter:
       name: "Dragon_Sl\xE5Normal_1"
       rect:
         serializedVersion: 2
-        x: 1953
-        y: 8919
-        width: 1729
-        height: 473
+        x: 1920
+        y: 5400
+        width: 1920
+        height: 1080
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -409,12 +409,12 @@ TextureImporter:
       name: "Dragon_Sl\xE5Normal_2"
       rect:
         serializedVersion: 2
-        x: 3900
-        y: 8917
-        width: 1717
-        height: 473
+        x: 3840
+        y: 5400
+        width: 1920
+        height: 1080
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -431,12 +431,12 @@ TextureImporter:
       name: "Dragon_Sl\xE5Normal_3"
       rect:
         serializedVersion: 2
-        x: 5792
-        y: 8916
-        width: 1724
-        height: 478
+        x: 5760
+        y: 5400
+        width: 1920
+        height: 1080
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -453,12 +453,12 @@ TextureImporter:
       name: "Dragon_Sl\xE5Normal_4"
       rect:
         serializedVersion: 2
-        x: 7743
-        y: 8919
-        width: 1690
-        height: 483
+        x: 7680
+        y: 5400
+        width: 1920
+        height: 1080
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -475,12 +475,12 @@ TextureImporter:
       name: "Dragon_Sl\xE5Normal_5"
       rect:
         serializedVersion: 2
-        x: 9629
-        y: 8910
-        width: 1710
-        height: 491
+        x: 9600
+        y: 5400
+        width: 1920
+        height: 1080
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -497,12 +497,12 @@ TextureImporter:
       name: "Dragon_Sl\xE5Normal_6"
       rect:
         serializedVersion: 2
-        x: 11589
-        y: 8919
-        width: 1661
-        height: 515
+        x: 11520
+        y: 5400
+        width: 1920
+        height: 1080
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -519,12 +519,12 @@ TextureImporter:
       name: "Dragon_Sl\xE5Normal_7"
       rect:
         serializedVersion: 2
-        x: 13467
-        y: 8913
-        width: 1687
-        height: 505
+        x: 0
+        y: 4320
+        width: 1920
+        height: 1080
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -541,12 +541,12 @@ TextureImporter:
       name: "Dragon_Sl\xE5Normal_8"
       rect:
         serializedVersion: 2
-        x: 15441
-        y: 8919
-        width: 1631
-        height: 544
+        x: 1920
+        y: 4320
+        width: 1920
+        height: 1080
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -563,12 +563,12 @@ TextureImporter:
       name: "Dragon_Sl\xE5Normal_9"
       rect:
         serializedVersion: 2
-        x: 17307
-        y: 8919
-        width: 1656
-        height: 522
+        x: 3840
+        y: 4320
+        width: 1920
+        height: 1080
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -585,12 +585,12 @@ TextureImporter:
       name: "Dragon_Sl\xE5Normal_10"
       rect:
         serializedVersion: 2
-        x: 97
-        y: 7839
-        width: 1600
-        height: 570
+        x: 5760
+        y: 4320
+        width: 1920
+        height: 1080
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -607,12 +607,12 @@ TextureImporter:
       name: "Dragon_Sl\xE5Normal_11"
       rect:
         serializedVersion: 2
-        x: 1951
-        y: 7839
-        width: 1618
-        height: 540
+        x: 7680
+        y: 4320
+        width: 1920
+        height: 1080
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -629,12 +629,12 @@ TextureImporter:
       name: "Dragon_Sl\xE5Normal_12"
       rect:
         serializedVersion: 2
-        x: 3958
-        y: 7839
-        width: 1567
-        height: 591
+        x: 9600
+        y: 4320
+        width: 1920
+        height: 1080
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -651,12 +651,12 @@ TextureImporter:
       name: "Dragon_Sl\xE5Normal_13"
       rect:
         serializedVersion: 2
-        x: 5799
-        y: 7839
-        width: 1574
-        height: 550
+        x: 11520
+        y: 4320
+        width: 1920
+        height: 1080
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -673,12 +673,12 @@ TextureImporter:
       name: "Dragon_Sl\xE5Normal_14"
       rect:
         serializedVersion: 2
-        x: 7821
-        y: 7839
-        width: 1542
-        height: 606
+        x: 0
+        y: 3240
+        width: 1920
+        height: 1080
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -695,12 +695,12 @@ TextureImporter:
       name: "Dragon_Sl\xE5Normal_15"
       rect:
         serializedVersion: 2
-        x: 9650
-        y: 7839
-        width: 1530
-        height: 555
+        x: 1920
+        y: 3240
+        width: 1920
+        height: 1080
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -717,12 +717,12 @@ TextureImporter:
       name: "Dragon_Sl\xE5Normal_16"
       rect:
         serializedVersion: 2
-        x: 11683
-        y: 7839
-        width: 1528
-        height: 616
+        x: 3840
+        y: 3240
+        width: 1920
+        height: 1080
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -739,12 +739,12 @@ TextureImporter:
       name: "Dragon_Sl\xE5Normal_17"
       rect:
         serializedVersion: 2
-        x: 13504
-        y: 7839
-        width: 1489
-        height: 552
+        x: 5760
+        y: 3240
+        width: 1920
+        height: 1080
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -761,12 +761,12 @@ TextureImporter:
       name: "Dragon_Sl\xE5Normal_18"
       rect:
         serializedVersion: 2
-        x: 15539
-        y: 7839
-        width: 1523
-        height: 621
+        x: 7680
+        y: 3240
+        width: 1920
+        height: 1080
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -783,12 +783,12 @@ TextureImporter:
       name: "Dragon_Sl\xE5Normal_19"
       rect:
         serializedVersion: 2
-        x: 17359
-        y: 7839
-        width: 1456
-        height: 544
+        x: 9600
+        y: 3240
+        width: 1920
+        height: 1080
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -805,12 +805,12 @@ TextureImporter:
       name: "Dragon_Sl\xE5Normal_20"
       rect:
         serializedVersion: 2
-        x: 188
-        y: 6759
-        width: 1524
-        height: 618
+        x: 11520
+        y: 3240
+        width: 1920
+        height: 1080
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -827,12 +827,12 @@ TextureImporter:
       name: "Dragon_Sl\xE5Normal_21"
       rect:
         serializedVersion: 2
-        x: 2013
-        y: 6759
-        width: 1445
-        height: 514
+        x: 0
+        y: 2160
+        width: 1920
+        height: 1080
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -849,12 +849,12 @@ TextureImporter:
       name: "Dragon_Sl\xE5Normal_22"
       rect:
         serializedVersion: 2
-        x: 4032
-        y: 6759
-        width: 1526
-        height: 609
+        x: 1920
+        y: 2160
+        width: 1920
+        height: 1080
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -871,12 +871,12 @@ TextureImporter:
       name: "Dragon_Sl\xE5Normal_23"
       rect:
         serializedVersion: 2
-        x: 5863
-        y: 6759
-        width: 1466
-        height: 472
+        x: 3840
+        y: 2160
+        width: 1920
+        height: 1080
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -893,12 +893,12 @@ TextureImporter:
       name: "Dragon_Sl\xE5Normal_24"
       rect:
         serializedVersion: 2
-        x: 7871
-        y: 6759
-        width: 1528
-        height: 596
+        x: 5760
+        y: 2160
+        width: 1920
+        height: 1080
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -915,12 +915,12 @@ TextureImporter:
       name: "Dragon_Sl\xE5Normal_25"
       rect:
         serializedVersion: 2
-        x: 9713
-        y: 6759
-        width: 1514
-        height: 444
+        x: 7680
+        y: 2160
+        width: 1920
+        height: 1080
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -937,12 +937,12 @@ TextureImporter:
       name: "Dragon_Sl\xE5Normal_26"
       rect:
         serializedVersion: 2
-        x: 11708
-        y: 6759
-        width: 1530
-        height: 587
+        x: 9600
+        y: 2160
+        width: 1920
+        height: 1080
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -959,12 +959,12 @@ TextureImporter:
       name: "Dragon_Sl\xE5Normal_27"
       rect:
         serializedVersion: 2
-        x: 13556
-        y: 6759
-        width: 1603
-        height: 426
+        x: 11520
+        y: 2160
+        width: 1920
+        height: 1080
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -981,12 +981,12 @@ TextureImporter:
       name: "Dragon_Sl\xE5Normal_28"
       rect:
         serializedVersion: 2
-        x: 15546
-        y: 6759
-        width: 1532
-        height: 580
+        x: 0
+        y: 1080
+        width: 1920
+        height: 1080
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1003,12 +1003,12 @@ TextureImporter:
       name: "Dragon_Sl\xE5Normal_29"
       rect:
         serializedVersion: 2
-        x: 17390
-        y: 6755
-        width: 1723
-        height: 438
+        x: 1920
+        y: 1080
+        width: 1920
+        height: 1080
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1025,12 +1025,12 @@ TextureImporter:
       name: "Dragon_Sl\xE5Normal_30"
       rect:
         serializedVersion: 2
-        x: 185
-        y: 5679
-        width: 1533
-        height: 576
+        x: 3840
+        y: 1080
+        width: 1920
+        height: 1080
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1047,12 +1047,12 @@ TextureImporter:
       name: "Dragon_Sl\xE5Normal_31"
       rect:
         serializedVersion: 2
-        x: 2024
-        y: 5679
-        width: 1795
-        height: 440
+        x: 5760
+        y: 1080
+        width: 1920
+        height: 1080
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1069,12 +1069,12 @@ TextureImporter:
       name: "Dragon_Sl\xE5Normal_32"
       rect:
         serializedVersion: 2
-        x: 4024
-        y: 5679
-        width: 1532
-        height: 573
+        x: 7680
+        y: 1080
+        width: 1920
+        height: 1080
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1091,12 +1091,12 @@ TextureImporter:
       name: "Dragon_Sl\xE5Normal_33"
       rect:
         serializedVersion: 2
-        x: 5864
-        y: 5679
-        width: 1764
-        height: 438
+        x: 9600
+        y: 1080
+        width: 1920
+        height: 1080
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1113,12 +1113,12 @@ TextureImporter:
       name: "Dragon_Sl\xE5Normal_34"
       rect:
         serializedVersion: 2
-        x: 7864
-        y: 5679
-        width: 1530
-        height: 572
+        x: 11520
+        y: 1080
+        width: 1920
+        height: 1080
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1135,12 +1135,12 @@ TextureImporter:
       name: "Dragon_Sl\xE5Normal_35"
       rect:
         serializedVersion: 2
-        x: 9711
-        y: 5679
-        width: 1708
-        height: 429
+        x: 0
+        y: 0
+        width: 1920
+        height: 1080
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1157,12 +1157,12 @@ TextureImporter:
       name: "Dragon_Sl\xE5Normal_36"
       rect:
         serializedVersion: 2
-        x: 11703
-        y: 5679
-        width: 1528
-        height: 571
+        x: 1920
+        y: 0
+        width: 1920
+        height: 1080
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1179,12 +1179,12 @@ TextureImporter:
       name: "Dragon_Sl\xE5Normal_37"
       rect:
         serializedVersion: 2
-        x: 13561
-        y: 5679
-        width: 1684
-        height: 425
+        x: 3840
+        y: 0
+        width: 1920
+        height: 1080
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1197,1023 +1197,11 @@ TextureImporter:
       indices: 
       edges: []
       weights: []
-    - serializedVersion: 2
-      name: "Dragon_Sl\xE5Normal_38"
-      rect:
-        serializedVersion: 2
-        x: 15543
-        y: 5679
-        width: 1502
-        height: 571
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 2fef8aeda877c0030800000000000000
-      internalID: 3462273651865878258
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: "Dragon_Sl\xE5Normal_39"
-      rect:
-        serializedVersion: 2
-        x: 17409
-        y: 5679
-        width: 1664
-        height: 434
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 2c55d6a097b6b91d0800000000000000
-      internalID: -3342960130782308926
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: "Dragon_Sl\xE5Normal_40"
-      rect:
-        serializedVersion: 2
-        x: 182
-        y: 4599
-        width: 1473
-        height: 569
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 24b6fc28ca627b120800000000000000
-      internalID: 2429453046360533826
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: "Dragon_Sl\xE5Normal_41"
-      rect:
-        serializedVersion: 2
-        x: 2050
-        y: 4599
-        width: 1657
-        height: 438
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 1f330b0773c0f3d80800000000000000
-      internalID: -8268876958575610895
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: "Dragon_Sl\xE5Normal_42"
-      rect:
-        serializedVersion: 2
-        x: 4012
-        y: 4599
-        width: 1470
-        height: 564
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 8ddbfa0c304cec480800000000000000
-      internalID: -8876942295103980072
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: "Dragon_Sl\xE5Normal_43"
-      rect:
-        serializedVersion: 2
-        x: 5887
-        y: 4599
-        width: 1657
-        height: 437
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 1a03f39cb66d78750800000000000000
-      internalID: 6307245561581875361
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: "Dragon_Sl\xE5Normal_44"
-      rect:
-        serializedVersion: 2
-        x: 7823
-        y: 4599
-        width: 1487
-        height: 551
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 5c21d6c36a6b8b9a0800000000000000
-      internalID: -6217018460490362171
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: "Dragon_Sl\xE5Normal_45"
-      rect:
-        serializedVersion: 2
-        x: 9722
-        y: 4599
-        width: 1660
-        height: 439
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: fb6f45b30162eb070800000000000000
-      internalID: 8123972628979709631
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: "Dragon_Sl\xE5Normal_46"
-      rect:
-        serializedVersion: 2
-        x: 11613
-        y: 4599
-        width: 1527
-        height: 521
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: a12f1fe5e8af17b00800000000000000
-      internalID: 824715696170725914
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: "Dragon_Sl\xE5Normal_47"
-      rect:
-        serializedVersion: 2
-        x: 13556
-        y: 4599
-        width: 1664
-        height: 445
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: e5dbe0cf5c41f14c0800000000000000
-      internalID: -4314707077427708578
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: "Dragon_Sl\xE5Normal_48"
-      rect:
-        serializedVersion: 2
-        x: 15381
-        y: 4599
-        width: 1593
-        height: 483
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 7e3ad54dd2af82060800000000000000
-      internalID: 6929063101452887015
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: "Dragon_Sl\xE5Normal_49"
-      rect:
-        serializedVersion: 2
-        x: 17386
-        y: 4599
-        width: 1672
-        height: 451
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 07f837e694b7837c0800000000000000
-      internalID: -4091384706150199440
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: "Dragon_Sl\xE5Normal_50"
-      rect:
-        serializedVersion: 2
-        x: 0
-        y: 3519
-        width: 1615
-        height: 459
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 67feca4f4aae593a0800000000000000
-      internalID: -6659158479796899978
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: "Dragon_Sl\xE5Normal_51"
-      rect:
-        serializedVersion: 2
-        x: 2015
-        y: 3519
-        width: 1681
-        height: 455
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 42cc4df045939bd90800000000000000
-      internalID: -7081565905857754076
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: "Dragon_Sl\xE5Normal_52"
-      rect:
-        serializedVersion: 2
-        x: 3839
-        y: 3519
-        width: 1623
-        height: 437
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: eece02d62c60ffe70800000000000000
-      internalID: 9151040399964433646
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: "Dragon_Sl\xE5Normal_53"
-      rect:
-        serializedVersion: 2
-        x: 5849
-        y: 3517
-        width: 1685
-        height: 460
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: dad69c38c50ed6e20800000000000000
-      internalID: 3345576786158775725
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: "Dragon_Sl\xE5Normal_54"
-      rect:
-        serializedVersion: 2
-        x: 7679
-        y: 3519
-        width: 1632
-        height: 418
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: d7e5a2445171c1fd0800000000000000
-      internalID: -2369993923798344067
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: "Dragon_Sl\xE5Normal_55"
-      rect:
-        serializedVersion: 2
-        x: 9691
-        y: 3515
-        width: 1682
-        height: 463
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 29573c97a886ad850800000000000000
-      internalID: 6402544764218209682
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: "Dragon_Sl\xE5Normal_56"
-      rect:
-        serializedVersion: 2
-        x: 11519
-        y: 3519
-        width: 1643
-        height: 410
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: bd606ff396892c7e0800000000000000
-      internalID: -1746666127654254885
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: "Dragon_Sl\xE5Normal_57"
-      rect:
-        serializedVersion: 2
-        x: 13539
-        y: 3513
-        width: 1672
-        height: 465
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: cc64cc952751ea280800000000000000
-      internalID: -9030256621954251060
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: "Dragon_Sl\xE5Normal_58"
-      rect:
-        serializedVersion: 2
-        x: 15359
-        y: 3519
-        width: 1656
-        height: 407
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 6d3b6b36385d78980800000000000000
-      internalID: -8536619808367135786
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: "Dragon_Sl\xE5Normal_59"
-      rect:
-        serializedVersion: 2
-        x: 17387
-        y: 3513
-        width: 1662
-        height: 464
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 7b62c5472d6caa710800000000000000
-      internalID: 1705394016110782135
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: "Dragon_Sl\xE5Normal_60"
-      rect:
-        serializedVersion: 2
-        x: 0
-        y: 2439
-        width: 1668
-        height: 405
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 3c4ae75b37a34ae50800000000000000
-      internalID: 6819640004386399427
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: "Dragon_Sl\xE5Normal_61"
-      rect:
-        serializedVersion: 2
-        x: 2027
-        y: 2430
-        width: 1661
-        height: 470
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: b9b1aa99862ad92b0800000000000000
-      internalID: -5576122193476445285
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: "Dragon_Sl\xE5Normal_62"
-      rect:
-        serializedVersion: 2
-        x: 3839
-        y: 2439
-        width: 1683
-        height: 405
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 2d465487c04041860800000000000000
-      internalID: 7499623731082650834
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: "Dragon_Sl\xE5Normal_63"
-      rect:
-        serializedVersion: 2
-        x: 5857
-        y: 2432
-        width: 1669
-        height: 474
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: e54d361af653338b0800000000000000
-      internalID: -5173732793353251746
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: "Dragon_Sl\xE5Normal_64"
-      rect:
-        serializedVersion: 2
-        x: 7679
-        y: 2439
-        width: 1697
-        height: 407
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 00bb8203a135e23e0800000000000000
-      internalID: -2076631006228989184
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: "Dragon_Sl\xE5Normal_65"
-      rect:
-        serializedVersion: 2
-        x: 9682
-        y: 2432
-        width: 1683
-        height: 479
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 4240c8e69452d2610800000000000000
-      internalID: 1597974440103904292
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: "Dragon_Sl\xE5Normal_66"
-      rect:
-        serializedVersion: 2
-        x: 11519
-        y: 2439
-        width: 1710
-        height: 410
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 5bf544f5dbe6b5b00800000000000000
-      internalID: 818369516924067765
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: "Dragon_Sl\xE5Normal_67"
-      rect:
-        serializedVersion: 2
-        x: 13505
-        y: 2433
-        width: 1699
-        height: 482
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 9b4f9984699a29030800000000000000
-      internalID: 3500046323348534457
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: "Dragon_Sl\xE5Normal_68"
-      rect:
-        serializedVersion: 2
-        x: 15359
-        y: 2439
-        width: 1721
-        height: 414
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 9fe86e85f2c9d5940800000000000000
-      internalID: 5286553264771731193
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: "Dragon_Sl\xE5Normal_69"
-      rect:
-        serializedVersion: 2
-        x: 17331
-        y: 2435
-        width: 1712
-        height: 481
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 83970e51f53cc2520800000000000000
-      internalID: 2678730691534944568
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: "Dragon_Sl\xE5Normal_70"
-      rect:
-        serializedVersion: 2
-        x: 0
-        y: 1359
-        width: 1731
-        height: 418
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: a8c289c10a68679d0800000000000000
-      internalID: -2776884097994707830
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: "Dragon_Sl\xE5Normal_71"
-      rect:
-        serializedVersion: 2
-        x: 1960
-        y: 1357
-        width: 1722
-        height: 477
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 9a8805f7c73d16d40800000000000000
-      internalID: 5575970345326774441
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: "Dragon_Sl\xE5Normal_72"
-      rect:
-        serializedVersion: 2
-        x: 3839
-        y: 1359
-        width: 1741
-        height: 423
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: baf5f27c244c373b0800000000000000
-      internalID: -5515849327510069333
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: "Dragon_Sl\xE5Normal_73"
-      rect:
-        serializedVersion: 2
-        x: 5794
-        y: 1359
-        width: 1728
-        height: 473
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 7dd1dd1dc46bd10d0800000000000000
-      internalID: -3450401298441232937
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: "Dragon_Sl\xE5Normal_74"
-      rect:
-        serializedVersion: 2
-        x: 7683
-        y: 1359
-        width: 1746
-        height: 427
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: b6bf41e139b1647b0800000000000000
-      internalID: -5240470797720159381
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: "Dragon_Sl\xE5Normal_75"
-      rect:
-        serializedVersion: 2
-        x: 9633
-        y: 1359
-        width: 1729
-        height: 473
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: c4d7400f47d2a2ef0800000000000000
-      internalID: -132243258787726004
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: "Dragon_Sl\xE5Normal_76"
-      rect:
-        serializedVersion: 2
-        x: 11533
-        y: 1359
-        width: 1744
-        height: 438
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: c271c029ca860d270800000000000000
-      internalID: 8273227605873530668
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: "Dragon_Sl\xE5Normal_77"
-      rect:
-        serializedVersion: 2
-        x: 13463
-        y: 1359
-        width: 1742
-        height: 455
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: a61f76fcae2e67e90800000000000000
-      internalID: -7028180670335159958
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: "Dragon_Sl\xE5Normal_78"
-      rect:
-        serializedVersion: 2
-        x: 15393
-        y: 1359
-        width: 1738
-        height: 468
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 3d447d8ada040e6a0800000000000000
-      internalID: -6422061954024127277
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: "Dragon_Sl\xE5Normal_79"
-      rect:
-        serializedVersion: 2
-        x: 17322
-        y: 1359
-        width: 1735
-        height: 474
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 508cc19b466a8a9f0800000000000000
-      internalID: -456932410645493755
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: "Dragon_Sl\xE5Normal_80"
-      rect:
-        serializedVersion: 2
-        x: 49
-        y: 279
-        width: 1733
-        height: 472
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: eb6e0a81fb41d2180800000000000000
-      internalID: -9138625257880361282
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: "Dragon_Sl\xE5Normal_81"
-      rect:
-        serializedVersion: 2
-        x: 1974
-        y: 279
-        width: 1731
-        height: 470
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: e609f422ec1ce20d0800000000000000
-      internalID: -3445603573808787346
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: "Dragon_Sl\xE5Normal_82"
-      rect:
-        serializedVersion: 2
-        x: 3898
-        y: 279
-        width: 1729
-        height: 469
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: a5c150fd84f9306e0800000000000000
-      internalID: -1872477884727878566
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: "Dragon_Sl\xE5Normal_83"
-      rect:
-        serializedVersion: 2
-        x: 5819
-        y: 279
-        width: 1729
-        height: 469
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 79e329a32220ecfb0800000000000000
-      internalID: -4625757421228114281
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     outline: []
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 
+    spriteID: 209ad5e06570b6b49a5397a819318569
     internalID: 0
     vertices: []
     indices: 
@@ -2221,7 +1209,9 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     spriteCustomMetadata:
-      entries: []
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":1.0,"y":1.0},"gridSpriteSize":{"x":1920.0,"y":1080.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":1,"keepEmptyRects":false,"isAlternate":false}'
     nameFileIdTable:
       "Dragon_Sl\xE5Normal_0": -7966359906953246774
       "Dragon_Sl\xE5Normal_1": -1650598868023796485
@@ -2255,57 +1245,11 @@ TextureImporter:
       "Dragon_Sl\xE5Normal_35": -2864891731104538359
       "Dragon_Sl\xE5Normal_36": 404216378284536919
       "Dragon_Sl\xE5Normal_37": 4959983383260362685
-      "Dragon_Sl\xE5Normal_38": 3462273651865878258
-      "Dragon_Sl\xE5Normal_39": -3342960130782308926
       "Dragon_Sl\xE5Normal_4": 1577192865971268754
-      "Dragon_Sl\xE5Normal_40": 2429453046360533826
-      "Dragon_Sl\xE5Normal_41": -8268876958575610895
-      "Dragon_Sl\xE5Normal_42": -8876942295103980072
-      "Dragon_Sl\xE5Normal_43": 6307245561581875361
-      "Dragon_Sl\xE5Normal_44": -6217018460490362171
-      "Dragon_Sl\xE5Normal_45": 8123972628979709631
-      "Dragon_Sl\xE5Normal_46": 824715696170725914
-      "Dragon_Sl\xE5Normal_47": -4314707077427708578
-      "Dragon_Sl\xE5Normal_48": 6929063101452887015
-      "Dragon_Sl\xE5Normal_49": -4091384706150199440
       "Dragon_Sl\xE5Normal_5": 7894080113379186221
-      "Dragon_Sl\xE5Normal_50": -6659158479796899978
-      "Dragon_Sl\xE5Normal_51": -7081565905857754076
-      "Dragon_Sl\xE5Normal_52": 9151040399964433646
-      "Dragon_Sl\xE5Normal_53": 3345576786158775725
-      "Dragon_Sl\xE5Normal_54": -2369993923798344067
-      "Dragon_Sl\xE5Normal_55": 6402544764218209682
-      "Dragon_Sl\xE5Normal_56": -1746666127654254885
-      "Dragon_Sl\xE5Normal_57": -9030256621954251060
-      "Dragon_Sl\xE5Normal_58": -8536619808367135786
-      "Dragon_Sl\xE5Normal_59": 1705394016110782135
       "Dragon_Sl\xE5Normal_6": 2935765247012913691
-      "Dragon_Sl\xE5Normal_60": 6819640004386399427
-      "Dragon_Sl\xE5Normal_61": -5576122193476445285
-      "Dragon_Sl\xE5Normal_62": 7499623731082650834
-      "Dragon_Sl\xE5Normal_63": -5173732793353251746
-      "Dragon_Sl\xE5Normal_64": -2076631006228989184
-      "Dragon_Sl\xE5Normal_65": 1597974440103904292
-      "Dragon_Sl\xE5Normal_66": 818369516924067765
-      "Dragon_Sl\xE5Normal_67": 3500046323348534457
-      "Dragon_Sl\xE5Normal_68": 5286553264771731193
-      "Dragon_Sl\xE5Normal_69": 2678730691534944568
       "Dragon_Sl\xE5Normal_7": -2891448464737365439
-      "Dragon_Sl\xE5Normal_70": -2776884097994707830
-      "Dragon_Sl\xE5Normal_71": 5575970345326774441
-      "Dragon_Sl\xE5Normal_72": -5515849327510069333
-      "Dragon_Sl\xE5Normal_73": -3450401298441232937
-      "Dragon_Sl\xE5Normal_74": -5240470797720159381
-      "Dragon_Sl\xE5Normal_75": -132243258787726004
-      "Dragon_Sl\xE5Normal_76": 8273227605873530668
-      "Dragon_Sl\xE5Normal_77": -7028180670335159958
-      "Dragon_Sl\xE5Normal_78": -6422061954024127277
-      "Dragon_Sl\xE5Normal_79": -456932410645493755
       "Dragon_Sl\xE5Normal_8": -3763026144488471513
-      "Dragon_Sl\xE5Normal_80": -9138625257880361282
-      "Dragon_Sl\xE5Normal_81": -3445603573808787346
-      "Dragon_Sl\xE5Normal_82": -1872477884727878566
-      "Dragon_Sl\xE5Normal_83": -4625757421228114281
       "Dragon_Sl\xE5Normal_9": 140143089587471663
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
