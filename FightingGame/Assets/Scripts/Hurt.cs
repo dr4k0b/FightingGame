@@ -8,7 +8,6 @@ public class Hurt : MonoBehaviour
     public bool isProjectile;
     void Start()
     {
-
     }
     void Update()
     {
@@ -35,14 +34,22 @@ public class Hurt : MonoBehaviour
             return;
         }
 
+        if (PlayerInformation.health <= 0) return;
+
+
         if (!hit.GetComponent<PlayerInformation>().isParrying)
         {
             hit.GetComponent<PlayerHealth>().TakeDamage(damage);
+         
+            if (isProjectile)
+            {
+                Destroy(gameObject.transform.parent.gameObject);
+            }
         }
         else
         {
             hit.GetComponent<PlayerBlocking>().Succesfull();
-           
+
             if (isProjectile)
             {
                 Destroy(gameObject.transform.parent.gameObject);
