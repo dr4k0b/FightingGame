@@ -1244,6 +1244,7 @@ GameObject:
   - component: {fileID: -6290266658389532728}
   - component: {fileID: 7952818489501854706}
   - component: {fileID: -5554042569276838182}
+  - component: {fileID: 703698113556392816}
   m_Layer: 3
   m_Name: Milton the mouse
   m_TagString: Player
@@ -1477,6 +1478,7 @@ MonoBehaviour:
   armAttack: {fileID: 3597003017374999316}
   weapon: {fileID: 8108193220233539840}
   StunnedVisual: {fileID: 5547569568080943425}
+  am: {fileID: 0}
 --- !u!114 &7530658709007922272
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -1532,6 +1534,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: '::'
   renderer: {fileID: 1465117221737655040}
   hurtmat: {fileID: 2100000, guid: 2f301e00692724c49a08c91028d588ec, type: 2}
+  am: {fileID: 0}
 --- !u!114 &7952818489501854706
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -1563,6 +1566,45 @@ MonoBehaviour:
   projectileStart: {fileID: 0}
   projectile: {fileID: 0}
   isRanged: 0
+  am: {fileID: 0}
+--- !u!114 &703698113556392816
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8144418025246382057}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9d0c41950b938f54ebd266b19a35d4c2, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::AudioManager
+  sounds:
+  - name: Walk
+    clip: {fileID: 0}
+    volume: 1
+    loop: 0
+    source: {fileID: 0}
+  - name: Attack
+    clip: {fileID: 8300000, guid: 8dfb2cbe8846ffc4e8152eb35a759b1e, type: 3}
+    volume: 1
+    loop: 0
+    source: {fileID: 0}
+  - name: Special
+    clip: {fileID: 8300000, guid: 5b8a8135bfc637544a1ce64fa13fb1c3, type: 3}
+    volume: 1
+    loop: 0
+    source: {fileID: 0}
+  - name: Hurt
+    clip: {fileID: 8300000, guid: b866b1c66f190f540aa47880043956c9, type: 3}
+    volume: 1
+    loop: 0
+    source: {fileID: 0}
+  - name: Death
+    clip: {fileID: 8300000, guid: 62c07239761522b4aa6f0a6812fbced9, type: 3}
+    volume: 1
+    loop: 0
+    source: {fileID: 0}
 --- !u!1 &9131997053224466227
 GameObject:
   m_ObjectHideFlags: 0

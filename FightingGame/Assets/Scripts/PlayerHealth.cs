@@ -13,12 +13,15 @@ public class PlayerHealth : MonoBehaviour
 
     public Material hurtmat;
     private Material normalmat;
+
+    public AudioManager am;
     bool died;
     void Start()
     {
         p = GetComponent<PlayerInformation>();
         g = FindFirstObjectByType<GlobalInformation>();
         gm = FindFirstObjectByType<GameManager>();
+        am = GetComponent<AudioManager>();
         normalmat = renderer.material;
         p.health = p.maxHealth;
     }
@@ -59,6 +62,7 @@ public class PlayerHealth : MonoBehaviour
             p.health -= damage;
             p.currentKnockback = p.knockback;
             StartCoroutine(hurtVisual());
+            am.Play("Hurt");
         }
     }
 

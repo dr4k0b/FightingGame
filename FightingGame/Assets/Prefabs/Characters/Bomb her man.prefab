@@ -1186,6 +1186,7 @@ GameObject:
   - component: {fileID: 7952818489501854706}
   - component: {fileID: -5554042569276838182}
   - component: {fileID: 7897515079190582329}
+  - component: {fileID: 6262428494326779763}
   m_Layer: 3
   m_Name: Bomb her man
   m_TagString: Player
@@ -1419,6 +1420,7 @@ MonoBehaviour:
   armAttack: {fileID: 3597003017374999316}
   weapon: {fileID: 8108193220233539840}
   StunnedVisual: {fileID: 5547569568080943425}
+  am: {fileID: 0}
 --- !u!114 &7530658709007922272
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -1474,6 +1476,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: '::'
   renderer: {fileID: 7570521692809290322}
   hurtmat: {fileID: 2100000, guid: 2f301e00692724c49a08c91028d588ec, type: 2}
+  am: {fileID: 0}
 --- !u!114 &7952818489501854706
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -1505,6 +1508,7 @@ MonoBehaviour:
   projectileStart: {fileID: 118461769199887075}
   projectile: {fileID: 1480608732152699205, guid: 22fe823c2ca6b41428f9d5eaad6aa9b5, type: 3}
   isRanged: 1
+  am: {fileID: 0}
 --- !u!95 &7897515079190582329
 Animator:
   serializedVersion: 7
@@ -1527,6 +1531,44 @@ Animator:
   m_AllowConstantClipSamplingOptimization: 1
   m_KeepAnimatorStateOnDisable: 0
   m_WriteDefaultValuesOnDisable: 0
+--- !u!114 &6262428494326779763
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8144418025246382057}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9d0c41950b938f54ebd266b19a35d4c2, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::AudioManager
+  sounds:
+  - name: Walk
+    clip: {fileID: 8300000, guid: 1aa0f85d8b927f44497f5e02003d4855, type: 3}
+    volume: 1
+    loop: 0
+    source: {fileID: 0}
+  - name: Attack
+    clip: {fileID: 8300000, guid: 0799e5586fb3d004685f0e83b28df11e, type: 3}
+    volume: 1
+    loop: 0
+    source: {fileID: 0}
+  - name: Special
+    clip: {fileID: 0}
+    volume: 1
+    loop: 0
+    source: {fileID: 0}
+  - name: Hurt
+    clip: {fileID: 8300000, guid: 70d31c5468614bb41a057f62641bb0db, type: 3}
+    volume: 1
+    loop: 0
+    source: {fileID: 0}
+  - name: Death
+    clip: {fileID: 8300000, guid: 7c5f5d546f653ad459077734314532c5, type: 3}
+    volume: 1
+    loop: 0
+    source: {fileID: 0}
 --- !u!1 &8447995521203024562
 GameObject:
   m_ObjectHideFlags: 0

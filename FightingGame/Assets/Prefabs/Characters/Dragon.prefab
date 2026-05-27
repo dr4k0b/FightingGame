@@ -25,7 +25,7 @@ Transform:
   m_GameObject: {fileID: 118461769199887075}
   serializedVersion: 2
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 9.72, y: 1.74, z: 0}
+  m_LocalPosition: {x: 6.32, y: 1.74, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -621,7 +621,7 @@ Transform:
   m_GameObject: {fileID: 5990332906072653200}
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 0, y: 2.62, z: 0}
+  m_LocalPosition: {x: -4.82, y: 2.62, z: 0}
   m_LocalScale: {x: 1.33, y: 1.33, z: 1.33}
   m_ConstrainProportionsScale: 1
   m_Children: []
@@ -1139,6 +1139,7 @@ GameObject:
   - component: {fileID: 7952818489501854706}
   - component: {fileID: -5554042569276838182}
   - component: {fileID: 7897515079190582329}
+  - component: {fileID: 6189528250666517636}
   m_Layer: 3
   m_Name: Dragon
   m_TagString: Player
@@ -1204,7 +1205,7 @@ BoxCollider2D:
   m_UsedByEffector: 0
   m_CompositeOperation: 0
   m_CompositeOrder: 0
-  m_Offset: {x: 7.027898, y: 1.6774073}
+  m_Offset: {x: 2.406098, y: 1.6774073}
   m_SpriteTilingProperty:
     border: {x: 0, y: 0, z: 0, w: 0}
     pivot: {x: 0.5, y: 0.5}
@@ -1214,7 +1215,7 @@ BoxCollider2D:
     drawMode: 0
     adaptiveTiling: 0
   m_AutoTiling: 0
-  m_Size: {x: 5.641222, y: 5.3548145}
+  m_Size: {x: 6.705064, y: 5.3548145}
   m_EdgeRadius: 0
 --- !u!114 &5080136681916580329
 MonoBehaviour:
@@ -1372,6 +1373,7 @@ MonoBehaviour:
   armAttack: {fileID: 3597003017374999316}
   weapon: {fileID: 8108193220233539840}
   StunnedVisual: {fileID: 5547569568080943425}
+  am: {fileID: 0}
 --- !u!114 &7530658709007922272
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -1427,6 +1429,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: '::'
   renderer: {fileID: 7570521692809290322}
   hurtmat: {fileID: 2100000, guid: 2f301e00692724c49a08c91028d588ec, type: 2}
+  am: {fileID: 0}
 --- !u!114 &7952818489501854706
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -1458,6 +1461,7 @@ MonoBehaviour:
   projectileStart: {fileID: 118461769199887075}
   projectile: {fileID: 1480608732152699205, guid: d810f986147f5c14b9b120613a5218ed, type: 3}
   isRanged: 1
+  am: {fileID: 0}
 --- !u!95 &7897515079190582329
 Animator:
   serializedVersion: 7
@@ -1480,6 +1484,44 @@ Animator:
   m_AllowConstantClipSamplingOptimization: 1
   m_KeepAnimatorStateOnDisable: 0
   m_WriteDefaultValuesOnDisable: 0
+--- !u!114 &6189528250666517636
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8144418025246382057}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9d0c41950b938f54ebd266b19a35d4c2, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::AudioManager
+  sounds:
+  - name: Walk
+    clip: {fileID: 0}
+    volume: 1
+    loop: 0
+    source: {fileID: 0}
+  - name: Attack
+    clip: {fileID: 8300000, guid: 7eaa333870fac7c41aa07442bbbf150a, type: 3}
+    volume: 1
+    loop: 0
+    source: {fileID: 0}
+  - name: Special
+    clip: {fileID: 0}
+    volume: 1
+    loop: 0
+    source: {fileID: 0}
+  - name: Hurt
+    clip: {fileID: 0}
+    volume: 1
+    loop: 0
+    source: {fileID: 0}
+  - name: Death
+    clip: {fileID: 8300000, guid: bf5fa24c596432240970e8863f1fbd86, type: 3}
+    volume: 1
+    loop: 0
+    source: {fileID: 0}
 --- !u!1 &8447995521203024562
 GameObject:
   m_ObjectHideFlags: 0

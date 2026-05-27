@@ -8,9 +8,11 @@ public class PlayerAttack : MonoBehaviour
     public GameObject armAttack;
     public GameObject weapon;
     public GameObject StunnedVisual;
+    public AudioManager am;
     void Start()
     {
         p = GetComponent<PlayerInformation>();
+        am = GetComponent<AudioManager>();
     }
     private void Update()
     {
@@ -59,12 +61,14 @@ public class PlayerAttack : MonoBehaviour
 
         p.animator.SetTrigger("Next");
 
+
         yield return new WaitForSeconds(p.windUp);
 
         armAttack.SetActive(true);
         weapon.SetActive(true);
         weapon.transform.localPosition = Vector3.zero;
 
+        am.Play("Attack");
         yield return new WaitForSeconds(p.Hurt);
 
         weapon.transform.localPosition = Vector3.down * 1000;

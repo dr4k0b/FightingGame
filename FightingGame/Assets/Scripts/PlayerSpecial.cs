@@ -16,9 +16,12 @@ public class PlayerSpecial : MonoBehaviour
     public GameObject projectileStart;
     public GameObject projectile;
     public bool isRanged;
+
+    public AudioManager am;
     void Start()
     {
         p = GetComponent<PlayerInformation>();
+        am = GetComponent<AudioManager>();
         g = FindFirstObjectByType<GlobalInformation>();
     }
 
@@ -69,6 +72,7 @@ public class PlayerSpecial : MonoBehaviour
         p.canMove = false;
 
         yield return new WaitForSeconds(p.specialWindUp);
+        am.Play("Special");
 
         armSpecial.SetActive(true);
 
