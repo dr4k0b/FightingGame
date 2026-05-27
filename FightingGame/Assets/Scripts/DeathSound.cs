@@ -2,15 +2,22 @@ using UnityEngine;
 
 public class DeathSound : MonoBehaviour
 {
-    // Start is called once before the first execution of Update after the MonoBehaviour is created
+    AudioManager am;
+    GlobalInformation g;
+    bool played;
     void Start()
     {
-        
+        am = GetComponent<AudioManager>();
+        g = FindFirstObjectByType<GlobalInformation>();
     }
-
-    // Update is called once per frame
     void Update()
     {
-        
+        if (g.gameObject && !played)
+        {
+            played = true;
+            am.Stop("Musik");
+            am.Play("Death");
+            am.Play("KO");
+        }
     }
 }

@@ -1,0 +1,754 @@
+fileFormatVersion: 2
+guid: cb350db53fb9a334db1e27fdf7b7b4c0
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5046541861827170289
+    second: DriveHard_BasicAttack_Windup_0
+  - first:
+      213: 3679054083545834007
+    second: DriveHard_BasicAttack_Windup_1
+  - first:
+      213: 7445200310263065978
+    second: DriveHard_BasicAttack_Windup_2
+  - first:
+      213: 3224648232018383624
+    second: DriveHard_BasicAttack_Windup_3
+  - first:
+      213: 5969208177385379833
+    second: DriveHard_BasicAttack_Windup_4
+  - first:
+      213: -4705110072686653645
+    second: DriveHard_BasicAttack_Windup_5
+  - first:
+      213: -3539071357559819448
+    second: DriveHard_BasicAttack_Windup_6
+  - first:
+      213: -850423374484334930
+    second: DriveHard_BasicAttack_Windup_7
+  - first:
+      213: 7501702772983197147
+    second: DriveHard_BasicAttack_Windup_8
+  - first:
+      213: 6638529934801947963
+    second: DriveHard_BasicAttack_Windup_9
+  - first:
+      213: -967327890968069247
+    second: DriveHard_BasicAttack_Windup_10
+  - first:
+      213: -2470277058729164181
+    second: DriveHard_BasicAttack_Windup_11
+  - first:
+      213: -8904004240772497646
+    second: DriveHard_BasicAttack_Windup_12
+  - first:
+      213: 9066875306475184890
+    second: DriveHard_BasicAttack_Windup_13
+  - first:
+      213: 8880543164152420661
+    second: DriveHard_BasicAttack_Windup_14
+  - first:
+      213: -7290109332134940790
+    second: DriveHard_BasicAttack_Windup_15
+  - first:
+      213: -2526712274566259257
+    second: DriveHard_BasicAttack_Windup_16
+  - first:
+      213: -1992524641887064862
+    second: DriveHard_BasicAttack_Windup_17
+  - first:
+      213: 6824350975719435249
+    second: DriveHard_BasicAttack_Windup_18
+  - first:
+      213: -8223610349428794244
+    second: DriveHard_BasicAttack_Windup_19
+  - first:
+      213: -4345647915540793316
+    second: DriveHard_BasicAttack_Windup_20
+  - first:
+      213: -7770901120878724784
+    second: DriveHard_BasicAttack_Windup_21
+  - first:
+      213: 516334334121573278
+    second: DriveHard_BasicAttack_Windup_22
+  - first:
+      213: -167190978865572270
+    second: DriveHard_BasicAttack_Windup_23
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: DriveHard_BasicAttack_Windup_0
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 206
+        width: 62
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ffc85ae51be80640800000000000000
+      internalID: 5046541861827170289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DriveHard_BasicAttack_Windup_1
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 206
+        width: 62
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 712233f4230ae0330800000000000000
+      internalID: 3679054083545834007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DriveHard_BasicAttack_Windup_2
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 206
+        width: 61
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7dabde5c3aa25760800000000000000
+      internalID: 7445200310263065978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DriveHard_BasicAttack_Windup_3
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 206
+        width: 60
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8031c0b6b7040cc20800000000000000
+      internalID: 3224648232018383624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DriveHard_BasicAttack_Windup_4
+      rect:
+        serializedVersion: 2
+        x: 413
+        y: 206
+        width: 50
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f7996b0633e6d250800000000000000
+      internalID: 5969208177385379833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DriveHard_BasicAttack_Windup_5
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 158
+        width: 47
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33f4660515714beb0800000000000000
+      internalID: -4705110072686653645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DriveHard_BasicAttack_Windup_6
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 158
+        width: 41
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84333e1e951b2eec0800000000000000
+      internalID: -3539071357559819448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DriveHard_BasicAttack_Windup_7
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 158
+        width: 35
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea61c275270b234f0800000000000000
+      internalID: -850423374484334930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DriveHard_BasicAttack_Windup_8
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 157
+        width: 30
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bdde9322de66b1860800000000000000
+      internalID: 7501702772983197147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DriveHard_BasicAttack_Windup_9
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 157
+        width: 29
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3dcaa2adcbc02c50800000000000000
+      internalID: 6638529934801947963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DriveHard_BasicAttack_Windup_10
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 109
+        width: 37
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18b3585886c5392f0800000000000000
+      internalID: -967327890968069247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DriveHard_BasicAttack_Windup_11
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 110
+        width: 32
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b62c6a96a10d7bdd0800000000000000
+      internalID: -2470277058729164181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DriveHard_BasicAttack_Windup_12
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 114
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21ffe26815f9e6480800000000000000
+      internalID: -8904004240772497646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DriveHard_BasicAttack_Windup_13
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 111
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af2e6398d0304dd70800000000000000
+      internalID: 9066875306475184890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DriveHard_BasicAttack_Windup_14
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 106
+        width: 40
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53914d7e4f60e3b70800000000000000
+      internalID: 8880543164152420661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DriveHard_BasicAttack_Windup_15
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 110
+        width: 29
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8f2654ef2454da90800000000000000
+      internalID: -7290109332134940790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DriveHard_BasicAttack_Windup_16
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 110
+        width: 29
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7cddbd8c2905fecd0800000000000000
+      internalID: -2526712274566259257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DriveHard_BasicAttack_Windup_17
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 107
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2eceb1225612954e0800000000000000
+      internalID: -1992524641887064862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DriveHard_BasicAttack_Windup_18
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 62
+        width: 29
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1fbe8523e07f4be50800000000000000
+      internalID: 6824350975719435249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DriveHard_BasicAttack_Windup_19
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 62
+        width: 29
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7c121f25fddfdd80800000000000000
+      internalID: -8223610349428794244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DriveHard_BasicAttack_Windup_20
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 62
+        width: 29
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c18364bbe3821b3c0800000000000000
+      internalID: -4345647915540793316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DriveHard_BasicAttack_Windup_21
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 62
+        width: 29
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 059b6514a96382490800000000000000
+      internalID: -7770901120878724784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DriveHard_BasicAttack_Windup_22
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 62
+        width: 31
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9b77aa57536a2700800000000000000
+      internalID: 516334334121573278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DriveHard_BasicAttack_Windup_23
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 14
+        width: 34
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2565117c0b40eadf0800000000000000
+      internalID: -167190978865572270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      DriveHard_BasicAttack_Windup_0: 5046541861827170289
+      DriveHard_BasicAttack_Windup_1: 3679054083545834007
+      DriveHard_BasicAttack_Windup_10: -967327890968069247
+      DriveHard_BasicAttack_Windup_11: -2470277058729164181
+      DriveHard_BasicAttack_Windup_12: -8904004240772497646
+      DriveHard_BasicAttack_Windup_13: 9066875306475184890
+      DriveHard_BasicAttack_Windup_14: 8880543164152420661
+      DriveHard_BasicAttack_Windup_15: -7290109332134940790
+      DriveHard_BasicAttack_Windup_16: -2526712274566259257
+      DriveHard_BasicAttack_Windup_17: -1992524641887064862
+      DriveHard_BasicAttack_Windup_18: 6824350975719435249
+      DriveHard_BasicAttack_Windup_19: -8223610349428794244
+      DriveHard_BasicAttack_Windup_2: 7445200310263065978
+      DriveHard_BasicAttack_Windup_20: -4345647915540793316
+      DriveHard_BasicAttack_Windup_21: -7770901120878724784
+      DriveHard_BasicAttack_Windup_22: 516334334121573278
+      DriveHard_BasicAttack_Windup_23: -167190978865572270
+      DriveHard_BasicAttack_Windup_3: 3224648232018383624
+      DriveHard_BasicAttack_Windup_4: 5969208177385379833
+      DriveHard_BasicAttack_Windup_5: -4705110072686653645
+      DriveHard_BasicAttack_Windup_6: -3539071357559819448
+      DriveHard_BasicAttack_Windup_7: -850423374484334930
+      DriveHard_BasicAttack_Windup_8: 7501702772983197147
+      DriveHard_BasicAttack_Windup_9: 6638529934801947963
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

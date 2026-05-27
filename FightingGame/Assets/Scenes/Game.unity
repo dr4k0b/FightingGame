@@ -119,6 +119,23 @@ NavMeshSettings:
     debug:
       m_Flags: 0
   m_NavMeshData: {fileID: 0}
+--- !u!1 &61767553 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 7012237436067585244, guid: 32b723ec44d9a654cb86d2ef54c25666, type: 3}
+  m_PrefabInstance: {fileID: 865919485}
+  m_PrefabAsset: {fileID: 0}
+--- !u!114 &61767554
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 61767553}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0d19c722391b16d49ac2e6901c7653d8, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: '::'
 --- !u!1 &160416726
 GameObject:
   m_ObjectHideFlags: 0
@@ -876,7 +893,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 3553434811148114695, guid: 32b723ec44d9a654cb86d2ef54c25666, type: 3}
       propertyPath: sounds.Array.size
-      value: 2
+      value: 4
       objectReference: {fileID: 0}
     - target: {fileID: 3553434811148114695, guid: 32b723ec44d9a654cb86d2ef54c25666, type: 3}
       propertyPath: sounds.Array.data[0].clip
@@ -899,7 +916,31 @@ PrefabInstance:
       value: Fight
       objectReference: {fileID: 0}
     - target: {fileID: 3553434811148114695, guid: 32b723ec44d9a654cb86d2ef54c25666, type: 3}
+      propertyPath: sounds.Array.data[2].clip
+      value: 
+      objectReference: {fileID: 8300000, guid: bc794c59bd35fcb4eb0bb53ec3b73a2c, type: 3}
+    - target: {fileID: 3553434811148114695, guid: 32b723ec44d9a654cb86d2ef54c25666, type: 3}
+      propertyPath: sounds.Array.data[2].name
+      value: KO
+      objectReference: {fileID: 0}
+    - target: {fileID: 3553434811148114695, guid: 32b723ec44d9a654cb86d2ef54c25666, type: 3}
+      propertyPath: sounds.Array.data[3].clip
+      value: 
+      objectReference: {fileID: 8300000, guid: 6355247bb64d5c540aa4a0e2650863b8, type: 3}
+    - target: {fileID: 3553434811148114695, guid: 32b723ec44d9a654cb86d2ef54c25666, type: 3}
+      propertyPath: sounds.Array.data[3].name
+      value: Death
+      objectReference: {fileID: 0}
+    - target: {fileID: 3553434811148114695, guid: 32b723ec44d9a654cb86d2ef54c25666, type: 3}
       propertyPath: sounds.Array.data[1].volume
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 3553434811148114695, guid: 32b723ec44d9a654cb86d2ef54c25666, type: 3}
+      propertyPath: sounds.Array.data[2].volume
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 3553434811148114695, guid: 32b723ec44d9a654cb86d2ef54c25666, type: 3}
+      propertyPath: sounds.Array.data[3].volume
       value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 7012237436067585244, guid: 32b723ec44d9a654cb86d2ef54c25666, type: 3}
@@ -909,7 +950,10 @@ PrefabInstance:
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
-    m_AddedComponents: []
+    m_AddedComponents:
+    - targetCorrespondingSourceObject: {fileID: 7012237436067585244, guid: 32b723ec44d9a654cb86d2ef54c25666, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 61767554}
   m_SourcePrefab: {fileID: 100100000, guid: 32b723ec44d9a654cb86d2ef54c25666, type: 3}
 --- !u!1 &887483800
 GameObject:
