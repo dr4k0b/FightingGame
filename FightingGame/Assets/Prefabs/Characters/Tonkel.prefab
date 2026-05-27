@@ -1477,6 +1477,7 @@ MonoBehaviour:
   armAttack: {fileID: 3597003017374999316}
   weapon: {fileID: 8108193220233539840}
   StunnedVisual: {fileID: 5547569568080943425}
+  am: {fileID: 0}
 --- !u!114 &7530658709007922272
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -1499,7 +1500,7 @@ MonoBehaviour:
   acceleration: 2
   deacceleration: 2
   canMove: 0
-  maxHealth: 10
+  maxHealth: 12
   health: 0
   knockback: 2
   knockbackDeacceleration: 0.2
@@ -1532,6 +1533,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: '::'
   renderer: {fileID: 1465117221737655040}
   hurtmat: {fileID: 2100000, guid: 2f301e00692724c49a08c91028d588ec, type: 2}
+  am: {fileID: 0}
 --- !u!114 &7952818489501854706
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -1563,6 +1565,7 @@ MonoBehaviour:
   projectileStart: {fileID: 0}
   projectile: {fileID: 0}
   isRanged: 0
+  am: {fileID: 0}
 --- !u!1 &9131997053224466227
 GameObject:
   m_ObjectHideFlags: 0

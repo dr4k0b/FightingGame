@@ -1396,7 +1396,7 @@ MonoBehaviour:
   acceleration: 2
   deacceleration: 2
   canMove: 0
-  maxHealth: 10
+  maxHealth: 18
   health: 0
   knockback: 2
   knockbackDeacceleration: 0.2
