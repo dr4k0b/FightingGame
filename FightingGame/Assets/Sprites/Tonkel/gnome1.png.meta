@@ -1,10 +1,10 @@
 fileFormatVersion: 2
-guid: 7a2ed0800ff3323498e1ecb28fc5ba2d
+guid: 283e85b96f8569b4b8b92ac83e727078
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: 5865670524570963042
-    second: block_0
+      213: -2226903575844157435
+    second: gnome1_0
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -100,13 +100,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: block_0
+      name: gnome1_0
       rect:
         serializedVersion: 2
-        x: 46
-        y: 53
-        width: 45
-        height: 57
+        x: 0
+        y: 0
+        width: 46
+        height: 54
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -115,8 +115,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 26c0882b34c076150800000000000000
-      internalID: 5865670524570963042
+      spriteID: 50803c41ff27811e0800000000000000
+      internalID: -2226903575844157435
       vertices: []
       indices: 
       edges: []
@@ -135,7 +135,7 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      block_0: 5865670524570963042
+      gnome1_0: -2226903575844157435
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

@@ -1,10 +1,10 @@
 fileFormatVersion: 2
-guid: bb1007d3f9d9dc4489a38375cce13668
+guid: 3e41ec0fcabe26e49b35ac3b5464a8c7
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: -789177928629311453
-    second: gnomelightjab_11_0
+      213: 5196690463107487161
+    second: gnome2_0
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -37,7 +37,7 @@ TextureImporter:
   maxTextureSize: 2048
   textureSettings:
     serializedVersion: 2
-    filterMode: 1
+    filterMode: 0
     aniso: 1
     mipBias: 0
     wrapU: 1
@@ -72,10 +72,10 @@ TextureImporter:
   platformSettings:
   - serializedVersion: 4
     buildTarget: DefaultTexturePlatform
-    maxTextureSize: 2048
-    resizeAlgorithm: 0
+    maxTextureSize: 8192
+    resizeAlgorithm: 1
     textureFormat: -1
-    textureCompression: 1
+    textureCompression: 0
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
@@ -100,13 +100,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: gnomelightjab_11_0
+      name: gnome2_0
       rect:
         serializedVersion: 2
-        x: 45
-        y: 53
-        width: 48
-        height: 56
+        x: 0
+        y: 0
+        width: 46
+        height: 54
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -115,8 +115,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 328a87bead64c05f0800000000000000
-      internalID: -789177928629311453
+      spriteID: 9b59e25617a5e1840800000000000000
+      internalID: 5196690463107487161
       vertices: []
       indices: 
       edges: []
@@ -135,7 +135,7 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      gnomelightjab_11_0: -789177928629311453
+      gnome2_0: 5196690463107487161
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

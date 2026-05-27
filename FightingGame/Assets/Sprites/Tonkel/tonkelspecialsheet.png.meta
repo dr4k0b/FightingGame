@@ -1,0 +1,1582 @@
+fileFormatVersion: 2
+guid: 7373cf4af22e78241b191ecbba63a3e8
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4639051576863705091
+    second: tonkelspecialsheet_0
+  - first:
+      213: -4135096174417997255
+    second: tonkelspecialsheet_1
+  - first:
+      213: -429914054285255976
+    second: tonkelspecialsheet_2
+  - first:
+      213: 983797917406229565
+    second: tonkelspecialsheet_3
+  - first:
+      213: -683045321509738896
+    second: tonkelspecialsheet_4
+  - first:
+      213: -425805860952263654
+    second: tonkelspecialsheet_5
+  - first:
+      213: -1563622287632959246
+    second: tonkelspecialsheet_6
+  - first:
+      213: -4690697538979456013
+    second: tonkelspecialsheet_7
+  - first:
+      213: 2047315114845351576
+    second: tonkelspecialsheet_8
+  - first:
+      213: 4204071455646603176
+    second: tonkelspecialsheet_9
+  - first:
+      213: -1462622131947143205
+    second: tonkelspecialsheet_10
+  - first:
+      213: 6949721281271303956
+    second: tonkelspecialsheet_11
+  - first:
+      213: -4147225837205045679
+    second: tonkelspecialsheet_12
+  - first:
+      213: 302837042186627887
+    second: tonkelspecialsheet_13
+  - first:
+      213: -4686857363469749519
+    second: tonkelspecialsheet_14
+  - first:
+      213: 4000949140256836510
+    second: tonkelspecialsheet_15
+  - first:
+      213: -8872393439607924198
+    second: tonkelspecialsheet_16
+  - first:
+      213: -582690286828850659
+    second: tonkelspecialsheet_17
+  - first:
+      213: -7598892551381870843
+    second: tonkelspecialsheet_18
+  - first:
+      213: -6531675567329998764
+    second: tonkelspecialsheet_19
+  - first:
+      213: -3218999581715906430
+    second: tonkelspecialsheet_20
+  - first:
+      213: -2808122329097631868
+    second: tonkelspecialsheet_21
+  - first:
+      213: 5808132151276393
+    second: tonkelspecialsheet_22
+  - first:
+      213: -6650973746579617075
+    second: tonkelspecialsheet_23
+  - first:
+      213: 8047405973006752998
+    second: tonkelspecialsheet_24
+  - first:
+      213: -1643169510798456583
+    second: tonkelspecialsheet_25
+  - first:
+      213: -6516614340096812414
+    second: tonkelspecialsheet_26
+  - first:
+      213: 5265908524365979558
+    second: tonkelspecialsheet_27
+  - first:
+      213: -7059919263551792021
+    second: tonkelspecialsheet_28
+  - first:
+      213: 1150311910190566192
+    second: tonkelspecialsheet_29
+  - first:
+      213: 7750656030619977918
+    second: tonkelspecialsheet_30
+  - first:
+      213: 7039972956392764447
+    second: tonkelspecialsheet_31
+  - first:
+      213: 838067231465489111
+    second: tonkelspecialsheet_32
+  - first:
+      213: -4210919702400932741
+    second: tonkelspecialsheet_33
+  - first:
+      213: 922318372286633044
+    second: tonkelspecialsheet_34
+  - first:
+      213: 997408737438006022
+    second: tonkelspecialsheet_35
+  - first:
+      213: 5080823126755538675
+    second: tonkelspecialsheet_36
+  - first:
+      213: -949165776087769916
+    second: tonkelspecialsheet_37
+  - first:
+      213: -6371758464549690874
+    second: tonkelspecialsheet_38
+  - first:
+      213: -1231774147867568153
+    second: tonkelspecialsheet_39
+  - first:
+      213: -381276380240854406
+    second: tonkelspecialsheet_40
+  - first:
+      213: 6222109696326928078
+    second: tonkelspecialsheet_41
+  - first:
+      213: 4800360862490791039
+    second: tonkelspecialsheet_42
+  - first:
+      213: -3378713886131828340
+    second: tonkelspecialsheet_43
+  - first:
+      213: -7418086514211406604
+    second: tonkelspecialsheet_44
+  - first:
+      213: -470219249836766810
+    second: tonkelspecialsheet_45
+  - first:
+      213: -2096406999357824756
+    second: tonkelspecialsheet_46
+  - first:
+      213: -7823350968175215825
+    second: tonkelspecialsheet_47
+  - first:
+      213: 4785930788682489887
+    second: tonkelspecialsheet_48
+  - first:
+      213: -4737961947416579789
+    second: tonkelspecialsheet_49
+  - first:
+      213: -2737480641277156297
+    second: tonkelspecialsheet_50
+  - first:
+      213: 802770558110559523
+    second: tonkelspecialsheet_51
+  - first:
+      213: -7038117057465344662
+    second: tonkelspecialsheet_52
+  - first:
+      213: -7220065394213369449
+    second: tonkelspecialsheet_53
+  - first:
+      213: -3686970137340162299
+    second: tonkelspecialsheet_54
+  - first:
+      213: -3269563276612239898
+    second: tonkelspecialsheet_55
+  - first:
+      213: 6950503505456726856
+    second: tonkelspecialsheet_56
+  - first:
+      213: -5038688579740912216
+    second: tonkelspecialsheet_57
+  - first:
+      213: -1147160722371356672
+    second: tonkelspecialsheet_58
+  - first:
+      213: -2941961478473070714
+    second: tonkelspecialsheet_59
+  - first:
+      213: -6307019589602860834
+    second: tonkelspecialsheet_60
+  - first:
+      213: -7178759873851579682
+    second: tonkelspecialsheet_61
+  - first:
+      213: -1762323235058898965
+    second: tonkelspecialsheet_62
+  - first:
+      213: -9078879889586518377
+    second: tonkelspecialsheet_63
+  - first:
+      213: -6371779989797398947
+    second: tonkelspecialsheet_64
+  - first:
+      213: -6076111558886521494
+    second: tonkelspecialsheet_65
+  - first:
+      213: 1706535898207717743
+    second: tonkelspecialsheet_66
+  - first:
+      213: 5903470657080692564
+    second: tonkelspecialsheet_67
+  - first:
+      213: 5736737076035441114
+    second: tonkelspecialsheet_68
+  - first:
+      213: 456781352834243104
+    second: tonkelspecialsheet_69
+  - first:
+      213: -8332667968476581694
+    second: tonkelspecialsheet_70
+  - first:
+      213: 3978677554451489268
+    second: tonkelspecialsheet_71
+  - first:
+      213: 4080211947955747082
+    second: tonkelspecialsheet_72
+  - first:
+      213: 2514241029663790559
+    second: tonkelspecialsheet_73
+  - first:
+      213: 1860533704117629521
+    second: tonkelspecialsheet_74
+  - first:
+      213: 179090359324610132
+    second: tonkelspecialsheet_75
+  - first:
+      213: -6340110671297625967
+    second: tonkelspecialsheet_76
+  - first:
+      213: -7767614092228366894
+    second: tonkelspecialsheet_77
+  - first:
+      213: -3683345089752671150
+    second: tonkelspecialsheet_78
+  - first:
+      213: -3170171499311660230
+    second: tonkelspecialsheet_79
+  - first:
+      213: -8056989207735518932
+    second: tonkelspecialsheet_80
+  - first:
+      213: 18657129558455565
+    second: tonkelspecialsheet_81
+  - first:
+      213: -4179192948554057665
+    second: tonkelspecialsheet_82
+  - first:
+      213: 4972913264015380922
+    second: tonkelspecialsheet_83
+  - first:
+      213: 5757029249939257596
+    second: tonkelspecialsheet_84
+  - first:
+      213: -8240843822043404502
+    second: tonkelspecialsheet_85
+  - first:
+      213: 5642677851963612534
+    second: tonkelspecialsheet_86
+  - first:
+      213: -288314764898294007
+    second: tonkelspecialsheet_87
+  - first:
+      213: 2102066248904736412
+    second: tonkelspecialsheet_88
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 8192
+    resizeAlgorithm: 1
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: tonkelspecialsheet_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 250
+        height: 162
+      alignment: 9
+      pivot: {x: 0.21, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3084da594d8316040800000000000000
+      internalID: 4639051576863705091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tonkelspecialsheet_1
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 0
+        width: 250
+        height: 162
+      alignment: 9
+      pivot: {x: 0.21, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9321db320ff2d96c0800000000000000
+      internalID: -4135096174417997255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tonkelspecialsheet_2
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 0
+        width: 250
+        height: 162
+      alignment: 9
+      pivot: {x: 0.21, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8da11660273a80af0800000000000000
+      internalID: -429914054285255976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tonkelspecialsheet_3
+      rect:
+        serializedVersion: 2
+        x: 750
+        y: 0
+        width: 250
+        height: 162
+      alignment: 9
+      pivot: {x: 0.21, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3474c55ef627ad00800000000000000
+      internalID: 983797917406229565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tonkelspecialsheet_4
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 0
+        width: 250
+        height: 162
+      alignment: 9
+      pivot: {x: 0.21, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0766be526e55586f0800000000000000
+      internalID: -683045321509738896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tonkelspecialsheet_5
+      rect:
+        serializedVersion: 2
+        x: 1250
+        y: 0
+        width: 250
+        height: 162
+      alignment: 9
+      pivot: {x: 0.21, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1439a253db371af0800000000000000
+      internalID: -425805860952263654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tonkelspecialsheet_6
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 0
+        width: 250
+        height: 162
+      alignment: 9
+      pivot: {x: 0.21, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f8f0c650d5ec4ae0800000000000000
+      internalID: -1563622287632959246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tonkelspecialsheet_7
+      rect:
+        serializedVersion: 2
+        x: 1750
+        y: 0
+        width: 250
+        height: 162
+      alignment: 9
+      pivot: {x: 0.21, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3fb9450d07b47eeb0800000000000000
+      internalID: -4690697538979456013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tonkelspecialsheet_8
+      rect:
+        serializedVersion: 2
+        x: 2000
+        y: 0
+        width: 250
+        height: 162
+      alignment: 9
+      pivot: {x: 0.21, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89e25a3ff36896c10800000000000000
+      internalID: 2047315114845351576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tonkelspecialsheet_9
+      rect:
+        serializedVersion: 2
+        x: 2250
+        y: 0
+        width: 250
+        height: 162
+      alignment: 9
+      pivot: {x: 0.21, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a7dc2cf6bcd75a30800000000000000
+      internalID: 4204071455646603176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tonkelspecialsheet_10
+      rect:
+        serializedVersion: 2
+        x: 2500
+        y: 0
+        width: 250
+        height: 162
+      alignment: 9
+      pivot: {x: 0.21, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bdf7aa89be8b3bbe0800000000000000
+      internalID: -1462622131947143205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tonkelspecialsheet_11
+      rect:
+        serializedVersion: 2
+        x: 2750
+        y: 0
+        width: 250
+        height: 162
+      alignment: 9
+      pivot: {x: 0.21, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41f06222fae527060800000000000000
+      internalID: 6949721281271303956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tonkelspecialsheet_12
+      rect:
+        serializedVersion: 2
+        x: 3000
+        y: 0
+        width: 250
+        height: 162
+      alignment: 9
+      pivot: {x: 0.21, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15e3212f2181276c0800000000000000
+      internalID: -4147225837205045679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tonkelspecialsheet_13
+      rect:
+        serializedVersion: 2
+        x: 3250
+        y: 0
+        width: 250
+        height: 162
+      alignment: 9
+      pivot: {x: 0.21, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2b2d547fa4e33400800000000000000
+      internalID: 302837042186627887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tonkelspecialsheet_14
+      rect:
+        serializedVersion: 2
+        x: 3500
+        y: 0
+        width: 250
+        height: 162
+      alignment: 9
+      pivot: {x: 0.21, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f236795f00f4feb0800000000000000
+      internalID: -4686857363469749519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tonkelspecialsheet_15
+      rect:
+        serializedVersion: 2
+        x: 3750
+        y: 0
+        width: 250
+        height: 162
+      alignment: 9
+      pivot: {x: 0.21, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9bc96d8b0a368730800000000000000
+      internalID: 4000949140256836510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tonkelspecialsheet_16
+      rect:
+        serializedVersion: 2
+        x: 4000
+        y: 0
+        width: 250
+        height: 162
+      alignment: 9
+      pivot: {x: 0.21, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1ad9a4bc2deed480800000000000000
+      internalID: -8872393439607924198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tonkelspecialsheet_17
+      rect:
+        serializedVersion: 2
+        x: 4250
+        y: 0
+        width: 250
+        height: 162
+      alignment: 9
+      pivot: {x: 0.21, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d12fe77754ed9e7f0800000000000000
+      internalID: -582690286828850659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tonkelspecialsheet_18
+      rect:
+        serializedVersion: 2
+        x: 4500
+        y: 0
+        width: 250
+        height: 162
+      alignment: 9
+      pivot: {x: 0.21, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50795843c7f4b8690800000000000000
+      internalID: -7598892551381870843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tonkelspecialsheet_19
+      rect:
+        serializedVersion: 2
+        x: 4750
+        y: 0
+        width: 250
+        height: 162
+      alignment: 9
+      pivot: {x: 0.21, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45882358da3da55a0800000000000000
+      internalID: -6531675567329998764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tonkelspecialsheet_20
+      rect:
+        serializedVersion: 2
+        x: 5000
+        y: 0
+        width: 250
+        height: 162
+      alignment: 9
+      pivot: {x: 0.21, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28041b77fe0d353d0800000000000000
+      internalID: -3218999581715906430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tonkelspecialsheet_21
+      rect:
+        serializedVersion: 2
+        x: 5250
+        y: 0
+        width: 250
+        height: 162
+      alignment: 9
+      pivot: {x: 0.21, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4870b48ae9b8709d0800000000000000
+      internalID: -2808122329097631868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tonkelspecialsheet_22
+      rect:
+        serializedVersion: 2
+        x: 5500
+        y: 0
+        width: 250
+        height: 162
+      alignment: 9
+      pivot: {x: 0.21, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9637fa52772a41000800000000000000
+      internalID: 5808132151276393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tonkelspecialsheet_23
+      rect:
+        serializedVersion: 2
+        x: 5750
+        y: 0
+        width: 250
+        height: 162
+      alignment: 9
+      pivot: {x: 0.21, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dca4ca8ad9ef2b3a0800000000000000
+      internalID: -6650973746579617075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tonkelspecialsheet_24
+      rect:
+        serializedVersion: 2
+        x: 6000
+        y: 0
+        width: 250
+        height: 162
+      alignment: 9
+      pivot: {x: 0.21, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ec9c6078112eaf60800000000000000
+      internalID: 8047405973006752998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tonkelspecialsheet_25
+      rect:
+        serializedVersion: 2
+        x: 6250
+        y: 0
+        width: 250
+        height: 162
+      alignment: 9
+      pivot: {x: 0.21, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f80b1b290a4239e0800000000000000
+      internalID: -1643169510798456583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tonkelspecialsheet_26
+      rect:
+        serializedVersion: 2
+        x: 6500
+        y: 0
+        width: 250
+        height: 162
+      alignment: 9
+      pivot: {x: 0.21, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28a1050c8c55095a0800000000000000
+      internalID: -6516614340096812414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tonkelspecialsheet_27
+      rect:
+        serializedVersion: 2
+        x: 6750
+        y: 0
+        width: 250
+        height: 162
+      alignment: 9
+      pivot: {x: 0.21, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6af198627e3441940800000000000000
+      internalID: 5265908524365979558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tonkelspecialsheet_28
+      rect:
+        serializedVersion: 2
+        x: 7000
+        y: 0
+        width: 250
+        height: 162
+      alignment: 9
+      pivot: {x: 0.21, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6cde09b5d0260e90800000000000000
+      internalID: -7059919263551792021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tonkelspecialsheet_29
+      rect:
+        serializedVersion: 2
+        x: 7250
+        y: 0
+        width: 250
+        height: 162
+      alignment: 9
+      pivot: {x: 0.21, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03b4fc3769ab6ff00800000000000000
+      internalID: 1150311910190566192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tonkelspecialsheet_30
+      rect:
+        serializedVersion: 2
+        x: 7500
+        y: 0
+        width: 250
+        height: 162
+      alignment: 9
+      pivot: {x: 0.21, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb8c759589cdf8b60800000000000000
+      internalID: 7750656030619977918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tonkelspecialsheet_31
+      rect:
+        serializedVersion: 2
+        x: 7750
+        y: 0
+        width: 250
+        height: 162
+      alignment: 9
+      pivot: {x: 0.21, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f14b52eba1203b160800000000000000
+      internalID: 7039972956392764447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tonkelspecialsheet_32
+      rect:
+        serializedVersion: 2
+        x: 8000
+        y: 0
+        width: 250
+        height: 162
+      alignment: 9
+      pivot: {x: 0.21, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d2456de4b961ab00800000000000000
+      internalID: 838067231465489111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tonkelspecialsheet_33
+      rect:
+        serializedVersion: 2
+        x: 8250
+        y: 0
+        width: 250
+        height: 162
+      alignment: 9
+      pivot: {x: 0.21, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b74e2b057decf85c0800000000000000
+      internalID: -4210919702400932741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tonkelspecialsheet_34
+      rect:
+        serializedVersion: 2
+        x: 8500
+        y: 0
+        width: 250
+        height: 162
+      alignment: 9
+      pivot: {x: 0.21, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45416f54cabbccc00800000000000000
+      internalID: 922318372286633044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tonkelspecialsheet_35
+      rect:
+        serializedVersion: 2
+        x: 8750
+        y: 0
+        width: 250
+        height: 162
+      alignment: 9
+      pivot: {x: 0.21, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60bfcd256f187dd00800000000000000
+      internalID: 997408737438006022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tonkelspecialsheet_36
+      rect:
+        serializedVersion: 2
+        x: 9000
+        y: 0
+        width: 250
+        height: 162
+      alignment: 9
+      pivot: {x: 0.21, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f67ad4e6b5b28640800000000000000
+      internalID: 5080823126755538675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tonkelspecialsheet_37
+      rect:
+        serializedVersion: 2
+        x: 9250
+        y: 0
+        width: 250
+        height: 162
+      alignment: 9
+      pivot: {x: 0.21, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4cc945b61c2e3d2f0800000000000000
+      internalID: -949165776087769916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tonkelspecialsheet_38
+      rect:
+        serializedVersion: 2
+        x: 9500
+        y: 0
+        width: 250
+        height: 162
+      alignment: 9
+      pivot: {x: 0.21, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6026ded7f67f297a0800000000000000
+      internalID: -6371758464549690874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tonkelspecialsheet_39
+      rect:
+        serializedVersion: 2
+        x: 9750
+        y: 0
+        width: 250
+        height: 162
+      alignment: 9
+      pivot: {x: 0.21, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e718d050fbd7eee0800000000000000
+      internalID: -1231774147867568153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tonkelspecialsheet_40
+      rect:
+        serializedVersion: 2
+        x: 10000
+        y: 0
+        width: 250
+        height: 162
+      alignment: 9
+      pivot: {x: 0.21, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a724f7af62f65baf0800000000000000
+      internalID: -381276380240854406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tonkelspecialsheet_41
+      rect:
+        serializedVersion: 2
+        x: 10250
+        y: 0
+        width: 250
+        height: 162
+      alignment: 9
+      pivot: {x: 0.21, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec6841b7dcf595650800000000000000
+      internalID: 6222109696326928078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tonkelspecialsheet_42
+      rect:
+        serializedVersion: 2
+        x: 10500
+        y: 0
+        width: 250
+        height: 162
+      alignment: 9
+      pivot: {x: 0.21, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7c837265ce4e9240800000000000000
+      internalID: 4800360862490791039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tonkelspecialsheet_43
+      rect:
+        serializedVersion: 2
+        x: 10750
+        y: 0
+        width: 250
+        height: 162
+      alignment: 9
+      pivot: {x: 0.21, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c89ce6b2f956c11d0800000000000000
+      internalID: -3378713886131828340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tonkelspecialsheet_44
+      rect:
+        serializedVersion: 2
+        x: 11000
+        y: 0
+        width: 250
+        height: 162
+      alignment: 9
+      pivot: {x: 0.21, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4fc30573e99ad0990800000000000000
+      internalID: -7418086514211406604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tonkelspecialsheet_45
+      rect:
+        serializedVersion: 2
+        x: 11250
+        y: 0
+        width: 250
+        height: 162
+      alignment: 9
+      pivot: {x: 0.21, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a9cde665127979f0800000000000000
+      internalID: -470219249836766810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tonkelspecialsheet_46
+      rect:
+        serializedVersion: 2
+        x: 11500
+        y: 0
+        width: 250
+        height: 162
+      alignment: 9
+      pivot: {x: 0.21, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0162aaf0f018e2e0800000000000000
+      internalID: -2096406999357824756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tonkelspecialsheet_47
+      rect:
+        serializedVersion: 2
+        x: 11750
+        y: 0
+        width: 250
+        height: 162
+      alignment: 9
+      pivot: {x: 0.21, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2b35bc8ebfdd6390800000000000000
+      internalID: -7823350968175215825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tonkelspecialsheet_48
+      rect:
+        serializedVersion: 2
+        x: 12000
+        y: 0
+        width: 250
+        height: 162
+      alignment: 9
+      pivot: {x: 0.21, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f10660302ba0b6240800000000000000
+      internalID: 4785930788682489887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tonkelspecialsheet_49
+      rect:
+        serializedVersion: 2
+        x: 12250
+        y: 0
+        width: 250
+        height: 162
+      alignment: 9
+      pivot: {x: 0.21, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 331baec26b06f3eb0800000000000000
+      internalID: -4737961947416579789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tonkelspecialsheet_50
+      rect:
+        serializedVersion: 2
+        x: 12500
+        y: 0
+        width: 250
+        height: 162
+      alignment: 9
+      pivot: {x: 0.21, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 734aa2d4cd3820ad0800000000000000
+      internalID: -2737480641277156297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tonkelspecialsheet_51
+      rect:
+        serializedVersion: 2
+        x: 12750
+        y: 0
+        width: 250
+        height: 162
+      alignment: 9
+      pivot: {x: 0.21, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32d6250c193042b00800000000000000
+      internalID: 802770558110559523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 3df8aa30b967b2e48844e943168fb28c
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":1.0,"y":1.0},"gridSpriteSize":{"x":250.0,"y":162.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.20999999344348908,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":9,"pivotUnitMode":0,"slicingType":1,"keepEmptyRects":false,"isAlternate":false}'
+    nameFileIdTable:
+      tonkelspecialsheet_0: 4639051576863705091
+      tonkelspecialsheet_1: -4135096174417997255
+      tonkelspecialsheet_10: -1462622131947143205
+      tonkelspecialsheet_11: 6949721281271303956
+      tonkelspecialsheet_12: -4147225837205045679
+      tonkelspecialsheet_13: 302837042186627887
+      tonkelspecialsheet_14: -4686857363469749519
+      tonkelspecialsheet_15: 4000949140256836510
+      tonkelspecialsheet_16: -8872393439607924198
+      tonkelspecialsheet_17: -582690286828850659
+      tonkelspecialsheet_18: -7598892551381870843
+      tonkelspecialsheet_19: -6531675567329998764
+      tonkelspecialsheet_2: -429914054285255976
+      tonkelspecialsheet_20: -3218999581715906430
+      tonkelspecialsheet_21: -2808122329097631868
+      tonkelspecialsheet_22: 5808132151276393
+      tonkelspecialsheet_23: -6650973746579617075
+      tonkelspecialsheet_24: 8047405973006752998
+      tonkelspecialsheet_25: -1643169510798456583
+      tonkelspecialsheet_26: -6516614340096812414
+      tonkelspecialsheet_27: 5265908524365979558
+      tonkelspecialsheet_28: -7059919263551792021
+      tonkelspecialsheet_29: 1150311910190566192
+      tonkelspecialsheet_3: 983797917406229565
+      tonkelspecialsheet_30: 7750656030619977918
+      tonkelspecialsheet_31: 7039972956392764447
+      tonkelspecialsheet_32: 838067231465489111
+      tonkelspecialsheet_33: -4210919702400932741
+      tonkelspecialsheet_34: 922318372286633044
+      tonkelspecialsheet_35: 997408737438006022
+      tonkelspecialsheet_36: 5080823126755538675
+      tonkelspecialsheet_37: -949165776087769916
+      tonkelspecialsheet_38: -6371758464549690874
+      tonkelspecialsheet_39: -1231774147867568153
+      tonkelspecialsheet_4: -683045321509738896
+      tonkelspecialsheet_40: -381276380240854406
+      tonkelspecialsheet_41: 6222109696326928078
+      tonkelspecialsheet_42: 4800360862490791039
+      tonkelspecialsheet_43: -3378713886131828340
+      tonkelspecialsheet_44: -7418086514211406604
+      tonkelspecialsheet_45: -470219249836766810
+      tonkelspecialsheet_46: -2096406999357824756
+      tonkelspecialsheet_47: -7823350968175215825
+      tonkelspecialsheet_48: 4785930788682489887
+      tonkelspecialsheet_49: -4737961947416579789
+      tonkelspecialsheet_5: -425805860952263654
+      tonkelspecialsheet_50: -2737480641277156297
+      tonkelspecialsheet_51: 802770558110559523
+      tonkelspecialsheet_6: -1563622287632959246
+      tonkelspecialsheet_7: -4690697538979456013
+      tonkelspecialsheet_8: 2047315114845351576
+      tonkelspecialsheet_9: 4204071455646603176
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
