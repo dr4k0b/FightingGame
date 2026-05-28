@@ -13,6 +13,7 @@ public class PlayerAttack : MonoBehaviour
     {
         p = GetComponent<PlayerInformation>();
         am = GetComponent<AudioManager>();
+        weapon.transform.localPosition = Vector3.down * 1000;
     }
     private void Update()
     {
