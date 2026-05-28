@@ -1555,7 +1555,7 @@ MonoBehaviour:
     loop: 0
     source: {fileID: 0}
   - name: Special
-    clip: {fileID: 0}
+    clip: {fileID: 8300000, guid: 75dc94aded01cfb4593797b2d58d9739, type: 3}
     volume: 1
     loop: 0
     source: {fileID: 0}
