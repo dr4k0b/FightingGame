@@ -1,0 +1,910 @@
+fileFormatVersion: 2
+guid: e17bb3afa8c90084b9a8a30e87496791
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1560906815542389518
+    second: DriveHard_Heavyattack_0
+  - first:
+      213: 6922405921723818108
+    second: DriveHard_Heavyattack_1
+  - first:
+      213: 4162624773942923090
+    second: DriveHard_Heavyattack_2
+  - first:
+      213: -1448060940764169083
+    second: DriveHard_Heavyattack_3
+  - first:
+      213: -4387592928185966938
+    second: DriveHard_Heavyattack_4
+  - first:
+      213: -5623584136640043773
+    second: DriveHard_Heavyattack_5
+  - first:
+      213: -3821487645207319174
+    second: DriveHard_Heavyattack_6
+  - first:
+      213: 4271877586893799743
+    second: DriveHard_Heavyattack_7
+  - first:
+      213: -3991803513426834150
+    second: DriveHard_Heavyattack_8
+  - first:
+      213: -2522626936658334536
+    second: DriveHard_Heavyattack_9
+  - first:
+      213: 4450707786255123186
+    second: DriveHard_Heavyattack_10
+  - first:
+      213: 7101765650319510306
+    second: DriveHard_Heavyattack_11
+  - first:
+      213: -1244286520213004010
+    second: DriveHard_Heavyattack_12
+  - first:
+      213: -4546038246459742951
+    second: DriveHard_Heavyattack_13
+  - first:
+      213: 1748747015588567280
+    second: DriveHard_Heavyattack_14
+  - first:
+      213: -1485697715283800230
+    second: DriveHard_Heavyattack_15
+  - first:
+      213: 8167184801472134746
+    second: DriveHard_Heavyattack_16
+  - first:
+      213: 6143969777285096176
+    second: DriveHard_Heavyattack_17
+  - first:
+      213: -1374217720146665128
+    second: DriveHard_Heavyattack_18
+  - first:
+      213: 7418208846436871382
+    second: DriveHard_Heavyattack_19
+  - first:
+      213: 7947192981346371658
+    second: DriveHard_Heavyattack_20
+  - first:
+      213: 8618340770879221651
+    second: DriveHard_Heavyattack_21
+  - first:
+      213: -3118367336977704339
+    second: DriveHard_Heavyattack_22
+  - first:
+      213: -1270173571522657958
+    second: DriveHard_Heavyattack_23
+  - first:
+      213: -6043032075414777854
+    second: DriveHard_Heavyattack_24
+  - first:
+      213: -2863679118782040257
+    second: DriveHard_Heavyattack_25
+  - first:
+      213: 7121192949938888568
+    second: DriveHard_Heavyattack_26
+  - first:
+      213: -8524954900654843963
+    second: DriveHard_Heavyattack_27
+  - first:
+      213: -1138278824607261879
+    second: DriveHard_Heavyattack_28
+  - first:
+      213: -1990501001376366863
+    second: DriveHard_Heavyattack_29
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: DriveHard_Heavyattack_0
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 254
+        width: 62
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f41c14758b865ae0800000000000000
+      internalID: -1560906815542389518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DriveHard_Heavyattack_1
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 254
+        width: 62
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c70a8636283511060800000000000000
+      internalID: 6922405921723818108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DriveHard_Heavyattack_2
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 254
+        width: 58
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25fcb186d2d94c930800000000000000
+      internalID: 4162624773942923090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DriveHard_Heavyattack_3
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 254
+        width: 55
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58c32ac1f3477ebe0800000000000000
+      internalID: -1448060940764169083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DriveHard_Heavyattack_4
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 254
+        width: 53
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ae95707a732c13c0800000000000000
+      internalID: -4387592928185966938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DriveHard_Heavyattack_5
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 211
+        width: 68
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3056c03d50405f1b0800000000000000
+      internalID: -5623584136640043773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DriveHard_Heavyattack_6
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 208
+        width: 41
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7dafd9db3957fac0800000000000000
+      internalID: -3821487645207319174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DriveHard_Heavyattack_7
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 207
+        width: 32
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3102ca2802c84b30800000000000000
+      internalID: 4271877586893799743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DriveHard_Heavyattack_8
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 211
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1d8901aad34a98c0800000000000000
+      internalID: -3991803513426834150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DriveHard_Heavyattack_9
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 208
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8bce5a3aa24ddfcd0800000000000000
+      internalID: -2522626936658334536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DriveHard_Heavyattack_10
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 205
+        width: 42
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f24dc6962714cd30800000000000000
+      internalID: 4450707786255123186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DriveHard_Heavyattack_11
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 205
+        width: 47
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22b8d517b3a8e8260800000000000000
+      internalID: 7101765650319510306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DriveHard_Heavyattack_12
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 204
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 611a5eb90086bbee0800000000000000
+      internalID: -1244286520213004010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DriveHard_Heavyattack_13
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 158
+        width: 68
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9156d600d4a39e0c0800000000000000
+      internalID: -4546038246459742951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DriveHard_Heavyattack_14
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 158
+        width: 41
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f85e2a352cc44810800000000000000
+      internalID: 1748747015588567280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DriveHard_Heavyattack_15
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 158
+        width: 28
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5f46ecaccdb16be0800000000000000
+      internalID: -1485697715283800230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DriveHard_Heavyattack_16
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 158
+        width: 42
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5e37ba2e4ba75170800000000000000
+      internalID: 8167184801472134746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DriveHard_Heavyattack_17
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 158
+        width: 62
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f260d5d5f3c34550800000000000000
+      internalID: 6143969777285096176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DriveHard_Heavyattack_18
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 110
+        width: 62
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8516c92b34ccdece0800000000000000
+      internalID: -1374217720146665128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DriveHard_Heavyattack_19
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 110
+        width: 62
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6dca78974a5c2f660800000000000000
+      internalID: 7418208846436871382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DriveHard_Heavyattack_20
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 110
+        width: 62
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a48c0a619e91a4e60800000000000000
+      internalID: 7947192981346371658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DriveHard_Heavyattack_21
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 110
+        width: 62
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39fa589e44f7a9770800000000000000
+      internalID: 8618340770879221651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DriveHard_Heavyattack_22
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 110
+        width: 62
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6a5348cd6559b4d0800000000000000
+      internalID: -3118367336977704339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DriveHard_Heavyattack_23
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 62
+        width: 62
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a518d4acddf6f5ee0800000000000000
+      internalID: -1270173571522657958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DriveHard_Heavyattack_24
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 62
+        width: 62
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2005c924856d22ca0800000000000000
+      internalID: -6043032075414777854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DriveHard_Heavyattack_25
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 62
+        width: 62
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f37fa4e830b2248d0800000000000000
+      internalID: -2863679118782040257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DriveHard_Heavyattack_26
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 62
+        width: 62
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87f9f1e124f83d260800000000000000
+      internalID: 7121192949938888568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DriveHard_Heavyattack_27
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 62
+        width: 62
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c71e3c5fa641b980800000000000000
+      internalID: -8524954900654843963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DriveHard_Heavyattack_28
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 14
+        width: 62
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94b5feb90750430f0800000000000000
+      internalID: -1138278824607261879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DriveHard_Heavyattack_29
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 14
+        width: 62
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1fef6e7a2e15064e0800000000000000
+      internalID: -1990501001376366863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      DriveHard_Heavyattack_0: -1560906815542389518
+      DriveHard_Heavyattack_1: 6922405921723818108
+      DriveHard_Heavyattack_10: 4450707786255123186
+      DriveHard_Heavyattack_11: 7101765650319510306
+      DriveHard_Heavyattack_12: -1244286520213004010
+      DriveHard_Heavyattack_13: -4546038246459742951
+      DriveHard_Heavyattack_14: 1748747015588567280
+      DriveHard_Heavyattack_15: -1485697715283800230
+      DriveHard_Heavyattack_16: 8167184801472134746
+      DriveHard_Heavyattack_17: 6143969777285096176
+      DriveHard_Heavyattack_18: -1374217720146665128
+      DriveHard_Heavyattack_19: 7418208846436871382
+      DriveHard_Heavyattack_2: 4162624773942923090
+      DriveHard_Heavyattack_20: 7947192981346371658
+      DriveHard_Heavyattack_21: 8618340770879221651
+      DriveHard_Heavyattack_22: -3118367336977704339
+      DriveHard_Heavyattack_23: -1270173571522657958
+      DriveHard_Heavyattack_24: -6043032075414777854
+      DriveHard_Heavyattack_25: -2863679118782040257
+      DriveHard_Heavyattack_26: 7121192949938888568
+      DriveHard_Heavyattack_27: -8524954900654843963
+      DriveHard_Heavyattack_28: -1138278824607261879
+      DriveHard_Heavyattack_29: -1990501001376366863
+      DriveHard_Heavyattack_3: -1448060940764169083
+      DriveHard_Heavyattack_4: -4387592928185966938
+      DriveHard_Heavyattack_5: -5623584136640043773
+      DriveHard_Heavyattack_6: -3821487645207319174
+      DriveHard_Heavyattack_7: 4271877586893799743
+      DriveHard_Heavyattack_8: -3991803513426834150
+      DriveHard_Heavyattack_9: -2522626936658334536
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1586,7 +1586,7 @@ MonoBehaviour:
     loop: 0
     source: {fileID: 0}
   - name: Attack
-    clip: {fileID: 8300000, guid: 8dfb2cbe8846ffc4e8152eb35a759b1e, type: 3}
+    clip: {fileID: 8300000, guid: 3a3c8cfe263895e41863e78d26fae0c3, type: 3}
     volume: 1
     loop: 0
     source: {fileID: 0}
@@ -1602,6 +1602,11 @@ MonoBehaviour:
     source: {fileID: 0}
   - name: Death
     clip: {fileID: 8300000, guid: 62c07239761522b4aa6f0a6812fbced9, type: 3}
+    volume: 1
+    loop: 0
+    source: {fileID: 0}
+  - name: Parry
+    clip: {fileID: 8300000, guid: dcd02e78f3c7aeb45b7ddad040881d75, type: 3}
     volume: 1
     loop: 0
     source: {fileID: 0}

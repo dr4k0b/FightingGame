@@ -1492,7 +1492,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: '::'
   thisPlayer: 0
-  characterName: "Tonkel \xC4rkel LVII"
+  characterName: Tonkel Arkel LVII
   windUp: 0.6
   Hurt: 0.4
   cooldown: 0.4
@@ -1586,7 +1586,7 @@ MonoBehaviour:
     loop: 0
     source: {fileID: 0}
   - name: Attack
-    clip: {fileID: 0}
+    clip: {fileID: 8300000, guid: 3a3c8cfe263895e41863e78d26fae0c3, type: 3}
     volume: 1
     loop: 0
     source: {fileID: 0}
@@ -1596,12 +1596,17 @@ MonoBehaviour:
     loop: 0
     source: {fileID: 0}
   - name: Hurt
-    clip: {fileID: 0}
+    clip: {fileID: 8300000, guid: 36dcd771003caf640ab3cc582a27a2c8, type: 3}
     volume: 1
     loop: 0
     source: {fileID: 0}
   - name: Death
-    clip: {fileID: 0}
+    clip: {fileID: 8300000, guid: 1d978355b35b1ce4b87f2c16f1fdc4f9, type: 3}
+    volume: 1
+    loop: 0
+    source: {fileID: 0}
+  - name: Parry
+    clip: {fileID: 8300000, guid: dcd02e78f3c7aeb45b7ddad040881d75, type: 3}
     volume: 1
     loop: 0
     source: {fileID: 0}

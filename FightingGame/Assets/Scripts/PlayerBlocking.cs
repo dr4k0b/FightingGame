@@ -5,9 +5,11 @@ public class PlayerBlocking : MonoBehaviour
     PlayerInformation p;
     public GameObject Visual;
     bool success;
+    AudioManager am;
     void Start()
     {
         p = GetComponent<PlayerInformation>();
+        am = GetComponent<AudioManager>();
     }
     private void Update()
     {
@@ -22,6 +24,7 @@ public class PlayerBlocking : MonoBehaviour
     }
     public void Succesfull()
     {
+        am.Play("Parry");
         success = true;
         p.isParrying = false;
         p.block = false;

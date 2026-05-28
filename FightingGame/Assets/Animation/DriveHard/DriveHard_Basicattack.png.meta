@@ -1,0 +1,702 @@
+fileFormatVersion: 2
+guid: 5d499277e2450b541b73064cb96ce110
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -7191196658265299938
+    second: DriveHard_Basicattack_0
+  - first:
+      213: 1233324452247551319
+    second: DriveHard_Basicattack_1
+  - first:
+      213: -2218721110899589015
+    second: DriveHard_Basicattack_2
+  - first:
+      213: 1999684190910121570
+    second: DriveHard_Basicattack_3
+  - first:
+      213: -5287748666199872736
+    second: DriveHard_Basicattack_4
+  - first:
+      213: 1133061264405518407
+    second: DriveHard_Basicattack_5
+  - first:
+      213: -736208669682637137
+    second: DriveHard_Basicattack_6
+  - first:
+      213: -8760574332994093099
+    second: DriveHard_Basicattack_7
+  - first:
+      213: 6802094087361324712
+    second: DriveHard_Basicattack_8
+  - first:
+      213: -6707122226470332101
+    second: DriveHard_Basicattack_9
+  - first:
+      213: -398954778969242359
+    second: DriveHard_Basicattack_10
+  - first:
+      213: -7151994308081600353
+    second: DriveHard_Basicattack_11
+  - first:
+      213: -3211030254426918614
+    second: DriveHard_Basicattack_12
+  - first:
+      213: -8172386574535804717
+    second: DriveHard_Basicattack_13
+  - first:
+      213: 976837929637838574
+    second: DriveHard_Basicattack_14
+  - first:
+      213: -272416892766907677
+    second: DriveHard_Basicattack_15
+  - first:
+      213: 1347690957141474754
+    second: DriveHard_Basicattack_16
+  - first:
+      213: -8427971819433882469
+    second: DriveHard_Basicattack_17
+  - first:
+      213: 5670766377855753777
+    second: DriveHard_Basicattack_18
+  - first:
+      213: -2905281697974437963
+    second: DriveHard_Basicattack_19
+  - first:
+      213: -694070002705696750
+    second: DriveHard_Basicattack_20
+  - first:
+      213: -9192204044871691892
+    second: DriveHard_Basicattack_21
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: DriveHard_Basicattack_0
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 158
+        width: 61
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e14ee1a6dbcb33c90800000000000000
+      internalID: -7191196658265299938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DriveHard_Basicattack_1
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 158
+        width: 54
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75db40d0e06ad1110800000000000000
+      internalID: 1233324452247551319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DriveHard_Basicattack_2
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 158
+        width: 41
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9608b29a7e48531e0800000000000000
+      internalID: -2218721110899589015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DriveHard_Basicattack_3
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 158
+        width: 35
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26689264d2e40cb10800000000000000
+      internalID: 1999684190910121570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DriveHard_Basicattack_4
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 157
+        width: 30
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02b6c919a942e96b0800000000000000
+      internalID: -5287748666199872736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DriveHard_Basicattack_5
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 109
+        width: 29
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74855ad773179bf00800000000000000
+      internalID: 1133061264405518407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DriveHard_Basicattack_6
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 110
+        width: 32
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa6e0039d1678c5f0800000000000000
+      internalID: -736208669682637137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DriveHard_Basicattack_7
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 114
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5df7b754f003c6680800000000000000
+      internalID: -8760574332994093099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DriveHard_Basicattack_8
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 111
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a6e4fd8884e56e50800000000000000
+      internalID: 6802094087361324712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DriveHard_Basicattack_9
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 106
+        width: 40
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b39db12fed38be2a0800000000000000
+      internalID: -6707122226470332101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DriveHard_Basicattack_10
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 110
+        width: 33
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90508160eb0a67af0800000000000000
+      internalID: -398954778969242359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DriveHard_Basicattack_11
+      rect:
+        serializedVersion: 2
+        x: 439
+        y: 110
+        width: 41
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f983e27d1130fbc90800000000000000
+      internalID: -7151994308081600353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DriveHard_Basicattack_12
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 107
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a21f9d11ff02073d0800000000000000
+      internalID: -3211030254426918614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DriveHard_Basicattack_13
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 62
+        width: 42
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d83f99a5b9d59e80800000000000000
+      internalID: -8172386574535804717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DriveHard_Basicattack_14
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 62
+        width: 60
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eeef037ebec6e8d00800000000000000
+      internalID: 976837929637838574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DriveHard_Basicattack_15
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 62
+        width: 62
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e210d3874e283cf0800000000000000
+      internalID: -272416892766907677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DriveHard_Basicattack_16
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 62
+        width: 62
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2cd7c6ff8c5f3b210800000000000000
+      internalID: 1347690957141474754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DriveHard_Basicattack_17
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 62
+        width: 62
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9c04a59844d90b80800000000000000
+      internalID: -8427971819433882469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DriveHard_Basicattack_18
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 14
+        width: 62
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13e1254c9fb92be40800000000000000
+      internalID: 5670766377855753777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DriveHard_Basicattack_19
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 14
+        width: 62
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b73ac340bd5ea7d0800000000000000
+      internalID: -2905281697974437963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DriveHard_Basicattack_20
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 14
+        width: 62
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 218f877820b2e56f0800000000000000
+      internalID: -694070002705696750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DriveHard_Basicattack_21
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 14
+        width: 62
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c819382af1bbe6080800000000000000
+      internalID: -9192204044871691892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      DriveHard_Basicattack_0: -7191196658265299938
+      DriveHard_Basicattack_1: 1233324452247551319
+      DriveHard_Basicattack_10: -398954778969242359
+      DriveHard_Basicattack_11: -7151994308081600353
+      DriveHard_Basicattack_12: -3211030254426918614
+      DriveHard_Basicattack_13: -8172386574535804717
+      DriveHard_Basicattack_14: 976837929637838574
+      DriveHard_Basicattack_15: -272416892766907677
+      DriveHard_Basicattack_16: 1347690957141474754
+      DriveHard_Basicattack_17: -8427971819433882469
+      DriveHard_Basicattack_18: 5670766377855753777
+      DriveHard_Basicattack_19: -2905281697974437963
+      DriveHard_Basicattack_2: -2218721110899589015
+      DriveHard_Basicattack_20: -694070002705696750
+      DriveHard_Basicattack_21: -9192204044871691892
+      DriveHard_Basicattack_3: 1999684190910121570
+      DriveHard_Basicattack_4: -5287748666199872736
+      DriveHard_Basicattack_5: 1133061264405518407
+      DriveHard_Basicattack_6: -736208669682637137
+      DriveHard_Basicattack_7: -8760574332994093099
+      DriveHard_Basicattack_8: 6802094087361324712
+      DriveHard_Basicattack_9: -6707122226470332101
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

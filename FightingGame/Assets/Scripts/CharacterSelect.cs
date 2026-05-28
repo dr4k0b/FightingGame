@@ -14,8 +14,8 @@ public class CharacterSelect : MonoBehaviour
     [HideInInspector]
     public SelectInput p2Choice;
 
-    public Image p1Preview;
-    public Image p2Preview;
+    public Image[] p1Preview;
+    public Image[] p2Preview;
 
     public TMP_Text p1Text;
     public TMP_Text p2Text;
@@ -26,10 +26,13 @@ public class CharacterSelect : MonoBehaviour
     public GameObject inputPrefab;
     GlobalInformation g;
 
+    public AudioManager am;
+
     public List<GameObject> characters = new List<GameObject>();
     void Start()
     {
         g = FindFirstObjectByType<GlobalInformation>();
+        am = GetComponent<AudioManager>();
 
         join(g.p1Controller);
         join(g.p2Controller);
@@ -76,10 +79,11 @@ public class CharacterSelect : MonoBehaviour
 
     public int ChooseCharacter(SelectInput choice)
     {
-        if (Mathf.Abs(choice.choiceDir.x) > 0.1f && !choice.ready)
+        if (Mathf.Abs(choice.choiceDir.x) > 0.7f && !choice.ready)
         {
             if (choice.switched == false)
             {
+                am.Play("Switch");
                 choice.choice += (int)(Mathf.Abs(choice.choiceDir.x) / choice.choiceDir.x);
 
                 if (choice.choice < 0) choice.choice = characters.Count - 1;
@@ -93,14 +97,32 @@ public class CharacterSelect : MonoBehaviour
             choice.switched = false;
         }
 
+
+
         if (choice.thisPlayer == Player.Player1 && g.player1Character)
         {
-            p1Preview.sprite = g.player1Character.GetComponentInChildren<SpriteRenderer>().sprite;
+            for (int i = 0; i < characters.Count; i++)
+            {
+                p1Preview[i].gameObject.SetActive(false);
+
+                if (i == p1Choice.choice)
+                {
+                    p1Preview[i].gameObject.SetActive(true);
+                }
+            }
         }
 
         if (choice.thisPlayer == Player.Player2 && g.player2Character)
         {
-            p2Preview.sprite = g.player2Character.GetComponentInChildren<SpriteRenderer>().sprite;
+            for (int i = 0; i < characters.Count; i++)
+            {
+                p2Preview[i].gameObject.SetActive(false);
+
+                if (i == p2Choice.choice)
+                {
+                    p2Preview[i].gameObject.SetActive(true);
+                }
+            }
         }
 
         return choice.choice;

@@ -45,6 +45,7 @@ public class PlayerHealth : MonoBehaviour
         if (g.gameOver && !died)
         {
             p.animator.SetTrigger("Next");
+            am.Play("Death");
             died = true;
         }
 

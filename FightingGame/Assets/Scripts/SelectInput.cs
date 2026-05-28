@@ -23,14 +23,20 @@ public class SelectInput : MonoBehaviour
     CharacterSelect cs;
     GlobalInformation g;
 
-    int score;
+    float selectDelay;
+
+    private void Update()
+    {
+        selectDelay -= Time.deltaTime;
+    }
+
     void Start()
     {
 
         cs = FindFirstObjectByType<CharacterSelect>();
         g = FindAnyObjectByType<GlobalInformation>();
 
-        if (cs.p1Choice == null )
+        if (cs.p1Choice == null)
         {
             cs.p1Choice = this;
             thisPlayer = Player.Player1;
@@ -51,6 +57,15 @@ public class SelectInput : MonoBehaviour
     }
     public void Ready()
     {
-        ready = !ready;
+        if (selectDelay <= 0)
+        {
+            ready = !ready;
+            selectDelay = .5f;
+
+            if (ready)
+            {
+                cs.am.Play("Select");
+            }
+        }
     }
 }

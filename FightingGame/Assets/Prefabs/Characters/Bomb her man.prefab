@@ -1569,6 +1569,11 @@ MonoBehaviour:
     volume: 1
     loop: 0
     source: {fileID: 0}
+  - name: Parry
+    clip: {fileID: 8300000, guid: dcd02e78f3c7aeb45b7ddad040881d75, type: 3}
+    volume: 1
+    loop: 0
+    source: {fileID: 0}
 --- !u!1 &8447995521203024562
 GameObject:
   m_ObjectHideFlags: 0

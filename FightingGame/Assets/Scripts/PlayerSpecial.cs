@@ -61,7 +61,7 @@ public class PlayerSpecial : MonoBehaviour
 
     IEnumerator RestartDelay()
     {
-        yield return new WaitForSeconds(1);
+        yield return new WaitForSeconds(3);
         canrestart = true;
     }
     IEnumerator SpecialMelee()
