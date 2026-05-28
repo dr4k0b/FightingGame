@@ -96,7 +96,7 @@ TextureImporter:
   platformSettings:
   - serializedVersion: 4
     buildTarget: DefaultTexturePlatform
-    maxTextureSize: 2048
+    maxTextureSize: 512
     resizeAlgorithm: 0
     textureFormat: -1
     textureCompression: 1
@@ -140,12 +140,12 @@ TextureImporter:
       name: DriveHard_death_0
       rect:
         serializedVersion: 2
-        x: 34
-        y: 60
-        width: 34
-        height: 23
+        x: 0
+        y: 48
+        width: 96
+        height: 48
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -162,12 +162,12 @@ TextureImporter:
       name: DriveHard_death_1
       rect:
         serializedVersion: 2
-        x: 116
-        y: 56
-        width: 59
-        height: 33
+        x: 96
+        y: 48
+        width: 96
+        height: 48
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -184,12 +184,12 @@ TextureImporter:
       name: DriveHard_death_2
       rect:
         serializedVersion: 2
-        x: 199
-        y: 51
-        width: 80
-        height: 42
+        x: 192
+        y: 48
+        width: 96
+        height: 48
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -206,12 +206,12 @@ TextureImporter:
       name: DriveHard_death_3
       rect:
         serializedVersion: 2
-        x: 293
-        y: 49
-        width: 85
-        height: 47
+        x: 288
+        y: 48
+        width: 96
+        height: 48
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -228,12 +228,12 @@ TextureImporter:
       name: DriveHard_death_4
       rect:
         serializedVersion: 2
-        x: 391
-        y: 51
-        width: 80
-        height: 42
+        x: 384
+        y: 48
+        width: 96
+        height: 48
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -250,12 +250,12 @@ TextureImporter:
       name: DriveHard_death_5
       rect:
         serializedVersion: 2
-        x: 5
-        y: 1
-        width: 85
-        height: 47
+        x: 0
+        y: 0
+        width: 96
+        height: 48
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -272,12 +272,12 @@ TextureImporter:
       name: DriveHard_death_6
       rect:
         serializedVersion: 2
-        x: 103
-        y: 3
-        width: 80
-        height: 42
+        x: 96
+        y: 0
+        width: 96
+        height: 48
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -294,12 +294,12 @@ TextureImporter:
       name: DriveHard_death_7
       rect:
         serializedVersion: 2
-        x: 197
-        y: 1
-        width: 85
-        height: 47
+        x: 192
+        y: 0
+        width: 96
+        height: 48
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -316,12 +316,12 @@ TextureImporter:
       name: DriveHard_death_8
       rect:
         serializedVersion: 2
-        x: 295
-        y: 3
-        width: 80
-        height: 42
+        x: 288
+        y: 0
+        width: 96
+        height: 48
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -338,7 +338,7 @@ TextureImporter:
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 
+    spriteID: cf362d0439d633e4ca08cbd19435a1d0
     internalID: 0
     vertices: []
     indices: 
@@ -346,7 +346,9 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     spriteCustomMetadata:
-      entries: []
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":1.0,"y":1.0},"gridSpriteSize":{"x":96.0,"y":48.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":1,"keepEmptyRects":false,"isAlternate":false}'
     nameFileIdTable:
       DriveHard_death_0: -2243559074712558373
       DriveHard_death_1: 126001376718266673

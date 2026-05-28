@@ -858,7 +858,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: '::'
   PlayerInformation: {fileID: 7530658709007922272}
-  damage: 2
+  damage: 4
   isProjectile: 0
 --- !u!1 &6153047884873650298
 GameObject:

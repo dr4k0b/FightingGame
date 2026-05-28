@@ -26,8 +26,8 @@ Transform:
   m_GameObject: {fileID: 1135541647503850936}
   serializedVersion: 2
   m_LocalRotation: {x: -0, y: -0, z: -0.70710677, w: 0.7071068}
-  m_LocalPosition: {x: 1.141, y: 1.2562, z: 0}
-  m_LocalScale: {x: 3.2813478, y: 1.0587777, z: 1}
+  m_LocalPosition: {x: 3.9514, y: 0.2167, z: 0}
+  m_LocalScale: {x: 2.3548505, y: 1.2000422, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 8063169130549866959}
@@ -118,8 +118,8 @@ Transform:
   m_GameObject: {fileID: 3526065978422055250}
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 1.9421, y: 0.9859, z: 0}
-  m_LocalScale: {x: 1.824276, y: 3.9719, z: 1}
+  m_LocalPosition: {x: 2.6473, y: 0.1799, z: 0}
+  m_LocalScale: {x: 4.84133, y: 2.2917864, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 1934349995818312218}
@@ -170,7 +170,7 @@ SpriteRenderer:
   m_GlobalIlluminationMeshLod: 0
   m_SortingLayerID: 0
   m_SortingLayer: 0
-  m_SortingOrder: 1
+  m_SortingOrder: -1
   m_Sprite: {fileID: 7482667652216324306, guid: 311925a002f4447b3a28927169b83ea6, type: 3}
   m_Color: {r: 1, g: 0, b: 0, a: 1}
   m_FlipX: 0
@@ -241,7 +241,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: '::'
   PlayerInformation: {fileID: 7530658709007922272}
-  damage: 6
+  damage: 5
   isProjectile: 0
 --- !u!1 &3597003017374999316
 GameObject:
@@ -270,8 +270,8 @@ Transform:
   m_GameObject: {fileID: 3597003017374999316}
   serializedVersion: 2
   m_LocalRotation: {x: -0, y: -0, z: -0.70710635, w: 0.7071073}
-  m_LocalPosition: {x: 1.2876, y: 1.9746, z: 0}
-  m_LocalScale: {x: 1.318029, y: 0.83170193, z: 1}
+  m_LocalPosition: {x: 3.9273, y: 0.0227, z: 0}
+  m_LocalScale: {x: 1.8833317, y: 1.0044464, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 8063169130549866959}
@@ -712,8 +712,8 @@ Transform:
   m_GameObject: {fileID: 5600667106486224230}
   serializedVersion: 2
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 0, y: 1.02, z: 0}
-  m_LocalScale: {x: 0.5763892, y: 0.5763892, z: 0.5763892}
+  m_LocalPosition: {x: 0, y: 0.07, z: 0}
+  m_LocalScale: {x: 10.42, y: 10.42, z: 10.42}
   m_ConstrainProportionsScale: 1
   m_Children: []
   m_Father: {fileID: 8063169130549866959}
@@ -765,7 +765,7 @@ SpriteRenderer:
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 0
-  m_Sprite: {fileID: -898795542964510136, guid: a45bb3781d096e0438e040bff48e26a9, type: 3}
+  m_Sprite: {fileID: 5916260256234595132, guid: 494e35f413db5f24fb94ca0da99001f3, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
   m_FlipY: 0
@@ -786,7 +786,7 @@ Animator:
   m_GameObject: {fileID: 5600667106486224230}
   m_Enabled: 1
   m_Avatar: {fileID: 0}
-  m_Controller: {fileID: 22100000, guid: 2b0399d898c0c81468de28f99c890fca, type: 2}
+  m_Controller: {fileID: 22100000, guid: 6df2dc28a06987d438c5c110dc2c23c2, type: 2}
   m_CullingMode: 0
   m_UpdateMode: 0
   m_ApplyRootMotion: 0
@@ -857,8 +857,8 @@ Transform:
   m_GameObject: {fileID: 6061848330139690204}
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 1.7622, y: 2.019, z: 0}
-  m_LocalScale: {x: 1.7539445, y: 1.9635868, z: 1}
+  m_LocalPosition: {x: 2.0213, y: 0.01, z: 0}
+  m_LocalScale: {x: 6.1112685, y: 1.9635868, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 2454526671568141181}
@@ -909,7 +909,7 @@ SpriteRenderer:
   m_GlobalIlluminationMeshLod: 0
   m_SortingLayerID: 0
   m_SortingLayer: 0
-  m_SortingOrder: 1
+  m_SortingOrder: -1
   m_Sprite: {fileID: 7482667652216324306, guid: 311925a002f4447b3a28927169b83ea6, type: 3}
   m_Color: {r: 1, g: 0, b: 0, a: 1}
   m_FlipX: 0
@@ -1129,7 +1129,7 @@ Transform:
   m_GameObject: {fileID: 7963431252727144005}
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 0.67, y: 1.92, z: 0}
+  m_LocalPosition: {x: -0.28, y: 1.51, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children:
@@ -1246,7 +1246,7 @@ GameObject:
   - component: {fileID: -5554042569276838182}
   - component: {fileID: 703698113556392816}
   m_Layer: 3
-  m_Name: Milton the mouse
+  m_Name: Car
   m_TagString: Player
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -1310,7 +1310,7 @@ BoxCollider2D:
   m_UsedByEffector: 0
   m_CompositeOperation: 0
   m_CompositeOrder: 0
-  m_Offset: {x: 0.22654516, y: 0.90170777}
+  m_Offset: {x: -1.3830667, y: 1.1236696}
   m_SpriteTilingProperty:
     border: {x: 0, y: 0, z: 0, w: 0}
     pivot: {x: 0.5, y: 0.5}
@@ -1320,7 +1320,7 @@ BoxCollider2D:
     drawMode: 0
     adaptiveTiling: 0
   m_AutoTiling: 0
-  m_Size: {x: 2.2505603, y: 3.8034155}
+  m_Size: {x: 6.349181, y: 3.7448268}
   m_EdgeRadius: 0
 --- !u!114 &5080136681916580329
 MonoBehaviour:
@@ -1492,16 +1492,16 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: '::'
   thisPlayer: 0
-  characterName: Milton The Mouse
-  windUp: 0.2
-  Hurt: 0.7
-  cooldown: 0.14
+  characterName: Drive Car
+  windUp: 0.7
+  Hurt: 0.3
+  cooldown: 0.5
   attacking: 0
-  maxSpeed: 5
-  acceleration: 2
-  deacceleration: 2
+  maxSpeed: 6
+  acceleration: 4
+  deacceleration: 4
   canMove: 0
-  maxHealth: 15
+  maxHealth: 9
   health: 0
   knockback: 2
   knockbackDeacceleration: 0.2
@@ -1514,9 +1514,9 @@ MonoBehaviour:
   blockCooldown: 0.5
   stunnedTime: 1.5
   stunned: 0
-  specialWindUp: 1.2
-  specialHurt: 0.5
-  specialCooldown: 2.2
+  specialWindUp: 0.7
+  specialHurt: 0.4
+  specialCooldown: 1.1
   projectileDelay: 0
   inSpecial: 0
   animator: {fileID: 8386145755668646343}

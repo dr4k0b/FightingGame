@@ -100,7 +100,7 @@ TextureImporter:
   maxTextureSize: 2048
   textureSettings:
     serializedVersion: 2
-    filterMode: 1
+    filterMode: 0
     aniso: 1
     mipBias: 0
     wrapU: 1
@@ -135,8 +135,8 @@ TextureImporter:
   platformSettings:
   - serializedVersion: 4
     buildTarget: DefaultTexturePlatform
-    maxTextureSize: 2048
-    resizeAlgorithm: 0
+    maxTextureSize: 8192
+    resizeAlgorithm: 1
     textureFormat: -1
     textureCompression: 1
     compressionQuality: 50
@@ -179,12 +179,12 @@ TextureImporter:
       name: DriveHard_Basicattack_0
       rect:
         serializedVersion: 2
-        x: 14
-        y: 158
-        width: 61
-        height: 21
+        x: 0
+        y: 144
+        width: 96
+        height: 48
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -201,12 +201,12 @@ TextureImporter:
       name: DriveHard_Basicattack_1
       rect:
         serializedVersion: 2
-        x: 119
-        y: 158
-        width: 54
-        height: 21
+        x: 96
+        y: 144
+        width: 96
+        height: 48
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -223,12 +223,12 @@ TextureImporter:
       name: DriveHard_Basicattack_2
       rect:
         serializedVersion: 2
-        x: 232
-        y: 158
-        width: 41
-        height: 21
+        x: 192
+        y: 144
+        width: 96
+        height: 48
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -245,12 +245,12 @@ TextureImporter:
       name: DriveHard_Basicattack_3
       rect:
         serializedVersion: 2
-        x: 336
-        y: 158
-        width: 35
-        height: 20
+        x: 288
+        y: 144
+        width: 96
+        height: 48
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -267,12 +267,12 @@ TextureImporter:
       name: DriveHard_Basicattack_4
       rect:
         serializedVersion: 2
-        x: 435
-        y: 157
-        width: 30
-        height: 22
+        x: 384
+        y: 144
+        width: 96
+        height: 48
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -289,12 +289,12 @@ TextureImporter:
       name: DriveHard_Basicattack_5
       rect:
         serializedVersion: 2
-        x: 54
-        y: 109
-        width: 29
-        height: 21
+        x: 0
+        y: 96
+        width: 96
+        height: 48
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -311,12 +311,12 @@ TextureImporter:
       name: DriveHard_Basicattack_6
       rect:
         serializedVersion: 2
-        x: 151
-        y: 110
-        width: 32
-        height: 20
+        x: 96
+        y: 96
+        width: 96
+        height: 48
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -333,12 +333,12 @@ TextureImporter:
       name: DriveHard_Basicattack_7
       rect:
         serializedVersion: 2
-        x: 183
-        y: 114
-        width: 6
-        height: 6
+        x: 192
+        y: 96
+        width: 96
+        height: 48
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -355,12 +355,12 @@ TextureImporter:
       name: DriveHard_Basicattack_8
       rect:
         serializedVersion: 2
-        x: 183
-        y: 111
-        width: 9
-        height: 7
+        x: 288
+        y: 96
+        width: 96
+        height: 48
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -377,12 +377,12 @@ TextureImporter:
       name: DriveHard_Basicattack_9
       rect:
         serializedVersion: 2
-        x: 248
-        y: 106
-        width: 40
-        height: 25
+        x: 384
+        y: 96
+        width: 96
+        height: 48
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -399,12 +399,12 @@ TextureImporter:
       name: DriveHard_Basicattack_10
       rect:
         serializedVersion: 2
-        x: 343
-        y: 110
-        width: 33
-        height: 20
+        x: 0
+        y: 48
+        width: 96
+        height: 48
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -421,12 +421,12 @@ TextureImporter:
       name: DriveHard_Basicattack_11
       rect:
         serializedVersion: 2
-        x: 439
-        y: 110
-        width: 41
-        height: 21
+        x: 96
+        y: 48
+        width: 96
+        height: 48
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -443,12 +443,12 @@ TextureImporter:
       name: DriveHard_Basicattack_12
       rect:
         serializedVersion: 2
-        x: 182
-        y: 107
-        width: 6
-        height: 6
+        x: 192
+        y: 48
+        width: 96
+        height: 48
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -465,12 +465,12 @@ TextureImporter:
       name: DriveHard_Basicattack_13
       rect:
         serializedVersion: 2
-        x: 55
-        y: 62
-        width: 42
-        height: 20
+        x: 288
+        y: 48
+        width: 96
+        height: 48
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -487,12 +487,12 @@ TextureImporter:
       name: DriveHard_Basicattack_14
       rect:
         serializedVersion: 2
-        x: 121
-        y: 62
-        width: 60
-        height: 21
+        x: 384
+        y: 48
+        width: 96
+        height: 48
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -509,12 +509,12 @@ TextureImporter:
       name: DriveHard_Basicattack_15
       rect:
         serializedVersion: 2
-        x: 204
-        y: 62
-        width: 62
-        height: 20
+        x: 0
+        y: 0
+        width: 96
+        height: 48
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -531,12 +531,12 @@ TextureImporter:
       name: DriveHard_Basicattack_16
       rect:
         serializedVersion: 2
-        x: 297
-        y: 62
-        width: 62
-        height: 21
+        x: 96
+        y: 0
+        width: 96
+        height: 48
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -553,12 +553,12 @@ TextureImporter:
       name: DriveHard_Basicattack_17
       rect:
         serializedVersion: 2
-        x: 393
-        y: 62
-        width: 62
-        height: 20
+        x: 192
+        y: 0
+        width: 96
+        height: 48
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -575,12 +575,12 @@ TextureImporter:
       name: DriveHard_Basicattack_18
       rect:
         serializedVersion: 2
-        x: 9
-        y: 14
-        width: 62
-        height: 21
+        x: 288
+        y: 0
+        width: 96
+        height: 48
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -593,77 +593,11 @@ TextureImporter:
       indices: 
       edges: []
       weights: []
-    - serializedVersion: 2
-      name: DriveHard_Basicattack_19
-      rect:
-        serializedVersion: 2
-        x: 105
-        y: 14
-        width: 62
-        height: 20
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 5b73ac340bd5ea7d0800000000000000
-      internalID: -2905281697974437963
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: DriveHard_Basicattack_20
-      rect:
-        serializedVersion: 2
-        x: 201
-        y: 14
-        width: 62
-        height: 21
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 218f877820b2e56f0800000000000000
-      internalID: -694070002705696750
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: DriveHard_Basicattack_21
-      rect:
-        serializedVersion: 2
-        x: 297
-        y: 14
-        width: 62
-        height: 20
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: c819382af1bbe6080800000000000000
-      internalID: -9192204044871691892
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     outline: []
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 
+    spriteID: dff0d326de9f5a342979e1431b9b1d1e
     internalID: 0
     vertices: []
     indices: 
@@ -671,7 +605,9 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     spriteCustomMetadata:
-      entries: []
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":1.0,"y":1.0},"gridSpriteSize":{"x":96.0,"y":48.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":1,"keepEmptyRects":false,"isAlternate":false}'
     nameFileIdTable:
       DriveHard_Basicattack_0: -7191196658265299938
       DriveHard_Basicattack_1: 1233324452247551319
@@ -684,10 +620,7 @@ TextureImporter:
       DriveHard_Basicattack_16: 1347690957141474754
       DriveHard_Basicattack_17: -8427971819433882469
       DriveHard_Basicattack_18: 5670766377855753777
-      DriveHard_Basicattack_19: -2905281697974437963
       DriveHard_Basicattack_2: -2218721110899589015
-      DriveHard_Basicattack_20: -694070002705696750
-      DriveHard_Basicattack_21: -9192204044871691892
       DriveHard_Basicattack_3: 1999684190910121570
       DriveHard_Basicattack_4: -5287748666199872736
       DriveHard_Basicattack_5: 1133061264405518407

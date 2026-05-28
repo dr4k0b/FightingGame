@@ -107,8 +107,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: '::'
   speed: 8
   distance: 7
+  DeathTime: 0
   p: {fileID: 0}
   hurt: {fileID: 7291527071747044098}
+  ani: {fileID: 0}
 --- !u!50 &1313160085934109307
 Rigidbody2D:
   serializedVersion: 5
@@ -182,7 +184,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Hurt
   PlayerInformation: {fileID: 0}
-  damage: 3
+  damage: 4
   isProjectile: 1
 --- !u!61 &2972992364511923821
 BoxCollider2D:

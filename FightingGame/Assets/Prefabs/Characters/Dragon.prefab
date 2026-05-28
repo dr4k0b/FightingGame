@@ -748,7 +748,7 @@ SpriteRenderer:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 6061848330139690204}
-  m_Enabled: 1
+  m_Enabled: 0
   m_CastShadows: 0
   m_ReceiveShadows: 0
   m_DynamicOccludee: 1
@@ -858,7 +858,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: '::'
   PlayerInformation: {fileID: 7530658709007922272}
-  damage: 3
+  damage: 5
   isProjectile: 0
 --- !u!1 &6153047884873650298
 GameObject:
@@ -1396,7 +1396,7 @@ MonoBehaviour:
   acceleration: 2
   deacceleration: 2
   canMove: 0
-  maxHealth: 22
+  maxHealth: 20
   health: 0
   knockback: 2
   knockbackDeacceleration: 0.2
