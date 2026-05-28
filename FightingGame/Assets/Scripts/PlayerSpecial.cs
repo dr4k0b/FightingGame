@@ -23,6 +23,8 @@ public class PlayerSpecial : MonoBehaviour
         p = GetComponent<PlayerInformation>();
         am = GetComponent<AudioManager>();
         g = FindFirstObjectByType<GlobalInformation>();
+        if (isMelee)
+            weapon.transform.localPosition = Vector3.down * 1000;
     }
 
     private void Update()

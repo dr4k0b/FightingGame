@@ -1,5 +1,6 @@
 using UnityEngine;
 using UnityEngine.InputSystem;
+using System.Collections;
 using static PlayerInformation;
 public class PlayerMovement : MonoBehaviour
 {
@@ -13,8 +14,16 @@ public class PlayerMovement : MonoBehaviour
     {
         rb = GetComponent<Rigidbody2D>();
         p = GetComponent<PlayerInformation>();
+        StartCoroutine(moveDelay());
+    }
+
+    IEnumerator moveDelay()
+    {
+        yield return new WaitForSeconds(2);
         p.canMove = true;
     }
+
+
     void FixedUpdate()
     {
         p.animator.SetFloat("Velocity", moveSpeed * (p.thisPlayer == Player.Player1 ? 1 : -1));
