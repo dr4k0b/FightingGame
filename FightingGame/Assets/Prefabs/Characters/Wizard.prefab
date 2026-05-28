@@ -27,7 +27,7 @@ Transform:
   m_GameObject: {fileID: 824932300242230259}
   serializedVersion: 2
   m_LocalRotation: {x: -0, y: -0, z: -0.70710635, w: 0.7071073}
-  m_LocalPosition: {x: 1.53, y: 1.04, z: 0}
+  m_LocalPosition: {x: -0.36, y: 7.77, z: 0}
   m_LocalScale: {x: 1.7305065, y: 1.0406551, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -288,7 +288,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: '::'
   PlayerInformation: {fileID: 7530658709007922272}
-  damage: 4
+  damage: 3
   isProjectile: 0
 --- !u!1 &3597003017374999316
 GameObject:
@@ -1176,7 +1176,7 @@ Transform:
   m_GameObject: {fileID: 7963431252727144005}
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 0.9, y: 1.94, z: 0}
+  m_LocalPosition: {x: 0.56, y: 1.27, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children:
@@ -1357,7 +1357,7 @@ BoxCollider2D:
   m_UsedByEffector: 0
   m_CompositeOperation: 0
   m_CompositeOrder: 0
-  m_Offset: {x: 0.22654516, y: 0.90170777}
+  m_Offset: {x: 0.012616336, y: 0.90170777}
   m_SpriteTilingProperty:
     border: {x: 0, y: 0, z: 0, w: 0}
     pivot: {x: 0.5, y: 0.5}
@@ -1367,7 +1367,7 @@ BoxCollider2D:
     drawMode: 0
     adaptiveTiling: 0
   m_AutoTiling: 0
-  m_Size: {x: 2.2505603, y: 3.8034155}
+  m_Size: {x: 3.2203736, y: 3.8034155}
   m_EdgeRadius: 0
 --- !u!114 &5080136681916580329
 MonoBehaviour:
@@ -1544,7 +1544,7 @@ MonoBehaviour:
   Hurt: 0.3
   cooldown: 0.2
   attacking: 0
-  maxSpeed: 5
+  maxSpeed: 3
   acceleration: 2
   deacceleration: 2
   canMove: 0
@@ -1561,8 +1561,8 @@ MonoBehaviour:
   blockCooldown: 0.5
   stunnedTime: 1.5
   stunned: 0
-  specialWindUp: 1
-  specialHurt: 0.3
+  specialWindUp: 1.7
+  specialHurt: 1.4
   specialCooldown: 0.6
   projectileDelay: 0
   inSpecial: 0
@@ -1633,7 +1633,7 @@ MonoBehaviour:
     loop: 0
     source: {fileID: 0}
   - name: Attack
-    clip: {fileID: 8300000, guid: 3a3c8cfe263895e41863e78d26fae0c3, type: 3}
+    clip: {fileID: 8300000, guid: 632d25062c5a9ab42a9e889d5bc183fa, type: 3}
     volume: 1
     loop: 0
     source: {fileID: 0}
