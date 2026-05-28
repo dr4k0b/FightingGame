@@ -12,7 +12,7 @@ public class DeathSound : MonoBehaviour
     }
     void Update()
     {
-        if (g.gameObject && !played)
+        if (g.gameOver && !played)
         {
             played = true;
             am.Stop("Musik");

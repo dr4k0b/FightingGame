@@ -1244,6 +1244,7 @@ GameObject:
   - component: {fileID: -6290266658389532728}
   - component: {fileID: 7952818489501854706}
   - component: {fileID: -5554042569276838182}
+  - component: {fileID: 801858222433681373}
   m_Layer: 3
   m_Name: Tonkel
   m_TagString: Player
@@ -1566,6 +1567,44 @@ MonoBehaviour:
   projectile: {fileID: 0}
   isRanged: 0
   am: {fileID: 0}
+--- !u!114 &801858222433681373
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8144418025246382057}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9d0c41950b938f54ebd266b19a35d4c2, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::AudioManager
+  sounds:
+  - name: Walk
+    clip: {fileID: 0}
+    volume: 1
+    loop: 0
+    source: {fileID: 0}
+  - name: Attack
+    clip: {fileID: 0}
+    volume: 1
+    loop: 0
+    source: {fileID: 0}
+  - name: Special
+    clip: {fileID: 0}
+    volume: 1
+    loop: 0
+    source: {fileID: 0}
+  - name: Hurt
+    clip: {fileID: 0}
+    volume: 1
+    loop: 0
+    source: {fileID: 0}
+  - name: Death
+    clip: {fileID: 0}
+    volume: 1
+    loop: 0
+    source: {fileID: 0}
 --- !u!1 &9131997053224466227
 GameObject:
   m_ObjectHideFlags: 0

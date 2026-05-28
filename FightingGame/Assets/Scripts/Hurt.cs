@@ -6,6 +6,8 @@ public class Hurt : MonoBehaviour
     public PlayerInformation PlayerInformation;
     public float damage;
     public bool isProjectile;
+
+    bool canHurt;
     void Start()
     {
     }
@@ -19,7 +21,6 @@ public class Hurt : MonoBehaviour
         {
             return;
         }
-        Debug.Log("funkar");
 
         PlayerInformation hit;
 
@@ -39,11 +40,15 @@ public class Hurt : MonoBehaviour
 
         if (!hit.GetComponent<PlayerInformation>().isParrying)
         {
-            hit.GetComponent<PlayerHealth>().TakeDamage(damage);
-         
+            if (!canHurt)
+                hit.GetComponent<PlayerHealth>().TakeDamage(damage);
+
             if (isProjectile)
             {
-                Destroy(gameObject.transform.parent.gameObject);
+                StartCoroutine(GetComponentInParent<Projectile>().DestroyDelay());
+
+                canHurt = true;
+                return;
             }
         }
         else
