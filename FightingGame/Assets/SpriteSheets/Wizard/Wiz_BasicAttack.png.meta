@@ -1,0 +1,592 @@
+fileFormatVersion: 2
+guid: ed2dab56212c4c848b8a734712b83991
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1059559615357531626
+    second: Wiz_BasicAttack_0
+  - first:
+      213: -1073690829410070907
+    second: Wiz_BasicAttack_1
+  - first:
+      213: -4044056778449067024
+    second: Wiz_BasicAttack_2
+  - first:
+      213: 7054355848427256053
+    second: Wiz_BasicAttack_3
+  - first:
+      213: -7307088773008608103
+    second: Wiz_BasicAttack_4
+  - first:
+      213: -6133841255315275391
+    second: Wiz_BasicAttack_5
+  - first:
+      213: -388334514727921312
+    second: Wiz_BasicAttack_6
+  - first:
+      213: 7636827898281415405
+    second: Wiz_BasicAttack_7
+  - first:
+      213: -3450057548347349986
+    second: Wiz_BasicAttack_8
+  - first:
+      213: -1466283600454083825
+    second: Wiz_BasicAttack_9
+  - first:
+      213: -6190226124867463631
+    second: Wiz_BasicAttack_10
+  - first:
+      213: -8924660386768114041
+    second: Wiz_BasicAttack_11
+  - first:
+      213: 4054913652599468701
+    second: Wiz_BasicAttack_12
+  - first:
+      213: -8590091278488152992
+    second: Wiz_BasicAttack_13
+  - first:
+      213: 2924045722087009897
+    second: Wiz_BasicAttack_14
+  - first:
+      213: 8101011764370400191
+    second: Wiz_BasicAttack_15
+  - first:
+      213: -513410645047434184
+    second: Wiz_BasicAttack_16
+  - first:
+      213: 1520927201485820392
+    second: Wiz_BasicAttack_17
+  - first:
+      213: 2620200149269664510
+    second: Wiz_BasicAttack_18
+  - first:
+      213: -5180957310536129780
+    second: Wiz_BasicAttack_19
+  - first:
+      213: -6512638915980030750
+    second: Wiz_BasicAttack_20
+  - first:
+      213: -7467720538605438927
+    second: Wiz_BasicAttack_21
+  - first:
+      213: -8089739181139299142
+    second: Wiz_BasicAttack_22
+  - first:
+      213: -4886167415659230452
+    second: Wiz_BasicAttack_23
+  - first:
+      213: -7906957558719590061
+    second: Wiz_BasicAttack_24
+  - first:
+      213: 5051663700494611604
+    second: Wiz_BasicAttack_25
+  - first:
+      213: 7707185311755623531
+    second: Wiz_BasicAttack_26
+  - first:
+      213: -2160597692507519870
+    second: Wiz_BasicAttack_27
+  - first:
+      213: -2764240271738396027
+    second: Wiz_BasicAttack_28
+  - first:
+      213: 3006795684992307906
+    second: Wiz_BasicAttack_29
+  - first:
+      213: 1151535046832906890
+    second: Wiz_BasicAttack_30
+  - first:
+      213: 3769058918975502479
+    second: Wiz_BasicAttack_31
+  - first:
+      213: 725167065818149853
+    second: Wiz_BasicAttack_32
+  - first:
+      213: 360795389055607909
+    second: Wiz_BasicAttack_33
+  - first:
+      213: -5017951578217688711
+    second: Wiz_BasicAttack_34
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 8192
+    resizeAlgorithm: 1
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Wiz_BasicAttack_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 144
+        width: 80
+        height: 48
+      alignment: 9
+      pivot: {x: 0.4, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61ac344c420bb41f0800000000000000
+      internalID: -1059559615357531626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wiz_BasicAttack_1
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 144
+        width: 80
+        height: 48
+      alignment: 9
+      pivot: {x: 0.4, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58e0b6a11eb7911f0800000000000000
+      internalID: -1073690829410070907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wiz_BasicAttack_2
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 144
+        width: 80
+        height: 48
+      alignment: 9
+      pivot: {x: 0.4, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f3680d49cf90e7c0800000000000000
+      internalID: -4044056778449067024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wiz_BasicAttack_3
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 144
+        width: 80
+        height: 48
+      alignment: 9
+      pivot: {x: 0.4, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f8b4b0c44b16e160800000000000000
+      internalID: 7054355848427256053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wiz_BasicAttack_4
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 144
+        width: 80
+        height: 48
+      alignment: 9
+      pivot: {x: 0.4, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 994b39eb971089a90800000000000000
+      internalID: -7307088773008608103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wiz_BasicAttack_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 96
+        width: 80
+        height: 48
+      alignment: 9
+      pivot: {x: 0.4, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1810c4470e730eaa0800000000000000
+      internalID: -6133841255315275391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wiz_BasicAttack_6
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 96
+        width: 80
+        height: 48
+      alignment: 9
+      pivot: {x: 0.4, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0695e9bf0db5c9af0800000000000000
+      internalID: -388334514727921312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wiz_BasicAttack_7
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 96
+        width: 80
+        height: 48
+      alignment: 9
+      pivot: {x: 0.4, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de25bd703867bf960800000000000000
+      internalID: 7636827898281415405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wiz_BasicAttack_8
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 96
+        width: 80
+        height: 48
+      alignment: 9
+      pivot: {x: 0.4, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e14e91060feee10d0800000000000000
+      internalID: -3450057548347349986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wiz_BasicAttack_9
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 96
+        width: 80
+        height: 48
+      alignment: 9
+      pivot: {x: 0.4, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0b14f685d6b6abe0800000000000000
+      internalID: -1466283600454083825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wiz_BasicAttack_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 48
+        width: 80
+        height: 48
+      alignment: 9
+      pivot: {x: 0.4, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1369eebf226e71aa0800000000000000
+      internalID: -6190226124867463631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wiz_BasicAttack_11
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 48
+        width: 80
+        height: 48
+      alignment: 9
+      pivot: {x: 0.4, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78eafa1c9ac352480800000000000000
+      internalID: -8924660386768114041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wiz_BasicAttack_12
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 48
+        width: 80
+        height: 48
+      alignment: 9
+      pivot: {x: 0.4, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d92b212bb72f54830800000000000000
+      internalID: 4054913652599468701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wiz_BasicAttack_13
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 48
+        width: 80
+        height: 48
+      alignment: 9
+      pivot: {x: 0.4, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06458859e7dd9c880800000000000000
+      internalID: -8590091278488152992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wiz_BasicAttack_14
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 48
+        width: 80
+        height: 48
+      alignment: 9
+      pivot: {x: 0.4, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96e2ffb871c449820800000000000000
+      internalID: 2924045722087009897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wiz_BasicAttack_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 80
+        height: 48
+      alignment: 9
+      pivot: {x: 0.4, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb3ee8857439c6070800000000000000
+      internalID: 8101011764370400191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 7a1f0b3cd4977484e991e31ebb962d7b
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":1.0,"y":1.0},"gridSpriteSize":{"x":80.0,"y":48.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.4000000059604645,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":9,"pivotUnitMode":0,"slicingType":1,"keepEmptyRects":false,"isAlternate":false}'
+    nameFileIdTable:
+      Wiz_BasicAttack_0: -1059559615357531626
+      Wiz_BasicAttack_1: -1073690829410070907
+      Wiz_BasicAttack_10: -6190226124867463631
+      Wiz_BasicAttack_11: -8924660386768114041
+      Wiz_BasicAttack_12: 4054913652599468701
+      Wiz_BasicAttack_13: -8590091278488152992
+      Wiz_BasicAttack_14: 2924045722087009897
+      Wiz_BasicAttack_15: 8101011764370400191
+      Wiz_BasicAttack_2: -4044056778449067024
+      Wiz_BasicAttack_3: 7054355848427256053
+      Wiz_BasicAttack_4: -7307088773008608103
+      Wiz_BasicAttack_5: -6133841255315275391
+      Wiz_BasicAttack_6: -388334514727921312
+      Wiz_BasicAttack_7: 7636827898281415405
+      Wiz_BasicAttack_8: -3450057548347349986
+      Wiz_BasicAttack_9: -1466283600454083825
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
