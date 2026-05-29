@@ -17,7 +17,7 @@ public class PlayerBlocking : MonoBehaviour
     }
     public void Block()
     {
-        if (p.canMove)
+        if (!p.block && !p.stunned && !p.attacking && !p.inSpecial)
         {
             StartCoroutine(BlockDelay());
         }

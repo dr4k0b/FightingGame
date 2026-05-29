@@ -22,7 +22,7 @@ public class PlayerAttack : MonoBehaviour
     }
     public void Attack()
     {
-        if (p.canMove)
+        if (!p.attacking && !p.stunned && !p.inSpecial && !p.block)
         {
             StartCoroutine(AttackDelay());
         }

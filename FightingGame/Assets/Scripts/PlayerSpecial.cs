@@ -48,7 +48,7 @@ public class PlayerSpecial : MonoBehaviour
     }
     public void Special()
     {
-        if (p.canMove)
+        if (!p.attacking && !p.stunned && !p.inSpecial && !p.block)
         {
             StartCoroutine(SpecialMelee());
             if (isRanged)
