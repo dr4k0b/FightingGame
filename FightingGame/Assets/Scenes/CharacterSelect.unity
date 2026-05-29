@@ -590,6 +590,7 @@ RectTransform:
   - {fileID: 248949845}
   - {fileID: 993722539}
   - {fileID: 1533192710}
+  - {fileID: 1473749062}
   m_Father: {fileID: 2054662560}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
@@ -879,6 +880,81 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 438355797}
   m_CullTransparentMesh: 1
+--- !u!1 &627275254
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 627275255}
+  - component: {fileID: 627275256}
+  - component: {fileID: 627275257}
+  m_Layer: 5
+  m_Name: Wizard Dude
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!224 &627275255
+RectTransform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 627275254}
+  m_LocalRotation: {x: -0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 10.45359, y: 10.453589, z: 10.453589}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 906978496}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+  m_AnchorMin: {x: 0.5, y: 0.5}
+  m_AnchorMax: {x: 0.5, y: 0.5}
+  m_AnchoredPosition: {x: 0, y: -30}
+  m_SizeDelta: {x: 64, y: 48}
+  m_Pivot: {x: 0.5, y: 0.5}
+--- !u!222 &627275256
+CanvasRenderer:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 627275254}
+  m_CullTransparentMesh: 1
+--- !u!114 &627275257
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 627275254}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fe87c0e1cc204ed48ad3b37840f39efc, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: UnityEngine.UI::UnityEngine.UI.Image
+  m_Material: {fileID: 0}
+  m_Color: {r: 1, g: 1, b: 1, a: 1}
+  m_RaycastTarget: 1
+  m_RaycastPadding: {x: 0, y: 0, z: 0, w: 0}
+  m_Maskable: 1
+  m_OnCullStateChanged:
+    m_PersistentCalls:
+      m_Calls: []
+  m_Sprite: {fileID: -7370182630286974675, guid: 1c71854d7dffd244c938b3ce2246eea0, type: 3}
+  m_Type: 0
+  m_PreserveAspect: 0
+  m_FillCenter: 1
+  m_FillMethod: 4
+  m_FillAmount: 1
+  m_FillClockwise: 1
+  m_FillOrigin: 0
+  m_UseSpriteMesh: 0
+  m_PixelsPerUnitMultiplier: 1
 --- !u!1 &760929463
 GameObject:
   m_ObjectHideFlags: 0
@@ -919,6 +995,7 @@ MonoBehaviour:
   - {fileID: 248949847}
   - {fileID: 993722541}
   - {fileID: 1533192712}
+  - {fileID: 1473749064}
   p2Preview:
   - {fileID: 438355799}
   - {fileID: 372990805}
@@ -926,6 +1003,7 @@ MonoBehaviour:
   - {fileID: 1202298004}
   - {fileID: 1301815778}
   - {fileID: 26183948}
+  - {fileID: 627275257}
   p1Text: {fileID: 2143849679}
   p2Text: {fileID: 1701955}
   p1Ready: {fileID: 68832358}
@@ -939,6 +1017,7 @@ MonoBehaviour:
   - {fileID: 8144418025246382057, guid: fbbcc73598f84674d8ad1e17ae23e267, type: 3}
   - {fileID: 8144418025246382057, guid: 4631f812a88e50e43baec73e2b986140, type: 3}
   - {fileID: 8144418025246382057, guid: 3e52db327ee3d2946a3d31ad5d33eb17, type: 3}
+  - {fileID: 8144418025246382057, guid: 68b764776787a78489c101a68ddb434c, type: 3}
 --- !u!114 &760929465
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -1206,6 +1285,7 @@ RectTransform:
   - {fileID: 1202298003}
   - {fileID: 1301815777}
   - {fileID: 26183946}
+  - {fileID: 627275255}
   m_Father: {fileID: 2054662560}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
@@ -1803,6 +1883,81 @@ MonoBehaviour:
     m_PersistentCalls:
       m_Calls: []
   m_Sprite: {fileID: 5096394764526769556, guid: bc4043070dc57ee43bf97ce3a81d00e8, type: 3}
+  m_Type: 0
+  m_PreserveAspect: 0
+  m_FillCenter: 1
+  m_FillMethod: 4
+  m_FillAmount: 1
+  m_FillClockwise: 1
+  m_FillOrigin: 0
+  m_UseSpriteMesh: 0
+  m_PixelsPerUnitMultiplier: 1
+--- !u!1 &1473749061
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1473749062}
+  - component: {fileID: 1473749063}
+  - component: {fileID: 1473749064}
+  m_Layer: 5
+  m_Name: Wizard Dude
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!224 &1473749062
+RectTransform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1473749061}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 10.453594, y: 10.453594, z: 10.453594}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 335364251}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+  m_AnchorMin: {x: 0.5, y: 0.5}
+  m_AnchorMax: {x: 0.5, y: 0.5}
+  m_AnchoredPosition: {x: 0, y: -30}
+  m_SizeDelta: {x: 64, y: 48}
+  m_Pivot: {x: 0.5, y: 0.5}
+--- !u!222 &1473749063
+CanvasRenderer:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1473749061}
+  m_CullTransparentMesh: 1
+--- !u!114 &1473749064
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1473749061}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fe87c0e1cc204ed48ad3b37840f39efc, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: UnityEngine.UI::UnityEngine.UI.Image
+  m_Material: {fileID: 0}
+  m_Color: {r: 1, g: 1, b: 1, a: 1}
+  m_RaycastTarget: 1
+  m_RaycastPadding: {x: 0, y: 0, z: 0, w: 0}
+  m_Maskable: 1
+  m_OnCullStateChanged:
+    m_PersistentCalls:
+      m_Calls: []
+  m_Sprite: {fileID: -7370182630286974675, guid: 1c71854d7dffd244c938b3ce2246eea0, type: 3}
   m_Type: 0
   m_PreserveAspect: 0
   m_FillCenter: 1
