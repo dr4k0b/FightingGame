@@ -1454,7 +1454,7 @@ MonoBehaviour:
   blockWindUp: 0.05
   blocking: 0.2
   blockCooldown: 0.5
-  stunnedTime: 1
+  stunnedTime: 1.5
   stunned: 0
   specialWindUp: 1
   specialHurt: 0
